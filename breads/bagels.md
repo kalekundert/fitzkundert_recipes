@@ -1,15 +1,14 @@
 Bagels
-=====
+======
 
-
-Starter
-=======
+Ingredients
+-----------
+Starter:
 - 241 g bread flour
 - 227 mL water (94.2% hydration)
 - a pinch of instant yeast
 
-Dough
-=====
+Dough:
 - All of the starter
 - 298 g bread flour
 - 1½ tsp instant yeast
@@ -17,20 +16,18 @@ Dough
 - 1 tbsp malted milk powder
 - 113 mL water (63.1% hydration)
 
-Optional ingredients
-====================
+Flavorings:
 - 1 cup fruits or nuts (optional)
 - 4 egg yolks (and only add 57 mL water to the dough because each yolk has 
   about 14 mL water)
 
-Water Bath
-==========
+Water Bath:
 - 8 cups water
 - 2 tbsp malted milk powder
 - 1 tbsp white sugar
 
-Recipe
-======
+Directions
+----------
 1. Prepare the starter in a stand mixer bowl, then cover and let grow overnight 
    at room temperature.
 
@@ -70,12 +67,12 @@ Recipe
     them stay round.
 
 Notes
-=====
+-----
 - Overproofing the bagels (i.e. 1h15 instead of 45 min) causes them to be 
   flatter.
 
 Questions
-=========
+---------
 - How should I rest and shape the dough after the first rise?  The recipes I've 
   read disagree about how to do this.  The options are:
 
@@ -147,7 +144,7 @@ Questions
   Perhaps next time I'll try switching the racks every 5 min.
 
 References
-==========
+----------
 - http://www.kingarthurflour.com/recipes/chewy-bagels-recipe
 - http://www.kingarthurflour.com/recipes/bagels-recipe
 - http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/
