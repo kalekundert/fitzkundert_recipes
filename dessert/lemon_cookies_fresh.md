@@ -1,8 +1,8 @@
-Lemon Crinkle Cookies (2 ways!)
-===
+Fresh Lemon Crinkle Cookies
+===========================
 
-Version 1: Fresh Ingredients
-----------------------------
+Ingredients
+-----------
 - 240g all-purpose flour, sifted
 - ½ tsp baking soda
 - ¼ tsp salt
@@ -16,6 +16,7 @@ Version 1: Fresh Ingredients
 - 1 tsp lemon extract
 - approx 1 cup confectioner's sugar (for coating)
 
+Equipment:
 - Medium mixing bowl
 - Large mixing bowl
 - Small sauce pot
@@ -24,7 +25,8 @@ Version 1: Fresh Ingredients
 - Wooden spoon or whisk 
 - Stand mixer (optional)
 
-***Directions***
+Directions
+----------
 
 1. Mix together flour, baking soda, and salt. Set aside. 
 
@@ -52,35 +54,3 @@ Version 1: Fresh Ingredients
 
 13. Makes approx 25 cookies and the recipe doubles well! Store cookies in an air-tight container. 
 
-
-Version 2: I'm in a Hurry
--------------------------
-- 1 box of lemon cake mix (I like Duncan Hines Brand, but any brand is fine)
-- 1 egg
-- 1 8 oz tub of Cool Whip, thawed
-- 1 cup confectioner's sugar (for coating)
-
-- large mixing bowl
-- baking sheet
-- parchment paper
-- Wooden spoon or whisk 
-
-***Directions***
-
-1. Thaw Cool Whip (4 hours in the fridge, or overnight)
-
-2. Preheat oven to 350°F
-
-3. Mix together cake mix and egg. Then fold in Cool Whip. The mixture will be very fluffy. Just keep stirring until everything is combined! 
-
-4. Drop cookie dough by table spoon into confectioner's sugar and roll to coat. 
-
-5. Set sugar-coated dough on a parchment lined baking sheet, approx 1-2 squares apart. 
-
-6. Bake for 8-10 minutes or until edges are lightly brown and set, and the center is fluffy but not jiggly. 
-
-7. Allow the cookies to finish "setting" for 3-4 minutes on the baking sheet before transferring to a wire rack to cool completely. Keep the remaining cookie dough in the fridge until ready to roll the next batch. 
-
-8. Makes approx 35-40 cookies. Store cookies in an airtight container. Best if eaten within 2-3 days. 
-
-9. You may substitute any flavor of cake mix (strawberry or orange cake mix make fun summer cookie flavors, and vanilla cake mix is also very good with the cool whip!) 
