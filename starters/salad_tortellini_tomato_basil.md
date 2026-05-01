@@ -9,8 +9,8 @@ Ingredients
 -----------
 -  1 20 oz package of Buitoni three-cheese tortellini (usually in the dairy or deli section)
 -  1 cup chopped pepperoni
-- 1/3 cup chopped fresh basil
-- 1/2 cup cubed fresh mozzarella cheese (can substitute part-skim)
+- ⅓ cup chopped fresh basil
+- ½ cup cubed fresh mozzarella cheese (can substitute part-skim)
 - 1 cup caesar dressing 
 - 1 cup cherry tomatoes, halved
 

@@ -6,7 +6,7 @@ Ingredients
 - 1¼ cups milk (whole or 2%)
 - ⅔ cups sugar
 - 3 eggs
-- 1 tbsp vanilla extract
+- 1 Tbsp vanilla extract
 - ⅛ tsp salt
 - 1 cup flour
 - 1 pint blackberries or blueberries
@@ -40,14 +40,14 @@ A commenter says:
     2 TBS butter
     1 pound apricots, halved and pitted
     2 oz slivered almonds
-    2/3 cup sugar
+    ⅔ cup sugar
     Pinch of salt
     3 eggs
-    1/2 cup flour
-    1-1/4 cup milk
+    ½ cup flour
+    1-¼ cup milk
 
-    Preheat oven to 375F. Butter shallow baking dish. Arrange apricots, cut 
-    surface down in single layer. Add almonds. Whisk together 1/2 cup sugar, 
+    Preheat oven to 375°F. Butter shallow baking dish. Arrange apricots, cut 
+    surface down in single layer. Add almonds. Whisk together ½ cup sugar, 
     salt, eggs. Whisk in flour, add milk. Pour mixture over apricots. Sprinkle 
-    1/4 cup sugar over surface. Dot with butter. Bake for 40 minutes til 
+    ¼ cup sugar over surface. Dot with butter. Bake for 40 minutes til 
     golden.

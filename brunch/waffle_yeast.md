@@ -15,8 +15,8 @@ Batter, Dry:
 Batter, Wet:
 - 2 large eggs
 - 280 mL (1½ cups) milk
-- 6 tbsp (85 g) butter, melted
-- 40-60 g (2-3 tbsp) maple syrup, optional
+- 6 Tbsp (85 g) butter, melted
+- 40-60 g (2-3 Tbsp) maple syrup, optional
 - 1 tsp vanilla extract
 
 Recipe

@@ -9,14 +9,14 @@ Ingredients
 -----------
 
 -   1 cup (packed) brown sugar (dark or light is fine, I prefer light)
--   1/2 cup butter
+-   ½ cup butter
 -   2 Tbsp water
 -   29oz peaches sliced and drained (2-3 ripe if you are using fresh fruit. Fresh fruit is much better, in my opinion!)
 -   5 eggs
 -   1 Tbsp vanilla extract
--   1/4 cup milk
--   3/4 tsp ground cinnamon
--   Thick, crusty bread (French or Italian style loaves are good for this) cut into 3/4" slices.
+-   ¼ cup milk
+-   ¾ tsp ground cinnamon
+-   Thick, crusty bread (French or Italian style loaves are good for this) cut into ¾" slices.
 -   9" x 13" baking pan (or similar)
 -   Aluminum Foil
 -   Optional--powdered sugar (garnish)
@@ -29,7 +29,7 @@ Directions--the night before
 
 2.  If using fresh peaches, wash and slice thinly. If using canned peaches, drain and slice.
 
-3.  Slice bread into 3/4" think slices
+3.  Slice bread into ¾" think slices
 
 4.  In a separate bowl, whisk together eggs, milk, splash of cream (optional), vanilla and cinnamon.
 
@@ -46,7 +46,7 @@ Directions--the night before
 Directions--the following morning
 ---------------------------------
 
-1.  Preheat Oven to 350ºF
+1.  Preheat Oven to 350°F
 
 2.  Remove pan from the refrigerator and allow to come to room temp (approx. 20 to 30 minutes)
 

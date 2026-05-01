@@ -14,16 +14,16 @@ Salad
 - 1 can chickpeas, rinsed & drained
 - 10 ounce container cherry tomatoes, halved
 - 2-3 persian cucumbers, chopped (can sub 1 normal cucumber, cut into quarter circles)
-- 1/2 cup crumbled feta cheese
-- Optional, 2 tablespoons fresh parsley, chopped (o)
+- ½ cup crumbled feta cheese
+- Optional, 2 Tbsp fresh parsley, chopped (o)
 
 Dressing
 --------
-- 1/4 cup extra virgin olive oil
-- 1/2 lemon, juiced
+- ¼ cup extra virgin olive oil
+- ½ lemon, juiced
 - 2 Tbsp apple cider vinegar (can sub balsamic)
 - 1 tsp Dijon mustard
-- 1/2 teaspoon honey
+- ½ tsp honey
 - to taste, salt and pepper 
 
 

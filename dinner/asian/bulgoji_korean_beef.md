@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 -   1 scallions, thin slice, separate whites from greens
--   1/2 jasmine rice
+-   ½ jasmine rice
 -   5 Tbsp white wine vinegar
 -   1 cucumber, shaved into ribbons
 -   4 oz carrots, shredded
@@ -18,7 +18,7 @@ Ingredients
 -   4 oz bulgogi sauce (find at H-mart or your local asian food store)
 -   4 Tbsp sour cream
 -   1 tsp Siracha
--   1/2 tsp granulated sugar
+-   ½ tsp granulated sugar
 -   1 Tbsp butter
 -   vegetable oil
 -   salt/pepper to taste
@@ -26,7 +26,7 @@ Ingredients
 Directions
 ----------
 
-1.  In small pot, combine rice, 3/4 cup water, pinch of salt. Bring to a boil, then cover and reduce to simmer for 18 min. Keep covered and off heat. When ready to serve, fluff with fork. 
+1.  In small pot, combine rice, ¾ cup water, pinch of salt. Bring to a boil, then cover and reduce to simmer for 18 min. Keep covered and off heat. When ready to serve, fluff with fork. 
 
 2.  In mIn a medium bowl, combine half the vinegar, sugar, and a pinch of salt. Shave cucumber lengthwise into ribbons, rotating as you go, until you get to the core. Toss ribbons in bowl with vinegar mixture. Set aside, tossing occasionally, until ready to serve. Drain excess liquid before serving. 
 
@@ -39,4 +39,4 @@ Directions
 
 6.  In a small bowl, combine sour cream and sriracha to taste. Stir in water 1 tsp at a time until mixture reaches a drizzling consistency. Season with salt.
 
-7. When ready to serve, Fluff rice with a fork, stir in 1 TBSP butter and  divide between bowls. Arrange beef, carrots, and pickled cucumber on top. Garnish with crema, scallion greens, and remaining sesame seeds.
+7. When ready to serve, Fluff rice with a fork, stir in 1 Tbsp butter and  divide between bowls. Arrange beef, carrots, and pickled cucumber on top. Garnish with crema, scallion greens, and remaining sesame seeds.

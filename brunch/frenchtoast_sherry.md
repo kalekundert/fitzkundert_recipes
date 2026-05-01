@@ -6,11 +6,11 @@ Ingredients
 - 4 eggs
 - ½ cup of milk
 - ¼ cup of cream sherry
-- 3 tbsp brown sugar
+- 3 Tbsp brown sugar
 - 1 tsp ground nutmeg
 - 1 tsp vanilla extract
 - 12 slices day old French or Italian bread
-- 1 tbsp ground cinnamon
+- 1 Tbsp ground cinnamon
 
 Recipe
 ======

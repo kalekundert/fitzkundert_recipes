@@ -7,16 +7,16 @@ From = [The Kitchn](https://www.thekitchn.com/recipe-mediterranean-chickpea-and-
 Ingredients
 -----------
 - 1 (15-ounce) can garbanzo beans, drained and rinsed
-- 1/2 cup plain Greek yogurt
-- 1/4 cup crumbled feta cheese
+- ½ cup plain Greek yogurt
+- ¼ cup crumbled feta cheese
 - 2 Tbsp finely chopped fresh dill
 - 1 clove garlic, finely chopped
 - 1 tsp freshly squeezed lemon juice
-- 1/4 tsp fine salt
+- ¼ tsp fine salt
 - Freshly groud black pepper
 - 4 (9- to 10-inch) regular or whole-wheat tortillas
 - 1 cup loosely packed baby spinach leaves
-- 1/2 medium English cucumber, cut into 1/4-inch-wide sticks
+- ½ medium English cucumber, cut into ¼-inch-wide sticks
 - 1 cup roasted red peppers, thinly sliced
 
 Directions

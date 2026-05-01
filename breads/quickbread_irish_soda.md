@@ -8,8 +8,8 @@ Ingredients
 -----------
 
 - 3 cups AP flour, sifted
-- 1/2 tsp baking soda
-- 1/2 cup white sugar
+- ½ tsp baking soda
+- ½ cup white sugar
 - 1 cup raisins
 - 1 Tbsp baking powder
 - 1.5 cups buttermilk
@@ -20,7 +20,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 350F and grease a round 2 qt casserole
+1. Preheat oven to 350°F and grease a round 2 qt casserole
 
 2. In medium bowl, combine flour, sugar, baking powder, baking soda, and salt. Stir in raisins. With fork, blend in buttermilk and melted butter until even and moist. Dough should be a bit shaggy. 
 

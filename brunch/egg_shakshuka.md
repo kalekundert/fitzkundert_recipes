@@ -7,15 +7,15 @@ From: [The Kitchn](https://www.thekitchn.com/shakshuka-22925583)
 Ingredients
 -----------
 - 1 (28-ounce) can whole peeled tomatoes
-- 2 tablespoons olive oil
+- 2 Tbsp olive oil
 - 1 small yellow onion, finely chopped
-- 2 tablespoons tomato paste
-- 1 tablespoon harissa
+- 2 Tbsp tomato paste
+- 1 Tbsp harissa
 - 3 cloves garlic, minced
-- 1 teaspoon ground cumin
-- 1/2 teaspoon kosher salt
+- 1 tsp ground cumin
+- ½ tsp kosher salt
 - 6 large eggs
-- 1/4 cup loosely packed chopped fresh cilantro leaves and tender stems
+- ¼ cup loosely packed chopped fresh cilantro leaves and tender stems
 - 2 ounces feta cheese, crumbled
 - Optional: crusty bread or pita (for serving)
 

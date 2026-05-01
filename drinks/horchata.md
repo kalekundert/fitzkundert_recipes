@@ -5,9 +5,9 @@ Reagents:
   1 cup white rice
   5 cups water
   
-  1/2 cup milk
-  1/2 cup sugar
-  1/2 tbsp vanilla
+  ½ cup milk
+  ½ cup sugar
+  ½ Tbsp vanilla
   1 tsp ground cinnamon
 
 Procedure:

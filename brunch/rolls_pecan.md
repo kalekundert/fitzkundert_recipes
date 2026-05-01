@@ -8,8 +8,8 @@ Ingredients--Rolls
 ------------------
 
 -   16-18 frozen white bread rolls (Rhodes's rolls or similar)
--   1/2 cup unsalted butter
--   1/2 cup brown sugar
+-   ½ cup unsalted butter
+-   ½ cup brown sugar
 -   1 package of butterscotch pudding mix (regular, not instant. See notes below)
 -   pecans
 -   cinnamon
@@ -18,7 +18,7 @@ Ingredients--Rolls
 Ingredients-Butterscotch Pudding
 --------------------------------
 
--   1/4 cup brown sugar
+-   ¼ cup brown sugar
 -   1 Tbsp sugar
 -   2 Tbsp dried milk powder
 -   3 Tbsp cornstarch
@@ -40,7 +40,7 @@ Roll Directions--the night before
 Roll Directions--the next morning
 ---------------------------------
 
-6.  Preheat oven at 350F. Once oven is preheated, bake for 25 min.
+6.  Preheat oven at 350°F. Once oven is preheated, bake for 25 min.
 
 7.  Allow to cool for 3-4 min before carefully inverting onto a serving platter. Scrape out any toppings hiding in the pan onto the top of the rolls.
 

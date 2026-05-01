@@ -17,12 +17,12 @@ Ingredients
 -  1 Tbsp Dijon Mustard
 -  2 Tbsp AP flour
 -  1 tsp salt
--  1/2 tsp black pepper
--  1/2 tsp nutmeg
--  1/2 tsp paprika
+-  ½ tsp black pepper
+-  ½ tsp nutmeg
+-  ½ tsp paprika
 -  1 cup sharp cheddar cheese, grated
--  1/3 cup Emmentaler cheese, grated
--  1/4 cup Parmesan cheese, grated
+-  ⅓ cup Emmentaler cheese, grated
+-  ¼ cup Parmesan cheese, grated
 -  2-3 slices of bacon, cooked and diced (to garnish) (can substitute turkey bacon if desired)
 
 Equipment:

@@ -14,8 +14,8 @@ Ingredients
 - 1 lemon, quartered and de-seeded
 - 4 oz green peas
 - 9 oz pork sausage, remove casing
-- 3/4 cup Arborio rice
-- 1/4 cup Parmesan cheese, shredded
+- ¾ cup Arborio rice
+- ¼ cup Parmesan cheese, shredded
 - salt and pepper to taste
 - unsalted butter
 
@@ -31,7 +31,7 @@ Directions
 
 3. In a large skillet, saute shallot over medium heat until lightly browned, approx 3-4 min. Season with salt and pepper. 
 
-4. Add rice, 1 cup of boiling water, and corresponding amount of stock concentrate. Cook, stirring frequently, until liquid has mostly absorbed. Repeat with remaining water, adding it 1/2 cup at a time and stirring until liquid has absorbed and rice is al dente, approx 25-30 min. 
+4. Add rice, 1 cup of boiling water, and corresponding amount of stock concentrate. Cook, stirring frequently, until liquid has mostly absorbed. Repeat with remaining water, adding it ½ cup at a time and stirring until liquid has absorbed and rice is al dente, approx 25-30 min. 
 
 5. Once risotto is done, stir in sausage, peas, half of the Parmesan, 1 Tbsp butter, and squeeze of lemon juice. Taste and season with salt and pepper. 
 
@@ -42,4 +42,4 @@ Notes
 
 - Recipe doubles well if you need to serve more people.
   
-- If you would prefer a more rustic look for the sausage, place sausage links in a skillet in water. Bring slowly to a simmer and cook for approx 10-12 min, covered. Uncover, and allow water to evaporate, turning frequently until browned. Internal temperature should register 160F. Slice into coins prior to serving and garnish risotto. 
+- If you would prefer a more rustic look for the sausage, place sausage links in a skillet in water. Bring slowly to a simmer and cook for approx 10-12 min, covered. Uncover, and allow water to evaporate, turning frequently until browned. Internal temperature should register 160°F. Slice into coins prior to serving and garnish risotto. 

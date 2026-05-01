@@ -8,7 +8,7 @@ From = [The Perfect Pantry](https://www.theperfectpantry.com/2011/09/slow-cooker
 Ingredients
 -----------
 
-- 1/4 cup olive oil
+- ¼ cup olive oil
 - 2 red onions, chopped
 - 3 yukon gold potatoes, chopped
 - 3 cloves garlic, smashed
@@ -17,7 +17,7 @@ Ingredients
 - 4 bell peppers (assorted colors), de-seeded and cut into large chunks
 - 3 medium tomatoes, de-seeded and cut into large chunks
 - 4 portobello mushroom caps, de-gilled and cut into large chunks
-- 1/4 cup white wine
+- ¼ cup white wine
 - 2 Tbsp fresh thyme leaves (can sub fresh oregano leaves)
 - 3 Tbsp balsamic vinegar, or more to taste
 - Koshar salt and fresh black pepper, to taste

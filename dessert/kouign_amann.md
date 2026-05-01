@@ -51,7 +51,7 @@ Directions
   clover. Sprinkle with caster sugar and leave to rise, covered with a clean 
   tea towel, for 30 minutes until slightly puffed up.
 
-- Preheat oven to 220C/200C(fan)/425F/Gas 7. Bake the pastries for 30-40 
+- Preheat oven to 220C/200C(fan)/425°F/Gas 7. Bake the pastries for 30-40 
   minutes, or until golden-brown. Cover with foil halfway through if beginning 
   to brown too much. Remove from the oven and leave to cool for a couple of 
   minutes before turning out onto a wire rack. Be careful not to burn yourself 

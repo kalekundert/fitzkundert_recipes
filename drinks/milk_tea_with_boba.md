@@ -13,8 +13,8 @@ Milk Tea:
 - 113 g ice
 
 Simple syrup:
-- 6 tbsp brown sugar
-- 3 tbsp water
+- 6 Tbsp brown sugar
+- 3 Tbsp water
 
 Directions
 ==========

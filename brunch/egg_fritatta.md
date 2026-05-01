@@ -28,7 +28,7 @@ Recipe
 ======
 1. Heat the oven: Arrange a rack in the middle of the oven and heat to 400°F.
 
-2. Cook the rice: Heat 1-2 tbsp oil in a sauce pot over medium-high heat.  Add 
+2. Cook the rice: Heat 1-2 Tbsp oil in a sauce pot over medium-high heat.  Add 
    the rice and the spices, then sauté until most of the rice is "puffy" and 
    the spices are fragrant (3-5 min).  Add the chicken broth and the tomato 
    sauce, then simmer for 20-25 min.
@@ -42,7 +42,7 @@ Recipe
 
 4. Season the ingredients: Since the ingredients will be mixed with eggs, you 
    want to over-season them a bit here. Add whatever seasonings you wish to use 
-   along with 1 teaspoon of the salt. Let this cook for a minute, then give it 
+   along with 1 tsp of the salt. Let this cook for a minute, then give it 
    a taste. It should taste strong, but still good. Add more spices or salt if 
    needed.
 

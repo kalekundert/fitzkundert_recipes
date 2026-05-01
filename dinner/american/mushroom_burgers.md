@@ -13,15 +13,15 @@ Ingredients
 - 1 large heirloom tomato sliced
 - 6 cloves garlic
 - 4 ciabatta buns
-- 1/2 cup balsamic vinegar
-- 1/2 tsp dried basil
-- 1/2 tsp dried oregano
-- 1/2 cup mayo 
+- ½ cup balsamic vinegar
+- ½ tsp dried basil
+- ½ tsp dried oregano
+- ½ cup mayo 
 - salt & pepper (to your taste)
 
 Directions
 ----------
-1. Preheat a grill to 375F and lightly oil
+1. Preheat a grill to 375°F and lightly oil
 
 2. Mince 4 of the garlic cloves and mix with the balsamic vinegar, oregano and basil
 

@@ -21,7 +21,7 @@ Toppings
 ========
 - 2 × ⅛ cup extra-virgin olive oil
 - 2 × ½ tsp kosher salt
-- 2 × 1 tbsp fresh rosemary (minced)
+- 2 × 1 Tbsp fresh rosemary (minced)
 
 Recipe
 ======

@@ -6,7 +6,7 @@ Ingredients
 
 Herb paste
 ----------
-- 2 tbsp olive oil
+- 2 Tbsp olive oil
 - 1 cup basil leaves (15g)
 - 1 cup parsley leaves
 - Salt to taste
@@ -15,9 +15,9 @@ Dough
 -----
 - 500 g bread flour
 - 360 mL water (72% hydration)
-- 1 tbsp instant yeast (10 g)
+- 1 Tbsp instant yeast (10 g)
 - ½ tsp kosher salt
-- 1 tbsp olive oil (≈12g)
+- 1 Tbsp olive oil (≈12g)
 
 Filling
 -------
@@ -30,7 +30,7 @@ Filling
 Miscellaneous
 -------------
 - ⅓ cup olive oil
-- 3 tbsp fine semolina flour
+- 3 Tbsp fine semolina flour
 
 Recipe
 ======

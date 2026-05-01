@@ -15,7 +15,7 @@ Ingredients
 -   7 oz red or green enchilada sauce
 -   6 flour tortillas
 -   2 Tbsp sour cream (to garnish)
--   1/2 cup Mexican cheese blend
+-   ½ cup Mexican cheese blend
 -   vegetable oil
 -   1 Tbsp butter
 -   salt/pepper to your taste
@@ -23,7 +23,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 450F.
+1. Preheat oven to 450°F.
 
 2.  Heat drizzle of oil in pan over med-high heat. Saute pepper until softened, approx 4-5 min.
 
@@ -33,6 +33,6 @@ Directions
 
 5.  Spread tortillas with mashed beans. Then add pepper mixture. Roll and place seam-side down in a glass baking dish. Pour on enchilada sauce, ensuring coverage. Then top with cheese. Bake approx 5 min or until cheese is bubbly.
 
-6.  While this is baking, in a small bowl, combine sour cream and juice from 1/4 lime. Add water 1 tsp at a time until sour cream has thinned and can be drizzled.
+6.  While this is baking, in a small bowl, combine sour cream and juice from ¼ lime. Add water 1 tsp at a time until sour cream has thinned and can be drizzled.
 
 7.  Remove enchiladas and allow to cool 5 min before serving. Top with lime crema and garnish with scallion greens and lime wedge.

@@ -12,17 +12,17 @@ Ingredients
 -  2 large garlic cloves, minced
 -  2 tsp ground turmeric
 -  1.5 tsp ground cumin
--  1/2 tsp cinnamon
--  1/4 tsp ground cardamom
+-  ½ tsp cinnamon
+-  ¼ tsp ground cardamom
 -  1 (14-ounce/398 mL) can diced tomatoes, with juices
 -  1 (14-ounce/398 mL) can full-fat coconut milk (see notes)
--  3/4 cup (140 grams) uncooked red lentils, rinsed and drained
--  3 1/2 cups (875 mL) low-sodium vegetable broth
--  1/2 tsp fine sea salt + more to your taste
+-  ¾ cup (140 grams) uncooked red lentils, rinsed and drained
+-  3½ cups (875 mL) low-sodium vegetable broth
+-  ½ tsp fine sea salt + more to your taste
 -  Freshly ground black pepper, to your taste
 -  Red pepper flakes or cayenne pepper, to your taste 
 -  1 (5-ounce/140-gram) package baby spinach
--  2 teaspoons (10 mL) fresh lime juice, or more to taste
+-  2 tsp (10 mL) fresh lime juice, or more to taste
 
 Directions
 ----------

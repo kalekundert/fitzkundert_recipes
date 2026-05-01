@@ -12,9 +12,9 @@ Ingredients
 -  1.5 cheddar cheese, shredded
 -  1.5 tsp kosher salt
 -  1.5 tsp smoked paprika
--  3/4 tsp chili powder
--  3/4 tsp cumin
--  1/2 tsp cayenne pepper
+-  ¾ tsp chili powder
+-  ¾ tsp cumin
+-  ½ tsp cayenne pepper
 -  1 Tbsp vegetable oil
 -  1 jalapeno (garnish)
 -  3 Tbsp green onions, thin sliced
@@ -23,13 +23,13 @@ Ingredients
 
 Directions
 ----------
-1.  Heat oven to 350F. 
+1.  Heat oven to 350°F. 
 
-2.  Combine and mix spices. Sprinkle and rub over chicken. Place on baking sheet, leaving 1/2 inch between. 
+2.  Combine and mix spices. Sprinkle and rub over chicken. Place on baking sheet, leaving ½ inch between. 
 
 3.  Bake 3-4 min. Remove and flip chicken, and bake additional 3-4 min. 
 
-4. Remove from oven and transfer to a cast iron pan. Adjust temperature to 425F. Sprinkle chicken with cheese and jalapeno. 
+4. Remove from oven and transfer to a cast iron pan. Adjust temperature to 425°F. Sprinkle chicken with cheese and jalapeno. 
 
 5. Return to oven and bake until cheese is melted, approx 3-5 min. 
 

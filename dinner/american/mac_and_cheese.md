@@ -11,14 +11,14 @@ Ingredients
 4-6 servings:
 -  4 cups dried elbow pasta
 -  1 lb cheddar cheese, shredded
--  1/2 lb jack cheese, shredded
+-  ½ lb jack cheese, shredded
 -  2.5 cups milk
 -  1 cup break crumbs, toasted
--  1/4 cup (half stick) butter
+-  ¼ cup (half stick) butter
 
 Directions
 ----------
-1.  Preheat oven to 350F
+1.  Preheat oven to 350°F
 
 2.  Cook pasta according to package until al dente. Drain. 
 

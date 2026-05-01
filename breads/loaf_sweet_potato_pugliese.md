@@ -33,7 +33,7 @@ Immersion blender
 
 3. Using a kitchen scale, add the sweet potato cooking liquid, and add room temperature water to make 493g of total liquid.
 
-4. Add cooked sweet potato to the liquid and process with stick blender until there are no chunks of sweet potato.  Make sure the liquid mixture is less than 100 degrees Fahrenheit.
+4. Add cooked sweet potato to the liquid and process with stick blender until there are no chunks of sweet potato.  Make sure the liquid mixture is less than 100°F.
 
 5. Using a kitchen scale, measure out dry ingredients (flours, salt, yeast), place in large bowl and mix well with wooden spoon, then add sweet potato liquid mixture, and mix into choppy dough, and let rest covered for about 20-30 minutes (autolyse)
 
@@ -43,9 +43,9 @@ Immersion blender
 
 8. Form loaves by gently stretching them out and folding them in thirds with the last fold overlapping the first, and place seam side down on heavily floured tea towels or linen baker’s couch with a wall between the 2 loaves.  Be careful not to handle to dough to much to preserve the air pockets.  Be sure to flour the loaves well so they don’t stick to the tea towels or couche.  Cover with remaining couch or tea towels and let proof for about 45 minutes or until they are well expanded and barely spring back when touched.
 
-9. Place baking stone on middle rack of oven and turn on to 500 degrees Fahrenheit and preheat for at least 45 minutes.
+9. Place baking stone on middle rack of oven and turn on to 500°F and preheat for at least 45 minutes.
 
-10. Turn loaves onto peel (seam side up) and place directly on to the baking stone.  Turn oven temperature down to 450 degrees Fahrenheit, and bake for 40-45 minutes turning them 180 degrees half way into baking time.  Loaves are done when they are a deep golden brown and the internal temperature is between 205F to 210F.
+10. Turn loaves onto peel (seam side up) and place directly on to the baking stone.  Turn oven temperature down to 450°F, and bake for 40-45 minutes turning them 180 degrees half way into baking time.  Loaves are done when they are a deep golden brown and the internal temperature is between 205°F to 210°F.
 
 11. Let loaves cool completely before cutting and eating.
 

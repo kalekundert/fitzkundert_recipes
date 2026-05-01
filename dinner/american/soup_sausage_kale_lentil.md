@@ -17,7 +17,7 @@ Frozen in advance:
 - 6 cups low-sodium chicken broth
 - 2 sprigs fresh thyme
 - 2 tsp kosher salt
-- 1/2 teaspoon freshly ground black pepper
+- ½ tsp freshly ground black pepper
 - 12 ounces cooked andouille-style sausage, cut into 1-inch pieces
 
 Fresh:

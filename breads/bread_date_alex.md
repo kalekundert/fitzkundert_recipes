@@ -10,7 +10,7 @@ Ingredients
 
 -   2.25 cups AP flour
 -   2 tsp baking soda
--   1/2 tsp salt
+-   ½ tsp salt
 -   2 cups packed, medjool dates, finely chopped
 -   1.5 cups hot water
 -   1 cup granulated sugar
@@ -21,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 325F
+1. Preheat oven to 325°F
 
 2. Finely chop dates and add to boiling water. Let stand for 20 min (water will no longer be boiling).
 

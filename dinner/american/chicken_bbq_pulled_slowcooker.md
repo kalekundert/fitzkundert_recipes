@@ -7,7 +7,7 @@ Ingredients
 -----------
 - 2-3 pounds boneless, skinless chicken breasts
 - 1 cup barbecue sauce + more to garnish (I like Sweet Baby Ray's)
-- 1/3 cup Italian dressing (reduced-fat or fat-free okay)
+- ⅓ cup Italian dressing (reduced-fat or fat-free okay)
 - 2 Tbsp packed brown sugar
 - 1 Tbsp Worcestershire sauce
 - 2 Tbsp cornstarch

@@ -8,10 +8,10 @@ Ingredients
 - 1 pound frozen chicken breasts
 - 2 cups dried pinto beans rinsed and sorted
 - 2 cups frozen corn
-- 1 tablespoon taco seasoning
-- 1 tablespoon minced garlic
-- 1 teaspoon onion powder
-- 1 teaspoon salt
+- 1 Tbsp taco seasoning
+- 1 Tbsp minced garlic
+- 1 tsp onion powder
+- 1 tsp salt
 
 Directions
 ----

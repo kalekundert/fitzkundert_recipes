@@ -4,23 +4,23 @@ Italian Meatballs
 Ingredients
 -----------
 Gelled stock:
-- 1 packet (1/4 oz, 7g) gelatin
-- 120 mL (1/2 cup) chicken stock
+- 1 packet (¼ oz, 7g) gelatin
+- 120 mL (½ cup) chicken stock
 
 Panade:
-- 170 g (≈2 1/2 cups) white bread, without crust
-- 80 mL (1/3 cup) buttermilk
+- 170 g (≈2½ cups) white bread, without crust
+- 80 mL (⅓ cup) buttermilk
 
 Meatballs:
 - 265 g yellow onion, minced
-- 85 g (≈3/4 cup) pancetta, >50% fat, minced
+- 85 g (≈¾ cup) pancetta, >50% fat, minced
 - 55 g Parmesan cheese [1]
 - 50 g (≈8 cloves) garlic
 - 15 g flat-leaf parsley
 - 4 egg yolks
 - 1 tsp dried oregano
 - 1 tsp ground fennel seed
-- 9 g (1 tbsp kosher) salt
+- 9 g (1 Tbsp kosher) salt
 - black pepper
 - 1 lb ground beef, 80/20
 - 1 lb ground pork
@@ -36,24 +36,24 @@ Directions
 
 - Prepare panade:
 
-  - Chop bread into 1/2" cubes.
+  - Chop bread into ½" cubes.
   - Add buttermilk and toss to coat.
   - Let stand until the bread is completely moist, ≈10 min, tossing 
     occasionally.
   - Mash bread to ensure that no dry spots remain.  If necessary, add more 
-    buttermilk 1 tbsp at a time.
+    buttermilk 1 Tbsp at a time.
 
 - Beat together the gelled stock, panade, onion, pancetta, Parmesan, garlic, 
   parsley, egg yolks, oregano, salt, and pepper.
 
   - Recommendation: stand mixer with paddle attachment at medium speed.
 
-- Add ≈1/3 each of the ground beef and pork, then continue beating until 
+- Add ≈⅓ each of the ground beef and pork, then continue beating until 
   thoroughly combined.
 
 - Add the remaining meat, then mix gently by hand.
 
-- Form 30g (≈2 tbsp) meatballs, again being as gentle as possible.  Don't try 
+- Form 30g (≈2 Tbsp) meatballs, again being as gentle as possible.  Don't try 
   to form the balls into perfect spheres.
 
 - Air fry at 400°F for 10 min, optionally tossing after 8 min.

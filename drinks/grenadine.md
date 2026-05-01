@@ -4,8 +4,8 @@ Grenadine
 Ingredients
 ===========
 1 cup syrup:
-- 113 g pomegranate juice (1/2 cup, 150 g seeds)
-- 100 g sugar (just less than 1/2 cup)
+- 113 g pomegranate juice (½ cup, 150 g seeds)
+- 100 g sugar (just less than ½ cup)
 
 Directions
 ==========
@@ -28,7 +28,7 @@ Notes
   flavor (and texture).  These concerns make sense to me, so I modified the 
   recipe to avoid heating.
 
-- The first time I made this, I measured that 1/2 cup fresh-squeezed 
+- The first time I made this, I measured that ½ cup fresh-squeezed 
   pomegranate juice weighs 112 g.  That's 224 g/cup, which is almost identical 
   to the density of water, which is 227 g/cup.  Going forward, I'll just assume 
   that pomegranate juice and water have the same density.

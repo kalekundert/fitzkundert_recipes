@@ -9,16 +9,16 @@ Ingredients
 - 1 cup (2 sticks) unsalted butter (softened)
 - 1.5 cup white sugar
 - 2 large eggs
-- 2 teaspoons vanilla
+- 2 tsp vanilla
 - 2.75 cup all-purpose flour
-- 1.5 teaspoon cream of tartar
-- 0.5 teaspoon baking soda
-- 1 teaspoon salt
+- 1.5 tsp cream of tartar
+- 0.5 tsp baking soda
+- 1 tsp salt
 
 Cinnamon-Sugar Mixture
 ----------------------
-- 1/4 cup Sugar
-- 1.5 tablespoon cinnamon
+- ¼ cup Sugar
+- 1.5 Tbsp cinnamon
 
 Directions
 ----------

@@ -18,7 +18,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat convection oven to 350F
+1. Preheat convection oven to 350°F
 
 2. In a large mixing bowl, combine butter and sugar. Once mixed, add salt, baking powder, oats, and flour. Mix until crumb-like consistency is reached. 
 

@@ -4,7 +4,7 @@ Breakfast Hash Browns
 Ingredients
 ----
 - 2 russet potatoes (peeled)
-- 3 tbsp butter
+- 3 Tbsp butter
 
 Spice Ideas
 -----------

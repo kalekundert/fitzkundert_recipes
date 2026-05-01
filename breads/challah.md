@@ -15,8 +15,8 @@ Dough
 - 2½ tsp instant yeast
 - 1½ tsp salt
 - 120 g egg (about 3 eggs, use any leftover for the glaze)
-- 60 g honey (about 3 tbsp)
-- 60 g butter (≈4.23 tbsp, melted)
+- 60 g honey (about 3 Tbsp)
+- 60 g butter (≈4.23 Tbsp, melted)
 
 Glaze
 =====

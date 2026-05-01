@@ -16,16 +16,16 @@ Dough - Makes ~12 discs, or find them in the frozen section at grocery stores su
 - 180 ml warm water 
 
 Beef Filling
-- 2 tbsp vegetable oil or beef fat
+- 2 Tbsp vegetable oil or beef fat
 - 1 large onion, finely diced
 - 1 red bell pepper, finely diced (optional but traditional)
 - 450 g ground beef (preferably ~80% lean)
-- 1 tbsp sweet paprika
+- 1 Tbsp sweet paprika
 - 1 tsp ground cumin
 - 1 tsp smoked paprika (optional)
 - 1.5 tsp salt (or to taste)
 - Freshly ground black pepper
-- 2 tbsp tomato paste or ½ cup crushed tomato
+- 2 Tbsp tomato paste or ½ cup crushed tomato
 - ½ cup beef broth (or water)
 - 3 hard-boiled eggs, chopped (optional)
 - ½ cup pitted green olives, chopped (optional)
@@ -33,15 +33,15 @@ Beef Filling
 
 Corn Filling
 
-- 2 tbsp butter
-- 1 tbsp vegetable oil
+- 2 Tbsp butter
+- 1 Tbsp vegetable oil
 - 1 small onion, finely diced
 - 3 cups fresh corn kernels (about 4–5 cobs) or frozen corn (thawed). A mix of whole kernel and cream-style canned corn works too.
 - 1 tsp salt
-- 1/2 tsp ground black pepper
+- ½ tsp ground black pepper
 - 1 tsp sweet paprika
-- 1/2 cup milk
-- 2 tbsp cornstarch mixed with 2 tbsp cold milk (slurry)
+- ½ cup milk
+- 2 Tbsp cornstarch mixed with 2 Tbsp cold milk (slurry)
 - Optional: a pinch of nutmeg for warmth
 - 1 egg (for egg wash) 
 
@@ -65,6 +65,6 @@ Directions
 
 - Preheat oven to 400°F (200°C)
 - Roll dough to ~5–6 inch circles (or use the store-bought discs).
-- Place 2 tbsp filling in the center. Moisten edges with water, fold over, and crimp with a fork or repulgue twist. (Empanadas can be frozen at this point, in an airtight container or bag, and baked later)
+- Place 2 Tbsp filling in the center. Moisten edges with water, fold over, and crimp with a fork or repulgue twist. (Empanadas can be frozen at this point, in an airtight container or bag, and baked later)
 - Place on parchment-lined tray, brush with beaten egg.
 - Bake 20–25 min until golden. 

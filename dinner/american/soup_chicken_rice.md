@@ -14,8 +14,8 @@ Ingredients
 - 1 cup sliced celery
 - 1 cup diced carrots
 - 1 package (6 oz) converted long-grain rice and wild rice mix, with seasoning package (NOT quick or instant rice)
-- 1/2 cup chopped yellow or white onion
-- 1/2 tsp black pepper
+- ½ cup chopped yellow or white onion
+- ½ tsp black pepper
 - 2 tsp white vinegar
 - optional: fresh italian parsley (garnish)
 

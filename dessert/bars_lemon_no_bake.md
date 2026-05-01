@@ -14,10 +14,10 @@ Ingredients
 - 2 Tbsp granulated sugar
 - 2 tsp finely grated lemon zest (from 1 medium lemon), plus more for garnish
 - 1 (11-ounce) box vanilla wafer cookies, divided
-- 1/4 plus 1/8 teaspoon kosher salt, divided
+- ¼ plus ⅛ tsp kosher salt, divided
 - 8 Tbsp (1 stick) unsalted butter, melted and cooled
-- 1 1/2 cups cold heavy cream
-- 1/2 cup powdered sugar, divided
+- 1½ cups cold heavy cream
+- ½ cup powdered sugar, divided
 - 2 Tbsp freshly squeezed lemon juice (from 1 medium lemon)
 - 1 tsp lemon or vanilla extract
 
@@ -31,13 +31,13 @@ Directions
 
 3. Rub 2 Tbsp granulated sugar and 2 tsp finely grated lemon zest together in a small bowl until fragrant. Transfer to a food processor.
 
-4. Reserve 5 cookies from 1 (11-ounce) box vanilla wafers for topping. Place the remaining cookies and 1/8 tsp of the kosher salt in the food processor. Process until the cookies are the texture of sand, about 15 seconds. Add 1 stick melted unsalted butter and pulse until combined, 6 to 8 (1-second) pulses.
+4. Reserve 5 cookies from 1 (11-ounce) box vanilla wafers for topping. Place the remaining cookies and ⅛ tsp of the kosher salt in the food processor. Process until the cookies are the texture of sand, about 15 seconds. Add 1 stick melted unsalted butter and pulse until combined, 6 to 8 (1-second) pulses.
 
 5. Transfer the mixture to the baking pan. Use the bottom of a flat measuring cup or your fingers to press the crumbs into an even layer, making sure to reach the edges and fill the corners. Refrigerate while you prepare the filling.
 
-6. Beat 1 1/2 cups cold heavy cream and 1/4 cup of the powdered sugar together in a stand mixer with the whisk attachment on high speed until stiff peaks form, 2 to 4 minutes. Transfer to another bowl.
+6. Beat 1½ cups cold heavy cream and ¼ cup of the powdered sugar together in a stand mixer with the whisk attachment on high speed until stiff peaks form, 2 to 4 minutes. Transfer to another bowl.
 
-7. Beat 8 ounces room-temperature cream cheese, the remaining 1/4 cup powdered sugar, 2 tablespoons lemon juice, 1 teaspoon lemon extract, and remaining 1/4 teaspoon kosher salt together in the stand mixer (no need to clean) with the whisk attachment on medium speed until light and very fluffy, scraping down the sides of the bowl with a flexible spatula halfway through, about 3 minutes total.
+7. Beat 8 ounces room-temperature cream cheese, the remaining ¼ cup powdered sugar, 2 Tbsp lemon juice, 1 tsp lemon extract, and remaining ¼ tsp kosher salt together in the stand mixer (no need to clean) with the whisk attachment on medium speed until light and very fluffy, scraping down the sides of the bowl with a flexible spatula halfway through, about 3 minutes total.
 
 8. Transfer 1 cup of the whipped cream to the cream cheese mixture and gently fold together with a flexible spatula until just combined. Dollop the cream cheese mixture over the crust and spread into an even layer.
 
@@ -48,7 +48,7 @@ Directions
 
 Recipe Notes
 ------------
-Substitutions: 12 whole graham cracker sheets (about 6 1/2 ounces), or 1 1/2 cups graham cracker crumbs can be substituted for the vanilla wafer cookies for the crust.
+Substitutions: 12 whole graham cracker sheets (about 6½ ounces), or 1½ cups graham cracker crumbs can be substituted for the vanilla wafer cookies for the crust.
 
 Ingredient/equipment variations: 1 (8-ounce) container thawed whipped topping can be substituted for the sweetened whipped cream in Step 6.
 

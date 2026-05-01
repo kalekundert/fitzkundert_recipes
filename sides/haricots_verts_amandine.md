@@ -5,7 +5,7 @@ Ingredients
 ===========
 - Kosher salt
 - 450 g green beans (trimmed)
-- 3 tbsp unsalted butter
+- 3 Tbsp unsalted butter
 - 85 g almonds (thinly sliced)
 - 2 cloves garlic (thinly sliced)
 - 1 shallot (thinly sliced)
@@ -23,11 +23,11 @@ Recipe
 2. In a medium skillet, heat butter and almonds over medium-low heat and cook, 
    stirring frequently, until almonds are deeply browned and nutty, about 5 
    minutes. Add garlic and shallot and cook, stirring, until lightly browned, 
-   about 2 minutes longer. Add lemon juice, along with a tablespoon or two of 
+   about 2 minutes longer. Add lemon juice, along with a Tbsp or two of 
    water. Increase heat to high and stir and shake pan rapidly to emulsify, 
    about 30 seconds. The sauce should have a glossy sheen and not appear watery 
    or greasy. If it's still watery, continue to simmer and shake. If it looks 
-   greasy, add another tablespoon of water to re-emulsify. When sauce is ready, 
+   greasy, add another Tbsp of water to re-emulsify. When sauce is ready, 
    remove from heat and season to taste with salt and pepper.
 
 3. Add beans to pan with sauce and toss to coat and combine. Return to medium 

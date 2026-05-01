@@ -4,12 +4,12 @@ Green Beans
 Ingredients
 ----
 - 1 lb green beans, trimmed
-- 1/2 lb (5 thick-cut slices) bacon
-- 1/3 cup crumbled blue cheese
-- 1/3 cup chopped nuts (e.g. walnuts or almonds) (see tip)
+- ½ lb (5 thick-cut slices) bacon
+- ⅓ cup crumbled blue cheese
+- ⅓ cup chopped nuts (e.g. walnuts or almonds) (see tip)
 - 1 lemon
-- 1/4 tsp salt
-- 1/4 tsp pepper
+- ¼ tsp salt
+- ¼ tsp pepper
 
 Preparation
 ----
@@ -28,7 +28,7 @@ Preparation
       dry with a paper towel.
 
 2. Cook the bacon in a large frying pan.  When the bacon is done, move it to a 
-   paper towel to cool.  Drain most of the bacon grease, but reserve about 1/4 
+   paper towel to cool.  Drain most of the bacon grease, but reserve about ¼ 
    cup for the next step.
 
 3. Toast the chopped nuts in the bacon grease.

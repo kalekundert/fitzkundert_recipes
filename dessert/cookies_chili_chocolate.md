@@ -9,22 +9,22 @@ Ingredients
 - 1 stick unsalted butter
 - 4 oz high-quality unsweetened chocolate, rough chop
 - 1 cup packed light brown sugar
-- 1/2 cup granulated sugar
+- ½ cup granulated sugar
 - 2 tsp vanilla extract
 - 2 large eggs
 - 1 cup AP flour, sifted
-- 1/2 cup unsweetened cocoa powder
+- ½ cup unsweetened cocoa powder
 - 1 Tbsp ground cinnamon
 - 1 tsp chili powder
-- 1/2 tsp baking soda
-- 1/2 tsp kosher salt
-- 1/4 tsp cayenne pepper
+- ½ tsp baking soda
+- ½ tsp kosher salt
+- ¼ tsp cayenne pepper
 - 1 cup semi-sweet chocolate chips
 
 Directions
 ----------
 
-1. Preheat oven to 325F
+1. Preheat oven to 325°F
 
 2. In a heatproof bowl, melt chocolate and butter together, whisking until glossy. (This can be done in the microwave in 20-30sec burst or in a glass bowl set over simmering water.) Cool to room temp. 
 

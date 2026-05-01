@@ -17,11 +17,11 @@ Ingredients
 - 1 lb carrots, rough cut (or 1 x 1 lb bag of baby carrots)
 - 1 lb small red potatos, quartered
 - 1 head green cabbage, cut into 7-8 wedges
-- 1/2 tsp mustard seeds
+- ½ tsp mustard seeds
 - 2 bay leaves
 - 8 all-spice berries
-- 1/2 tsp salt
-- 1/2 tsp pepper
+- ½ tsp salt
+- ½ tsp pepper
 --optional if using the spice packet that comes with the beef, omit the spices 
 
 

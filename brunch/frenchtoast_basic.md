@@ -4,8 +4,8 @@ Basic French Toast
 Reagents:
 
 - 4 eggs
-- 2/3 cups milk
-- 1 tbsp sugar
+- ⅔ cups milk
+- 1 Tbsp sugar
 - 2 tsp cinnamon
 - 1 tsp salt
 - 4 slices of Pugliese (slightly stale)

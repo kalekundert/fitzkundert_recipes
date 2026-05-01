@@ -7,21 +7,21 @@ From: Cheryl Fitzsimmons
 Ingredients
 -----------
 - 1.5 cups AP flour
-- 1/2 tsp baking soda
-- 1/2 tsp ground cinnamon
-- 1/4 tsp baking powder
-- 1/8 tsp salt
+- ½ tsp baking soda
+- ½ tsp ground cinnamon
+- ¼ tsp baking powder
+- ⅛ tsp salt
 - dash nutmeg
 - 1 large egg
 - 1 cup granulated sugar
 - 1 cup mashed ripe banana (approx 2.5 or 3 overripe, black bananas)
-- 1/4 cup cooking oil
-- optional 1/2 cup currents, raisins, or semi-sweet chocolate chips
+- ¼ cup cooking oil
+- optional ½ cup currents, raisins, or semi-sweet chocolate chips
 
 Directions
 ----------
 
-1. Preheat oven to 350F
+1. Preheat oven to 350°F
 
 2. In large mixing bowl, combine flour, baking soda, cinnamon baking powder, nutmeg and salt. 
 

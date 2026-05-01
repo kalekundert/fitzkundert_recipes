@@ -3,7 +3,7 @@ Tamale Pie
 
 Ingredients
 ----
-- 2 tbsp butter
+- 2 Tbsp butter
 - 1 lb ground beef
 - 1 onion (chopped)
 - 1 17 oz can kernel corn
@@ -11,9 +11,9 @@ Ingredients
 - 1 cup sour cream
 - 1 cup cornmeal
 - 1 4.5 oz can black olives (sliced)
-- 1 tbsp chili powder
+- 1 Tbsp chili powder
 - 2 tsp salt
-- 1/2 tsp cumin
+- ½ tsp cumin
 - 2 cups pepper jack cheese (grated)
 
 Recipe

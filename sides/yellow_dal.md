@@ -10,14 +10,14 @@ Dal Ingredients
 
 -1 cup yellow split peas, soaked in cold water for 1 hour
 - 1 large tomato (about 8 ounces), cut into 8 wedges
-- 1/4 cup canola oil
-- 1/2 tsp cumin seeds
-- 1 medium red onion, finely chopped (about 1 1/2 cups)
+- ¼ cup canola oil
+- ½ tsp cumin seeds
+- 1 medium red onion, finely chopped (about 1½ cups)
 - 5 large garlic cloves, thinly sliced
 - 1 tsp coriander seeds, finely ground
-- 3/4 tsp ground turmeric
-- 1/2 tsp cayenne (I used 1/4, thought it was plenty, although I may be a wuss.)
-- 1/4 cup minced cilantro leaves (I abhor cilantro, and always replace it with flat-leaf parsley.)
+- ¾ tsp ground turmeric
+- ½ tsp cayenne (I used ¼, thought it was plenty, although I may be a wuss.)
+- ¼ cup minced cilantro leaves (I abhor cilantro, and always replace it with flat-leaf parsley.)
 - 1 Tbsp unsalted butter
 - 1 tsp salt
 
@@ -26,10 +26,10 @@ Slaw Ingredients
 - 2 cups tightly packed, shredded green cabbage (use the large holes of a grater)
 - 1 small serrano chile, seeded and minced (can leave out for less spice)
 - 2 Tbsp fresh lemon juice, or more as needed
-- 1/4 to 1/2 teaspoon fine sea or table salt
-- 1/2 tsp sugar
+- ¼ to ½ tsp fine sea or table salt
+- ½ tsp sugar
 - 1 Tbsp canola oil
-- 1/2 tsp mustard seeds
+- ½ tsp mustard seeds
 
 
 Dal Directions

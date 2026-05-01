@@ -8,12 +8,12 @@ Melted chocolate:
 
 Custard:
 - 4 large egg yolks
-- 189 g (3/4 cups) heavy whipping cream
-- 25 g (2 tbsp) sugar
+- 189 g (¾ cups) heavy whipping cream
+- 25 g (2 Tbsp) sugar
 
 Whipped cream:
-- 315 g (1 1/4 cups) heavy whipping cream
-- 2 tbsp sugar
+- 315 g (1¼ cups) heavy whipping cream
+- 2 Tbsp sugar
 
 Directions
 ==========
@@ -66,7 +66,7 @@ Directions
 
 6. Make the mousse:
 
-  - Stir 1/3 of whipped cream into cooled custard mixture.
+  - Stir ⅓ of whipped cream into cooled custard mixture.
   - Gently fold in the rest with a rubber spatula.
 
 Notes

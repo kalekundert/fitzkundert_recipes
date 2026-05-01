@@ -11,7 +11,7 @@ Ingredients
 4 servings:
 - 4 large flour tortillas (approx 10 inches in diameter)
 - butter
-- 1/2 pound cheese, grated (mild or sharp cheddar, or Monterey Jack)
+- ½ pound cheese, grated (mild or sharp cheddar, or Monterey Jack)
 
 Filling suggestions:
 -  beans, cooked (black or pinto)
@@ -43,8 +43,8 @@ Directions
 3.  Top off your layers with one last flour tortilla. Spread a little butter 
     over the surface of the tortilla. 
 
-4.  Cover with foil and bake for 30 min at 350F. Remove foil and increase the 
-    heat to 400F. Cook for approx 10-20 more minutes, or until the top is 
+4.  Cover with foil and bake for 30 min at 350°F. Remove foil and increase the 
+    heat to 400°F. Cook for approx 10-20 more minutes, or until the top is 
     lightly browned and cheese is bubbling. 
 
 5.  Remove from the oven and let stand for 10 minutes. Serve with avocado, sour cream, and salsa. 

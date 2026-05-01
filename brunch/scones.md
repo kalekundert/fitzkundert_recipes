@@ -10,16 +10,16 @@ Ingredients
 -   2 cups all purpose flour
 -   1 Tbsp baking powder
 -   3 Tbsp (45g) granulated sugar
--   1/4 tsp salt
--   1/4 cup butter
+-   ¼ tsp salt
+-   ¼ cup butter
 -   2 large eggs
--   1/3 cup whipping cream
+-   ⅓ cup whipping cream
 -   Handful of dried fruit, chopped if needed.
 
 Directions
 ----------
 
-1.  Preheat convection oven to 350F
+1.  Preheat convection oven to 350°F
 
 2.  Mix flour, baking powder, sugar and salt in a bowl. Cut in butter with your fingers.
 
@@ -37,4 +37,4 @@ Notes
 -   On step 4, don't stress too much about correct fruit folding instructions. I've ignored this and it's turned out fine.
 -   Apricots were suggested by Louise in the original recipe
 -   Blueberries work great in this recipe
--   If you use raisins, add 1/2 tsp of cinnamon to make cinnamon-raisin scones.
+-   If you use raisins, add ½ tsp of cinnamon to make cinnamon-raisin scones.

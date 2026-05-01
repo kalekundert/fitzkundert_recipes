@@ -15,13 +15,13 @@ Base Ingredients
 - 1 10 oz can cream of chicken soup
 - 2 Tbsp taco seasoning
 - 2 Tbsp milk
-- 1/2 cup canned corn, drained
-- 1/2 cup canned low-sodium black beans, drained and rinsed
+- ½ cup canned corn, drained
+- ½ cup canned low-sodium black beans, drained and rinsed
 - chopped cilantro (optional garnish)
 
 Ingredient Variations
 ---------------------
-- 1/4 cup sauted onions
+- ¼ cup sauted onions
 - smoked paprika (to your taste)
 - ground beef or ground pork (swap out chicken)
 - 1-3 diced jalapenos (to your taste)
@@ -34,7 +34,7 @@ Ingredient Variations
 
 Directions
 ----------
-1.  Preheat oven to 350ºF. Lightly coat a 9x9-inch baking dish with non-stick spray and set aside. 
+1.  Preheat oven to 350°F. Lightly coat a 9x9-inch baking dish with non-stick spray and set aside. 
 
 2. In a large bowl, combined chicken, ro-tel, rice, 1.5 cups grated colby jack, cream of chicken soup, taco seasoning, milk, corn, and black beans. Stir to combine. 
 

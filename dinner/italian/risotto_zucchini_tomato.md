@@ -14,7 +14,7 @@ Ingredients
 - 113 g grape tomatoes, halved
 - 20 g sundried tomatoes, diced
 - 1 Tbsp Italian or Tuscan spice
-- 135 g (3/4 cup) Arborio rice
+- 135 g (¾ cup) Arborio rice
 - 2 tsp chicken stock concentrate
 - 5 tsp balsamic vinegar
 - 1 Tbsp unsalted butter
@@ -42,10 +42,10 @@ Directions
 
 5. Slowly add 1 cup hot boiling water and stock concentrate to pan with rice. 
    Cook, stirring frequently, until liquid has mostly absorbed. Repeat with 
-   remaining water, adding it 1/2 cup at a time and stirring until liquid has 
+   remaining water, adding it ½ cup at a time and stirring until liquid has 
    absorbed and rice is al dente, approx 25-30 min.
 
-6. Once rice is cooked, reduce heat to low. Stir in balsamic vinegar, 1/2 tsp 
+6. Once rice is cooked, reduce heat to low. Stir in balsamic vinegar, ½ tsp 
    Tuscan spice, Parmesan, and butter.  Season to taste with salt and pepper. 
 
 7. Divide risotto between plates. Top with roasted veggies, and garnish with 

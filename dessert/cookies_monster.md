@@ -8,9 +8,9 @@ Ingredients
 - 1 cup granulated white sugar
 - ½ cup (1 stick) unsalted butter, softened
 - 3 large eggs
-- 1 tablespoon vanilla extract
+- 1 Tbsp vanilla extract
 - 4½ cups quick cooking oats
-- 2 teaspoons baking soda
+- 2 tsp baking soda
 - 1 cup semi-sweet chocolate chips
 - 1 cup M&M's plain chocolate candies
 

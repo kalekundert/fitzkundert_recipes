@@ -11,11 +11,11 @@ Ingredients
 - 1 medium yellow onion, grated and liquid drained (see notes)
 - 6 cloves garlic, minced or pressed
 - 2 large eggs
-- 1/3 cup minced flat-leaf parsley + more to garnish
-- 1/2 cup panko breadcrumbs (preferred over normal breadcrumbs to keep meatballs tender)
+- ⅓ cup minced flat-leaf parsley + more to garnish
+- ½ cup panko breadcrumbs (preferred over normal breadcrumbs to keep meatballs tender)
 - 2 tsp ground cumin
 - 2 tsp dried oregano
-- 3/4 tsp ground cinnamon
+- ¾ tsp ground cinnamon
 - 2 tsp kosher salt
 - 1 tsp fresh cracked black pepper
 - 2 cups Tzatziki sauce (for serving)

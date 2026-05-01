@@ -4,10 +4,10 @@ Piña Colada
 Ingredients
 1 ½ cups frozen pineapple
 1 ½ cups ice
-5 ounces (½ cup plus 2 tablespoons) aged rum
-2 ounces (4 tablespoons) cream of coconut (not coconut cream; see notes*)
+5 ounces (½ cup plus 2 Tbsp) aged rum
+2 ounces (4 Tbsp) cream of coconut (not coconut cream; see notes*)
 4 ounces (½ cup) pineapple juice
-1 ounce (2 tablespoons) lime juice
+1 ounce (2 Tbsp) lime juice
 For the garnish: cocktail cherry
 
 Ingredients
@@ -16,7 +16,7 @@ Ingredients
 - 6 oz white rum
 - 6 oz cream of coconut (see notes: not coconut cream!)
 - 6 oz pineapple juice
-- 1/2 cup frozen pineapple chunks (see How to Cut a Pineapple)
+- ½ cup frozen pineapple chunks (see How to Cut a Pineapple)
 - 4 cups ice
 
 1 serving:

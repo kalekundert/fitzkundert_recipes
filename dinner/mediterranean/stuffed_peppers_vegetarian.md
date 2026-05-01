@@ -32,7 +32,7 @@ Directions
 
 5. Add 1.5 cups water, vegetable stock concentrate, and pinch of salt. Bring to boil then reduce heat to low. Cover and cook approx 8 min or until couscous is tender. 
 
-6. In a medium bowl, combine 1/2 tomatoes, chives, 1/2 parsley, olive oil, and balsamic vinegar. Season to taste with salt and pepper. 
+6. In a medium bowl, combine ½ tomatoes, chives, ½ parsley, olive oil, and balsamic vinegar. Season to taste with salt and pepper. 
 
 7. Once peppers are done, remove from the oven. Turn off the oven and turn ON the broiler. 
 

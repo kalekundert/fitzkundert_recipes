@@ -8,18 +8,18 @@ Bread Pudding Ingredients
 
 -  9 oz fresh sourdough bread (approx 7-8 slices)
 -  2 large eggs
--  1/2 cups milk
+-  ½ cups milk
 -  1 tsp vanilla
--  1/3 cup white sugar
--  1/4 tsp cinnamon (optional)
--  1/4 cup pecans, chopped (optional)
--  1/2 cup granny smith apple, medium dice
+-  ⅓ cup white sugar
+-  ¼ tsp cinnamon (optional)
+-  ¼ cup pecans, chopped (optional)
+-  ½ cup granny smith apple, medium dice
 
 Cream Sauce Ingredients
 -----------------------
 -  3 Tbsp unsalted butter
--  1/4 cup white sugar
--  1/4 cup heavy cream
+-  ¼ cup white sugar
+-  ¼ cup heavy cream
 -  2 Tbsp whiskey or bourbon (more if you want it boozier)
 
 
@@ -32,7 +32,7 @@ Directions
 
 3.  In a medium bowl, whisk together eggs, milk, vanilla, sugar, and cinnamon. Pour mixture over bread and press cubes into custard sauce. 
 
-4.  Sprinkle apple and pecans on top and allow mixture to soak while the oven preheats to 325F. 
+4.  Sprinkle apple and pecans on top and allow mixture to soak while the oven preheats to 325°F. 
 
 5.  Place baking dish on a small sheet pan and bake 30-40 min. Baking time will vary based on the size and staleness of the bread. The pudding is done when the edges are lightly brown, the middle appears puffy, and pricking with a fork reveals no runniness. 
 

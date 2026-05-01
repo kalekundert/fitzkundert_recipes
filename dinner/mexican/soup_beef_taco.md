@@ -8,14 +8,14 @@ From = Ken Kundert
 Ingredients
 -----------
 - 1 pound lean ground beef
-- 1/2 red bell pepper chopped
+- ½ red bell pepper chopped
 - 2 (10 fluid ounce) cans Ro-tel diced tomatoes & green chilies with juices
 - 4 cups chicken broth
-- 1 teaspoon garlic powder
-- 1 teaspoon onion powder
-- 1 teaspoon ground cumin
-- 1 teaspoon smoked paprika
-- 1/2 tablespoon chili powder
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1 tsp ground cumin
+- 1 tsp smoked paprika
+- ½ Tbsp chili powder
 - 1 (12 fluid ounce) can corn drained
 - 1 (15 fluid ounce) can black beans drained & rinsed
 - 1 (8 ounce) block of cream cheese (I used Philly)
@@ -38,7 +38,7 @@ Notes
 -----
 - You can use beef broth instead of chicken broth if you don't mind the soup being a darker color. If you have any concerns with salt, use low-salt broth.
 
-- If you want to make this soup spicy, add 1/2 teaspoon of cayenne pepper.
+- If you want to make this soup spicy, add ½ tsp of cayenne pepper.
 
 - If you're not using Rotel diced tomatoes, you can use regular ones, but I suggest adding a can or two of diced green chilies as well (the 4 oz. size ones) since it really makes a difference in the way the soup tastes.
 

@@ -14,7 +14,7 @@ Ingredients
 - 3 medium carrots, thin sliced
 - 1 medium yellow onion, chopped
 - 3 chipotle peppers in adobo sauce, chopped + 2 Tbsp reserved adobo sauce
-- 1/3 cup fresh Italian parsley, chopped
+- ⅓ cup fresh Italian parsley, chopped
 - 1 Tbsp seasoned salt
 - 2 cloves garlic, minced
 - 2 whole bay leaves

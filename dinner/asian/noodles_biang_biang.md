@@ -10,7 +10,7 @@ Noodle Ingredients
 
 -  375 g AP flour
 -  200 mL water
--  1/2 tsp salt
+-  ½ tsp salt
 -  oil for greasing
 
 Sauce  Ingredients
@@ -23,10 +23,10 @@ Sauce  Ingredients
 -  1.5 Tbsp white vinegar
 -  3 cloves garlic, fine dice
 -  3 scallions, greens and whites separated, fine chop
--  1/2 tsp cumin
+-  ½ tsp cumin
 -  3 tsp sesame seeds, toasted
 -  100 g pork mince (optional, to add protein)
--  1/2 cup noodle cooking water (reserved)
+-  ½ cup noodle cooking water (reserved)
 
 
 Directions

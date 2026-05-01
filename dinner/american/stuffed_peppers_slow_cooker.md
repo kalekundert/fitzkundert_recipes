@@ -14,7 +14,7 @@ Ingredients
 -  1 cup frozen corn kernels
 -  1 cup mild or medium salsa
 -  1 Tbsp cumin powder
--  1/2 tsp chili powder
+-  ½ tsp chili powder
 -  salt and pepper (to your taste)
 -  sour cream (optional garnish)
 
@@ -38,7 +38,7 @@ To adapt this recipe for the oven
 
 3. Place peppers in a baking dish, cut side up. Spoon meat mixture into each pepper and the top of the pepper. 
 
-4. Cover the entire baking dish with foil and bake 25-35 min at 400F or until peppers are tender. 
+4. Cover the entire baking dish with foil and bake 25-35 min at 400°F or until peppers are tender. 
 
 5. Remove foil and remove cut tops of peppers. Sprinkle cheese onto peppers and return to over. Cook until cheese is melted and slightly brown (4-6 min)
 

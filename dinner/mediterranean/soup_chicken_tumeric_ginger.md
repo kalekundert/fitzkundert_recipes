@@ -15,13 +15,13 @@ Frozen in advance:
 - 1 small onion, diced
 - 3 stalks of celery, diced
 - 3 cloves of garlic, minced
-- 1 tablespoon fresh grated ginger
+- 1 Tbsp fresh grated ginger
 - 2 medium sweet potatoes, skinned and cut into 1-inch cubes (about 1 pound)
 - 2 pounds boneless, skinless chicken breast, cut into 1-inch cubes
 - 5 cups chicken broth or bone broth (use 4 cups if using the Instant Pot method)
-- 1/2 tsp dried chopped thyme
-- 1/2 tsp coarse sea salt
-- 1/4 tsp black pepper
+- ½ tsp dried chopped thyme
+- ½ tsp coarse sea salt
+- ¼ tsp black pepper
 - 1 bay leaf
 - 2 tsp turmeric
 - 1 cup full-fat coconut milk

@@ -10,7 +10,7 @@ Topping Ingredients
 -------------------
 
 - 198g granulated sugar
-- 1/4 tsp salt (if you use unsalted butter)
+- ¼ tsp salt (if you use unsalted butter)
 - 120g King Arthur Unbleanched AP Flour
 - 1 tsp cinnamon
 - 6 Tbsp (85g) unsalted butter, melted
@@ -33,14 +33,14 @@ Cake Ingredients
 - 2.5 tsp baking powder
 - 2 tsp vanilla extract
 - 3 large eggs, room temp
-- 3/4 cup (170g) sour cream or plain yogurt, room temp
+- ¾ cup (170g) sour cream or plain yogurt, room temp
 - 1.25 cup (283g) whole milk, room temp (2% skim ok to substitute)
 - 450g King Arthur Unbleached AP Flour
 
 
 Directions
 ----------
-1.  Preheat oven to 350ºF. Lightly great 9 x 13 or 9 x 9 cake pans. 
+1.  Preheat oven to 350°F. Lightly great 9 x 13 or 9 x 9 cake pans. 
 
 2. To make the topping: Whisk together sugar, salt, flour and cinnamon. Add melted butter, stirring until well combined. Set aside. 
 

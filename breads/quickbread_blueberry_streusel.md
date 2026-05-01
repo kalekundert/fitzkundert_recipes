@@ -11,27 +11,27 @@ Cake Ingredients
 
 -  1 cup AP flour, sifted
 -  1.5 tsp baking powder
--  1/2 tsp salt
--  1/3 cup white sugar
+-  ½ tsp salt
+-  ⅓ cup white sugar
 -  1 egg
--  1/2 cup milk, full fat
--  1/3 cup Wesson oil
+-  ½ cup milk, full fat
+-  ⅓ cup Wesson oil
 -  1 Tbsp lemon juice
 -  1 cup blueberries (fresh or thawed frozen)
 
 Streusel Ingredients
 --------------------
 
--  1/3 cup white sugar
--  1/4 cup flour
--  1/8 tsp salt
--  1/4 tsp cinnamon
+-  ⅓ cup white sugar
+-  ¼ cup flour
+-  ⅛ tsp salt
+-  ¼ tsp cinnamon
 -  2 Tbsp Wesson oil
 
 Directions
 ----------
 
-1.  Preheat oven to 375F
+1.  Preheat oven to 375°F
 
 2.  Sift dry ingredients together. 
 

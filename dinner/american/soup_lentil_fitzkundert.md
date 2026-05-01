@@ -13,8 +13,8 @@ Basic Ingredients
 -  1 fist-sized yellow potato, chopped
 -  1 tsp dried thyme
 -  1 tsp dried oregano
--  1/2 tsp paprika
--  1/2 tsp cayenne pepper
+-  ½ tsp paprika
+-  ½ tsp cayenne pepper
 -  1 cup lentils, picked over and carefully rinsed (green or red)
 -  1 14 oz can diced tomatoes, including liquid
 -  4 cups water or 2 cans vegetable stock

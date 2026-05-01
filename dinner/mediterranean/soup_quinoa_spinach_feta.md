@@ -8,18 +8,18 @@ From: Alli Wong
 
 Ingredients
 -----------
-- 3/4 cup quinoa, any color or variety
+- ¾ cup quinoa, any color or variety
 - 8 cups (2 quarts) water, plus more as needed
 - 2 Tbsp olive oil
 - 1 medium garlic clove, finely chopped
 - 1 jalapeño, seeded and finely chopped
-- 1/2 pound Yukon Gold potatoes, peeled and small dice
+- ½ pound Yukon Gold potatoes, peeled and small dice
 - 1 tsp ground cumin
 - 1 tsp kosher salt, plus more as needed
 - 1 bunch scallions, thinly sliced (white and light green parts only)
 - 3 cups thinly sliced spinach leaves (from about 1 bunch)
 - 4 ounces feta cheese, small dice (about 1 cup)
-- 1/3 cup coarsely chopped fresh cilantro leaves
+- ⅓ cup coarsely chopped fresh cilantro leaves
 - Freshly ground black pepper
 - 1 hard-boiled egg, peeled and finely chopped
 

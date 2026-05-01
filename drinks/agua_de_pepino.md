@@ -9,7 +9,7 @@ Ingredients
 -----------
 
 - 2 large cucumbers + extra slices for garnish
-- 1/2 cup white sugar
+- ½ cup white sugar
 - 5 cups water
 - 2 limes, juiced
 - ice 

@@ -14,7 +14,7 @@ Basic Ingredients
 -  1.5 tsp ground turmeric
 -  1.5 tsp ground coriander
 -  1.5 tsp ground cumin
--  optional (1/4 to 1 tsp chili pepper depending on how spicy you like it)
+-  optional (¼ to 1 tsp chili pepper depending on how spicy you like it)
 -  2-3 tsp chopped ginger 
 -  1.5 tsp tomato paste
 -  1.5 lbs protein (chicken breast, chicken thighs, lamb, or beef) chopped into bite-sized pieces. 
@@ -46,6 +46,6 @@ Variations
 ----------
 1. Omit water and add thawed, chopped frozen spinch to make a palak dish. Mix and heat through, adding splashes of water if necessary. Allow to simmer a few minutes and garnish with chopped cilantro. 
 
-2. To make a chickpea (channa) dish, cut the spices by approx 1/3 to 1/2, omit the yogurt, and add 2 cans of chickpeas after you see the oil separating from the tomato paste. Add water to desired thickness, throw in 1 chopped tomato and allow to simmer a few minutes to mix the flavors. Garnish with cilantro and serve. 
+2. To make a chickpea (channa) dish, cut the spices by approx ⅓ to ½, omit the yogurt, and add 2 cans of chickpeas after you see the oil separating from the tomato paste. Add water to desired thickness, throw in 1 chopped tomato and allow to simmer a few minutes to mix the flavors. Garnish with cilantro and serve. 
 
 3. To make vegetarian, you can also substitute paneer instead of meat. 

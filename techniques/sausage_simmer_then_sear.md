@@ -56,7 +56,7 @@ Notes
 - 2024/12/21:
 
   - I developed this recipe with Trader Joe's sausages.  Today I used 
-    7/8"-diameter lamb sausages (from Sauvnor's).  I reduced the boil time to 6 
+    ⅞"-diameter lamb sausages (from Sauvnor's).  I reduced the boil time to 6 
     min and the saute time to 2 min per side, but the sausages still ended up 
     with an internal temperature of 200°F.  In the future, I think I would have 
     to reduce the boil time even more.

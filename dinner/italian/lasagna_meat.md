@@ -13,16 +13,16 @@ Meat Sauce:
 - 2 garlic cloves, minced
 - 2 tsp sugar
 - 1 tsp Italian seasoning
-- 1/2 to 1 tsp salt
-- 1/4 to 1/2 tsp pepper
+- ½ to 1 tsp salt
+- ¼ to ½ tsp pepper
 
 Cheese Filling:
 - 3 large eggs
-- 3 tbsp minced fresh parsley
+- 3 Tbsp minced fresh parsley
 - 1-2 dashes nutmeg
 - 24 oz 4% small-curd cottage cheese
 - 8 oz part skim ricotta cheese
-- 1/2 cup grated Parmesan cheese
+- ½ cup grated Parmesan cheese
 
 Layers:
 - 9 lasagna noodles, uncooked

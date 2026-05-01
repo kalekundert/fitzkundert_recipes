@@ -16,11 +16,11 @@ Ingredients
 
 Half Batch (Metric)
 ===================
-- 1/4 cup warm water
+- ¼ cup warm water
 - 1 gram active dry yeast
 
-- 1/2 cup warm milk
-- 3/4 cup warm water
+- ½ cup warm milk
+- ¾ cup warm water
 - 360 grams flour
 - 10 grams salt
 
@@ -31,11 +31,11 @@ Half Batch (Metric)
 
 To Make The Dough
 =================
-1. Put 1/2 cup of the water in a cup or glass and stir in the yeast. Heat the 
+1. Put ½ cup of the water in a cup or glass and stir in the yeast. Heat the 
    milk in a small saucepan to lukewarm, about 100°F. Pour the milk and the 
-   remaining 1-1/2 cups water into a large bowl. Stir in the yeast mixture. 
+   remaining 1-½ cups water into a large bowl. Stir in the yeast mixture. 
    Stir in about 2 cups of flour, stirring always in the same direction, until 
-   smooth. Stir in the salt and continue stirring in flour, 1/2 cup at a time, 
+   smooth. Stir in the salt and continue stirring in flour, ½ cup at a time, 
    until the dough is too stiff to stir but is still soft. Turn out the dough 
    onto a lightly floured surface. Wash, dry, and lightly oil the bowl. Knead 
    the dough until it's smooth, 4 to 5 minutes, incorporating only enough flour 
@@ -48,7 +48,7 @@ To Make The Dough
 
 To Shape and Bake
 =================
-1. About 1-1/4 hours before you want to serve the bread, set an oven rack to an 
+1. About 1-¼ hours before you want to serve the bread, set an oven rack to an 
    upper-middle rung. Put a large baking stone or unglazed quarry tiles on the 
    rack, leaving a 1-inch gap around the border. Heat the oven to 500°F.
 

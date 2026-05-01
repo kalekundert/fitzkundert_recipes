@@ -13,13 +13,13 @@ Ingredients
 - 1 tsp dried onion, minced
 - 4 large eggs
 - 1 cups (227 g) half-and-half cream
-- 1/4 tsp salt
-- 1/8 tsp pepper
+- ¼ tsp salt
+- ⅛ tsp pepper
 
 Directions
 ----------
 
-1. Preheat oven to 350F. Unroll pie crusts into 1 x 9-inch pie plates. Flute edges. If using frozen pie crust, follow instructions on the package. 
+1. Preheat oven to 350°F. Unroll pie crusts into 1 x 9-inch pie plates. Flute edges. If using frozen pie crust, follow instructions on the package. 
 
 2. Line unpricked pie crusts with a double thickness of heavy-duty foil. Fill with pie weights, dried beans or uncooked rice. Blind bake crusts until light golden brown, approx 10-12 minutes. Remove foil and weights; bake until bottom is golden brown, 3-5 minutes longer. Cool on wire racks.
 

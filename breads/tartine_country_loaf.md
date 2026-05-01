@@ -96,7 +96,7 @@ Day 2: 2:20 pm: Proof
 Day 3: 9:00 am: Score and Bake
 ------------------------------
 
-1. Preheat oven to 450F with rack in bottom 1/3. 
+1. Preheat oven to 450°F with rack in bottom ⅓. 
 
 2. Once the oven is preheated, take 1 dough out of the fridge—no warmup time is necessary. Cut a circular piece of parchment paper, and place it on top of the bowl. 
 

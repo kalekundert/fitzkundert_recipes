@@ -21,7 +21,7 @@ Directions
 
 1. Add the butter, condensed milk and water into a saucepan. Put the saucepan on high heat and keep stirring until the butter has melted and the sugar has dissolved. Take the saucepan off the heat and leave to cool. Don’t cook the mixture for too long because you don’t want all the water and moisture to evaporate, which can affect the texture of the cake.
 
-2. Beat the eggs in another bowl. Add 1/3 of the mixture in step 1 into the beaten eggs. Sieve the flour into the bowl, whisk well until all the flour is incorporated and there are no lumps. If the mixture is too thick at this point, add a little bit of the melted butter into the bowl. (Hand whisking is ok, but using a hand mixer on the lowest setting helps with incorporating air into the cake.)
+2. Beat the eggs in another bowl. Add ⅓ of the mixture in step 1 into the beaten eggs. Sieve the flour into the bowl, whisk well until all the flour is incorporated and there are no lumps. If the mixture is too thick at this point, add a little bit of the melted butter into the bowl. (Hand whisking is ok, but using a hand mixer on the lowest setting helps with incorporating air into the cake.)
 
 When all the flour has disappeared, slowly pour the rest of the mixture in step 1 into the bowl while simultaneously whisking the batter. Keep whisking until all the ingredients are well incorporated. Leave the batter to rest for about 15 minutes.
 

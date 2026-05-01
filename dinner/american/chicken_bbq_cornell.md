@@ -8,18 +8,18 @@ From = Barbara Bozon and [My Town](http://mytownagreatplacetolive.com/cornell-ch
 Ingredients
 -----------
 
-- 2 whole chickens,  2 1/2 to 3 pounds each (cut in half or quarters )
+- 2 whole chickens,  2½ to 3 pounds each (cut in half or quarters )
 - 2 cups cider vinegar
 - 1 cup vegetable oil
 - 1 egg, beaten
 - 1-2 Tbsp salt
-- 1/2 tsp ground black pepper
+- ½ tsp ground black pepper
 - 1 Tbsp poultry seasoning
 
 
 Directions
 ----------
-1. Combine the sauce ingredients in a blender and blend until fully emulsified and creamy. Place the chicken pieces in a large zip-locking type plastic bag or in a large bowl and pour in 3/4 of the sauce. Reserve 1/4 of the sauce for basting. Seal the bag or bowl and refrigerate until ready to grill.
+1. Combine the sauce ingredients in a blender and blend until fully emulsified and creamy. Place the chicken pieces in a large zip-locking type plastic bag or in a large bowl and pour in ¾ of the sauce. Reserve ¼ of the sauce for basting. Seal the bag or bowl and refrigerate until ready to grill.
 
 2. Refrigerate for 2 -24 hours. Remove the chicken from the container and discard the marinade sauce.
 

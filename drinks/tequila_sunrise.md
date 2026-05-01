@@ -5,7 +5,7 @@ Ingredients
 ===========
 - 2 ounces blanco tequila
 - 4 ounces orange juice, freshly squeezed
-- 1/4 ounce grenadine
+- ¼ ounce grenadine
 - orange slice
 - cherry
 

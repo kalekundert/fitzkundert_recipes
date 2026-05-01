@@ -12,14 +12,14 @@ Ingredients
 -  2 cups water
 -  1 tsp salt
 -  2 Tbsp Wesson oil 
--  3/4 cup cornmeal
+-  ¾ cup cornmeal
 -  2 eggs, separated
 -  1 cup milk, full fat
 
 Directions
 ----------
 
-1.  Preheat oven to 425F. 
+1.  Preheat oven to 425°F. 
 
 2.  Heat water to boiling in a 2-quart saucepan. Add salt and oil. Slowly add cornmeal, stirring rapidly to prevent lumping. 
 

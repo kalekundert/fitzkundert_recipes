@@ -25,6 +25,6 @@ Directions
 
 2. Quarter cherry tomatoes and dice onion. Add to bowl with beans. 
 
-3. Chop some parsley and mix into salad. Add 1/2 lime juice, mix, then finish with the rest. 
+3. Chop some parsley and mix into salad. Add ½ lime juice, mix, then finish with the rest. 
 
 4. Refrigerate up to 6 hours. Add feta crumbles and garnish with parsley right before serving. To make ahead for the next day, hold tomatoes and feta until serving. 

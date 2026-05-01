@@ -9,9 +9,9 @@ Ingredients
 - 2 jalapeno peppers
 - 2 poblano peppers
 - 2 serrano peppers
-- 2 tbsp cilantro (chopped)
-- 1/2 tbsp cumin
-- 1 tbsp chili powder [1]
+- 2 Tbsp cilantro (chopped)
+- ½ Tbsp cumin
+- 1 Tbsp chili powder [1]
 - salt and pepper to taste
 - 2 cups broth
   - 2 tsp stock concentrate
@@ -53,7 +53,7 @@ Directions
 Notes
 =====
 - 2025/12/23: I tried making the sauce with 1 poblano, 4 jalapenos, 1 serrano, 
-  and 1 tbsp chili powder.  It turned out too spicy for us.
+  and 1 Tbsp chili powder.  It turned out too spicy for us.
 
 Reference
 =========

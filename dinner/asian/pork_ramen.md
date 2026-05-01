@@ -2,16 +2,16 @@ Soup ingredients
 ================
 - 2-3 pounds pork shoulder roast (or butt)
 - 4 cups water [2]
-- 60 g (1/4 cup) low sodium soy sauce
-- 60 g (1/4 cup) rice vinegar
-- 30 g (2 tbsp) fish sauce
-- 30 g (2 tbsp) Thai red curry paste
-- 15 g (1 tbsp) sambal oelek (or to taste)
-- 1 tbsp fresh ginger
+- 60 g (¼ cup) low sodium soy sauce
+- 60 g (¼ cup) rice vinegar
+- 30 g (2 Tbsp) fish sauce
+- 30 g (2 Tbsp) Thai red curry paste
+- 15 g (1 Tbsp) sambal oelek (or to taste)
+- 1 Tbsp fresh ginger
 - juice of 1 lime
-- 1 tbsp (5 g) Chinese five spice
+- 1 Tbsp (5 g) Chinese five spice
 - 1 tsp black pepper
-- 55 g (1/4 cup) brown sugar
+- 55 g (¼ cup) brown sugar
 - ramen noodles
 
 Topping ingredients
@@ -25,26 +25,26 @@ Topping ingredients
 Roasted squash ingredients
 ==========================
 - 1 medium acorn squash, seeded and diced
-- 2 tbsp (28 g) coconut oil, melted
-- 1 tbsp curry powder
-- 1 tbsp (18 g) white miso paste (or 2 tsp soy sauce)
-- 1 tbsp (14 g) brown sugar
+- 2 Tbsp (28 g) coconut oil, melted
+- 1 Tbsp curry powder
+- 1 Tbsp (18 g) white miso paste (or 2 tsp soy sauce)
+- 1 Tbsp (14 g) brown sugar
 - pepper, to taste
 
 Pork marinade ingredients
 =========================
-- 1 tbsp sesame oil
-- 2 tbsp low sodium soy sauce
-- 2 tbsp rice vinegar
-- 1 tbsp brown sugar
+- 1 Tbsp sesame oil
+- 2 Tbsp low sodium soy sauce
+- 2 Tbsp rice vinegar
+- 1 Tbsp brown sugar
 
 Instructions
 ============
 Morning:
 
-- Mix together the chicken stock, soy sauce (1/4 cup), rice vinegar (1/4 cup), 
+- Mix together the chicken stock, soy sauce (¼ cup), rice vinegar (¼ cup), 
   fish sauce, curry paste, ginger, sambal oelek, lime juice, five-spice, black 
-  pepper, and brown sugar (1/4 cup) in the bowl of a crockpot, then add the 
+  pepper, and brown sugar (¼ cup) in the bowl of a crockpot, then add the 
   pork.
 
 - Cook on low for 7-8 hours.

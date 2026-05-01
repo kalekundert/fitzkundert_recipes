@@ -9,7 +9,7 @@ Crust Ingredients
 -----------------
 
 - Cooking spray
-- 2 cups graham cracker crumbs (from 1 [13 1/2-oz.] pkg. crumbs)
+- 2 cups graham cracker crumbs (from 1 [13½-oz.] pkg. crumbs)
 - 6 Tbsp. salted butter, melted
 - 3 Tbsp. granulated sugar
 
@@ -18,7 +18,7 @@ Cheesecake Filling
 
 - 3 (8-oz.) pkg. cream cheese, at room temperature
 - 1 cup granulated sugar
-- 1/2 cup sour cream
+- ½ cup sour cream
 - 2 tsp. vanilla extract
 - 3 large eggs, at room temperature
 - 1 cup chopped peeled peaches (from 2 small peaches)
@@ -36,7 +36,7 @@ Cheesecake Topping
 Crumble Ingredients
 -------------------
 
-- 1/4 cup all-purpose flour
+- ¼ cup all-purpose flour
 - 1 Tbsp. granulated sugar
 - 1 Tbsp. light brown sugar
 - 2 Tbsp. cold salted butter, cubed

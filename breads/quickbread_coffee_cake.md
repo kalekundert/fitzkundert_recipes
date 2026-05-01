@@ -11,11 +11,11 @@ Cake Ingredients
 
 -  1.5 cup AP flour, sifted
 -  2.5 tsp baking powder
--  1/2 tsp salt
--  1/2 cup sugar
+-  ½ tsp salt
+-  ½ cup sugar
 -  1 egg, beaten
--  1/4 cup Wesson Oil
--  3/4 cup milk, whole fat
+-  ¼ cup Wesson Oil
+-  ¾ cup milk, whole fat
 
 Topping
 -------
@@ -23,13 +23,13 @@ Topping
 -  1 Tbsp flour
 -  1 tsp cinnamon
 -  1 Tbsp Wesson Oil
--  1/4 cup brown sugar, packed (light or dark ok)
--  1/2 cup chopped nuts (such as walnuts or pecans)
+-  ¼ cup brown sugar, packed (light or dark ok)
+-  ½ cup chopped nuts (such as walnuts or pecans)
 
 Directions
 ----------
 
-1.  Preheat oven to 375F.
+1.  Preheat oven to 375°F.
 
 2.  Sift dry ingredients together. Add egg, oil, and milk, stirring until mixed. 
 

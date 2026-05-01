@@ -7,30 +7,30 @@ From = [The Kitchn](https://www.thekitchn.com/recipe-spicy-lentil-wrap-with-tahi
 Ingredients
 -----------
 
-*For the red pepper paste (makes about 3/4 cup)* \
+*For the red pepper paste (makes about ¾ cup)* \
 - 6 medium red bell peppers, cored and chopped
-- 1/2 tsp cayenne pepper
+- ½ tsp cayenne pepper
 - 1 tsp kosher salt
 - Olive oil to cover (if refrigerating)
 
 *For the lentil filling* \
-- 1/2 cup red lentils, rinsed
-- 3/4 cup fine grain (#1) bulgur
+- ½ cup red lentils, rinsed
+- ¾ cup fine grain (#1) bulgur
 - 2 Tbsp olive oil
 - 1 medium onion, finely chopped
 - 2 tsp ground cumin
 - 1 tsp red pepper flakes
 - 1 scallion, chopped
 - 2 Tbsp chopped flat-leaf parsley
-- 1/2 teaspoon kosher salt
+- ½ tsp kosher salt
 
-*For the tahini dipping sauce (makes 3/4 cup)* \
-- 1/4 cup tahini
+*For the tahini dipping sauce (makes ¾ cup)* \
+- ¼ cup tahini
 - 2 tsp lemon juice
 - 2 tsp finely chopped parsley
-- 1/4 tsp crushed garlic
-- 1/8 tsp red pepper flakes
-- 1/8 tsp kosher salt
+- ¼ tsp crushed garlic
+- ⅛ tsp red pepper flakes
+- ⅛ tsp kosher salt
 
 *To assemble the wraps* \
 - 6 (approximately 9x12-inch) sheets lavash, white or whole wheat
@@ -47,9 +47,9 @@ Directions
 
 4. Add onions, scallions, parsley, and salt to lentil-bulgur mixture and stir until well combined. Let cool before using to make wraps. (If you want a smoother texture, you can run the filling through a food processor.) You can freeze the filling in an airtight container if not using all at once.
 
-5. To make the tahini dipping sauce: Place all ingredients in a small bowl with 2/3 cup of warm water, and mix with a fork until well combined. Gradually stir in small amounts of additional warm water until the desired consistency is achieved.
+5. To make the tahini dipping sauce: Place all ingredients in a small bowl with ⅔ cup of warm water, and mix with a fork until well combined. Gradually stir in small amounts of additional warm water until the desired consistency is achieved.
 
-6. To assemble the wraps: Lay out a lavash sheet with the shorter end closest to you. Spread 1 1/2 tablespoons of red pepper paste across the lower 1/3 of the sheet. Top with the lentil-bulgur mixture, and then the cabbage. Roll from the bottom up, and spread an additional 1/2 tablespoon of red pepper paste across the top end to help seal the wrap. Repeat for remaining wraps.
+6. To assemble the wraps: Lay out a lavash sheet with the shorter end closest to you. Spread 1½ Tbsp of red pepper paste across the lower ⅓ of the sheet. Top with the lentil-bulgur mixture, and then the cabbage. Roll from the bottom up, and spread an additional ½ Tbsp of red pepper paste across the top end to help seal the wrap. Repeat for remaining wraps.
 
 7. To serve, cut each wrap in half and serve with tahini sauce on the side.
 

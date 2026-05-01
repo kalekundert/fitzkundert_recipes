@@ -13,8 +13,8 @@ Ingredients
 - 12 oz yukon gold potatoes, quartered
 - 14 oz (1 can) yellow corn, drained (can also use frozen corn, just give it enough time to thaw)
 - 1 Tbsp flour
-- 3/4 cup milk (whole milk gives a creamier base but 2% milk is also ok!)
-- 1/4 cup Monterey Jack cheese, grated
+- ¾ cup milk (whole milk gives a creamier base but 2% milk is also ok!)
+- ¼ cup Monterey Jack cheese, grated
 - 2 tsp veggie stock concentrate
 - 2 Tbsp unsalted butter
 - 2 Tbsp cream cheese

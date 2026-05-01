@@ -8,8 +8,8 @@ From = Becca Levin
 Ingredients
 -----------
 - 1 cup reduced-sodium soy sauce
-- 1/4 cup honey
-- 1/2 tsp garlic, minced
+- ¼ cup honey
+- ½ tsp garlic, minced
 - ginger (about 1 thumb length, peeled and diced)
 - 4 (6 oz) pacific salmon fillets, skin on
 - 2 Tbsp sesame seeds
@@ -19,9 +19,9 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 450F
+1. Preheat oven to 450°F
 
-2. In a small saucepan, mix soy sauce, honey, garlic, and ginger. Stir over medium heat until glaze is reduced by 1/3 (approx 7-10 min). 
+2. In a small saucepan, mix soy sauce, honey, garlic, and ginger. Stir over medium heat until glaze is reduced by ⅓ (approx 7-10 min). 
 
 3. Reserve 3 Tbsp glaze in small bowl. Pour remainder of glaze into shallow baking dish. Place salmon in, skin side up, and let stand for 15 min. Turn salmon over (skin side down) prior to baking. While salmon is basting, begin rice. 
 

@@ -3,17 +3,17 @@ Smooth Buttercream
 
 Ingredients
 ===========
-- 1/2 cup (1 stick) (115g) salted butter, room temperature
-- 1/2 cup (95g) shortening
+- ½ cup (1 stick) (115g) salted butter, room temperature
+- ½ cup (95g) shortening
 - 4 cups (480g) powdered sugar
-- 2-3 tbsp (30-45ml) water, milk, or cream
+- 2-3 Tbsp (30-45ml) water, milk, or cream
 - 1 tsp vanilla extract
 
 Directions
 ==========
 1. Combine butter and shortening and mix until smooth.
 2. Add 2 cups of powdered sugar and mix until smooth.
-3. Add vanilla extract and 1-2 tbsp of water or cream and mix until smooth.
+3. Add vanilla extract and 1-2 Tbsp of water or cream and mix until smooth.
 4. Add remaining powdered sugar and mix until smooth.
 5. Add a little more water or milk until desired consistency is reached.
 
@@ -23,8 +23,8 @@ Notes
   smooth.
 
 - You can add different extracts to change up the flavor. You can also add 
-  1/4-1/2 cup of cocoa and a little more liquid to get a chocolate icing. 
-  For a peanut butter icing, add 3/4 cup of peanut butter.
+  ¼-½ cup of cocoa and a little more liquid to get a chocolate icing. 
+  For a peanut butter icing, add ¾ cup of peanut butter.
 
 References
 ==========

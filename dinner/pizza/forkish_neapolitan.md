@@ -5,20 +5,20 @@ Ingredients
 ===========
 - 1000 g (7¾ cups) of 00 or white flour
 - 720 mL water
-- 1¼ tbsp fine sea salt
+- 1¼ Tbsp fine sea salt
 - ½ tsp instant dried yeast
 
 Directions
 ==========
 1. Fill a large bowl with 3 cups of warm water
 
-2. Put 2 grams of yeast into a small bowl and add 3 tablespoons of the warm 
+2. Put 2 grams of yeast into a small bowl and add 3 Tbsp of the warm 
    water. Set aside.
 
 3. Combine the flour and the rest of the water into a large bowl. Mix with 
    hands until incorporated. Let rest for 30 minutes, covered.
 
-4. Sprinkle 1¼ tbsp of salt and yeast mixture over the dough. Mix with wet 
+4. Sprinkle 1¼ Tbsp of salt and yeast mixture over the dough. Mix with wet 
    hands to incorporate all the ingredients.
 
 5. Drizzle bottom of bowl and top of dough with olive oil. Cover and let rest 

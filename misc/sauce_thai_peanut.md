@@ -8,12 +8,12 @@ Ingredients
 -----------
 
 - 1 13.5-ounce can of full-fat, unsweetened coconut milk
-- 2 ounces (approx 1/4 cup) of Thai red (Mom’s preference) or Massaman curry paste (milder but still flavorful)
-- 3/4 cup unsweetened (natural) creamy peanut butter (Do not use regular peanut butter or anything with added emulsifiers. It must be the type of natural peanut butter that comes with natural peanut oil on top and no sugar added.)
-- 1/2 Tbsp salt
-- 3/4 cup sugar
+- 2 ounces (approx ¼ cup) of Thai red (Mom’s preference) or Massaman curry paste (milder but still flavorful)
+- ¾ cup unsweetened (natural) creamy peanut butter (Do not use regular peanut butter or anything with added emulsifiers. It must be the type of natural peanut butter that comes with natural peanut oil on top and no sugar added.)
+- ½ Tbsp salt
+- ¾ cup sugar
 - 2 Tbsp of apple cider vinegar or white vinegar (Do not use white wine, red wine, balsamic, or anything else — not even rice vinegar)
-- 1/2 cup water
+- ½ cup water
 
 
 Directions

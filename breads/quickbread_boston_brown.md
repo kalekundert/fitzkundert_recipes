@@ -11,8 +11,8 @@ Ingredients
 - 120g rye flour
 - 75g raisins
 - 75g fine cornmeal
-- 3/4 tsp baking soda
-- 1/2 tsp Diamond Crystal kosher salt; for table salt, use half as much by volume
+- ¾ tsp baking soda
+- ½ tsp Diamond Crystal kosher salt; for table salt, use half as much by volume
 - 240 ml buttermilk
 - 80g blackstrap molasses
 - Cream cheese to serve on the side
@@ -21,11 +21,11 @@ Ingredients
 Directions
 ----------
 
-1. Coat three 15-ounce cans (about 4 inches tall and 2 3/4 inches wide) with cooking spray and place a round piece of parchment paper in the bottom of each can. Place a trivet or steamer insert into the bottom of a tall stockpot, fill with water to reach 1 1/2 inches above the trivet. Cover with a tight-fitting lid and bring to a simmer over medium-high.
+1. Coat three 15-ounce cans (about 4 inches tall and 2¾ inches wide) with cooking spray and place a round piece of parchment paper in the bottom of each can. Place a trivet or steamer insert into the bottom of a tall stockpot, fill with water to reach 1½ inches above the trivet. Cover with a tight-fitting lid and bring to a simmer over medium-high.
 
 2. In a medium bowl, whisk together rye flour, raisins, cornmeal, baking soda, and salt until evenly combined. Whisk in buttermilk and molasses until just combined. 
 
-3. Divide batter evenly between prepared cans (about 200g batter per can; the batter should fill the cans no more than 2/3 of the way full). Place a small square of foil over the top of each can to serve as a lid and secure with string.
+3. Divide batter evenly between prepared cans (about 200g batter per can; the batter should fill the cans no more than ⅔ of the way full). Place a small square of foil over the top of each can to serve as a lid and secure with string.
 
 4. Set cans on trivet in the pot of boiling water. The water should reach about halfway up the sides of the cans (if not, add additional hot water). Cover and return to a simmer over medium-high heat. Reduce heat to medium-low and gently simmer until bread is set and gently pulling away from sides of cans, about 35 to 40 minutes. A skewer inserted into the center should come out with moist crumbs and a thermometer inserted into the center should register between 200°F and 205°F.
 

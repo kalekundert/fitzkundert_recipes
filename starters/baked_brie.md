@@ -21,7 +21,7 @@ Directions
 
 3. Top with fresh thyme and chopped nuts
 
-4. Bake in oven-safe pan at 350ºF for 10-15 min
+4. Bake in oven-safe pan at 350°F for 10-15 min
 
 5. Serve
 

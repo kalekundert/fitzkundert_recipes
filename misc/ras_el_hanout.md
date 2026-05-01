@@ -6,12 +6,12 @@ Ingredients
 - 1 tsp ground cumin
 - 1 tsp ground ginger
 - 1 tsp salt
-- 3/4 tsp freshly ground black pepper
-- 1/2 tsp ground cinnamon
-- 1/2 tsp ground coriander seeds
-- 1/2 tsp cayenne
-- 1/2 tsp ground allspice
-- 1/4 tsp ground cloves
+- ¾ tsp freshly ground black pepper
+- ½ tsp ground cinnamon
+- ½ tsp ground coriander seeds
+- ½ tsp cayenne
+- ½ tsp ground allspice
+- ¼ tsp ground cloves
 
 Recipe
 ======

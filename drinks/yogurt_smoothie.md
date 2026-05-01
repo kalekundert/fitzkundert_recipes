@@ -3,7 +3,7 @@ Yogurt Smoothie
 
 Ingredients
 ===========
-- 115 g (1/2 cup) Greek yogurt
+- 115 g (½ cup) Greek yogurt
 - 1-2 cups fruit, frozen or raw, e.g.:
   - blueberry, apple
   - blueberry, strawberry, banana

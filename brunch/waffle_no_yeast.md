@@ -7,7 +7,7 @@ Ingredients
 - 6g baking powder (2 tsp?)
 - 6g salt (½ tsp)
 
-- 1/2 stick unsalted butter
+- ½ stick unsalted butter
 - 3 large eggs
 - 454g milk  (420g water, 34g powder)
 - 42g sugar

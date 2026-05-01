@@ -6,10 +6,10 @@ Servings = 4-6 people
 Ingredients
 -----------
 - 6 cups seedless watermelon, cubed
-- 1/2 cup feta cheese, crumbled
+- ½ cup feta cheese, crumbled
 - 3 Tbsp balsamic vinegar or balsamic glaze
 - 2 Tbsp fresh mint, chopped
-- 1/2 tsp sea salt
+- ½ tsp sea salt
 
 
 Directions

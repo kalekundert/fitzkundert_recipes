@@ -14,14 +14,14 @@ Seasoning Ingredients
 -  1 tsp garlic powder
 -  1 tsp onion powder
 -  1 tsp smoked paprika
--  1/2 tsp salt (plus more to taste)
--  1/4 tsp pepper (plus more to taste)
+-  ½ tsp salt (plus more to taste)
+-  ¼ tsp pepper (plus more to taste)
 
 Bowl Ingredients
 ----------------
 
 -  1 Tbsp olive oil
--  1/4 cup fresh cilantro, chopped
+-  ¼ cup fresh cilantro, chopped
 -  2 limes, juiced and juice divided
 -  1 tsp ground mustard
 -  1.5 lbs boneless, skinless chicken thighs, sliced or cut into chunks
@@ -34,7 +34,7 @@ To garnish
 ----------
 
 -  lime wedges
--  sliced avocado (1/2 per person)
+-  sliced avocado (½ per person)
 -  scallions, separate greens from whites, diced. 
 
 Directions

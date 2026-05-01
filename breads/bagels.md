@@ -13,7 +13,7 @@ Dough:
 - 298 g bread flour
 - 1½ tsp instant yeast
 - 2 tsp salt
-- 1 tbsp malted milk powder
+- 1 Tbsp malted milk powder
 - 113 mL water (63.1% hydration)
 
 Flavorings:
@@ -23,8 +23,8 @@ Flavorings:
 
 Water Bath:
 - 8 cups water
-- 2 tbsp malted milk powder
-- 1 tbsp white sugar
+- 2 Tbsp malted milk powder
+- 1 Tbsp white sugar
 
 Directions
 ----------

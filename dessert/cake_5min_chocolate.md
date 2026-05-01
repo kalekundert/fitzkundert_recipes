@@ -8,13 +8,13 @@ Notes: Requires a microwave
 
 Ingredients
 -----------
-- 4 tablespoons flour
-- 4 tablespoons sugar
-- 2 tablespoons cocoa
+- 4 Tbsp flour
+- 4 Tbsp sugar
+- 2 Tbsp cocoa
 - 1 egg
-- 3 tablespoons milk
-- 3 tablespoons oil
-- 3 tablespoons chocolate chips (optional)
+- 3 Tbsp milk
+- 3 Tbsp oil
+- 3 Tbsp chocolate chips (optional)
 - A small splash of vanilla extract
 - 1 large coffee mug (Microwave Safe)
 

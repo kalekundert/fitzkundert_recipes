@@ -9,15 +9,15 @@ Ingredients
 -----------
 
 - 1 cup (222g) salted butter, softened
-- 1 1/4 cup (137g) powdered sugar
+- 1¼ cup (137g) powdered sugar
 - 1 egg
 - 3 tsp vanilla extract
-- 2 1/2 cups (295g) cake flour
+- 2½ cups (295g) cake flour
 - 1 tsp baking powder
-- 1/2 tsp salt
+- ½ tsp salt
 - 30 soft caramels
-- 1 tbsp milk
-- 1/2 cup milk chocolate melting wafers (can also use melted chocolate chips)
+- 1 Tbsp milk
+- ½ cup milk chocolate melting wafers (can also use melted chocolate chips)
 
 Directions
 ----------
@@ -28,7 +28,7 @@ Directions
 
 3. Allow the dough to rest for 5 minutes to make it easier to handle.
 
-4. Portion the dough out into 1 tbsp portions. Roll into a ball and arrange on the cookie sheet. Using a 1/2 tsp measuring spoon, press down in the center of the ball of dough to make a crater. (Note: I find that this is easier if I dip the measuring spoon into flour in between pressing on each ball of dough.)
+4. Portion the dough out into 1 Tbsp portions. Roll into a ball and arrange on the cookie sheet. Using a ½ tsp measuring spoon, press down in the center of the ball of dough to make a crater. (Note: I find that this is easier if I dip the measuring spoon into flour in between pressing on each ball of dough.)
 
 5. Once all of the cookies have been pressed, bake at 350° F (180°C) for 8-10 min. The cookies will spread but should have a faint crater in the middle still.
 

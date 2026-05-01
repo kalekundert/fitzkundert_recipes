@@ -9,16 +9,16 @@ Basic Dry Pancake Ingredients
 -----------------------------
 -  283 g (about 2 cups) all-purpose flour
 -  1 tsp baking powder
--  1/2 tsp baking soda
+-  ½ tsp baking soda
 -  1 tsp kosher salt
--  1 tbsp sugar
+-  1 Tbsp sugar
 
 For Each Batch of Pancakes
 --------------------------
 -  2 large eggs, separated
 -  1.5 cups (12 ounces) buttermilk (see notes)
 -  1 cup (240 g) sour cream (see notes)
--  56 g (4 tbsp) unsalted butter, melted
+-  56 g (4 Tbsp) unsalted butter, melted
 -  Warm maple syrup
 
 Directions
@@ -43,7 +43,7 @@ Notes
 -----
 1.  Pancake dry mix can be scaled up as many times as you'd like. Each batch of 
     pancakes takes 11 ounces of dry mix to make (about 2 cups plus 2 
-    tablespoons). 
+    Tbsp). 
 
 2.  The buttermilk can be substituted as follows:
 

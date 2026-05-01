@@ -7,18 +7,18 @@ From = [NYT Cooking](https://cooking.nytimes.com/recipes/1019681-cheesy-white-be
 
 Ingredients
 -----------
-- 1/4 cup extra virgin olive oil
+- ¼ cup extra virgin olive oil
 - 3 large cloves garlic, thin sliced
 - 3 Tbsp tomato paste (ok to add 1 Tbsp more)
 - 2 15 oz cans white beans (Cannellini or Great Northern)
-- 1/2 cup boiling water
-- 1/3 lb mozzarella cheese, coarsely grated (approx 1.3 cups)
+- ½ cup boiling water
+- ⅓ lb mozzarella cheese, coarsely grated (approx 1.3 cups)
 - salt and pepper, to your taste
 
 Directions
 ----------
 
-1. Preheat oven to 475ºF
+1. Preheat oven to 475°F
 
 2. In 10-inch ovenproof skillet (cast iron or similar), heat olive oil on medium high heat. Fry garlic approx 60 sec or until fragrant. 
 

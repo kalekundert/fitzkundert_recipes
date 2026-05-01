@@ -6,7 +6,7 @@ Ingredients
 - 1 cup (5 ounces; 140g) medium or coarse cornmeal/polenta [1]
 - 5 cups (1.2L) water, milk, or chicken/vegetable stock [2]
 - salt
-- 2 tablespoons (1 ounce; 30g) unsalted butter or extra-virgin olive oil
+- 2 Tbsp (1 ounce; 30g) unsalted butter or extra-virgin olive oil
 
 Recipe
 ======

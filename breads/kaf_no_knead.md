@@ -5,7 +5,7 @@ Ingredients
 ===========
 907 g all-purpose flour
 680 g water (75.0%)
-1 tbsp salt
+1 Tbsp salt
 1½ tsp instant yeast
 
 Halved ingredients

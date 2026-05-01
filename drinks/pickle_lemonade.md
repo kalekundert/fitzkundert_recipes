@@ -8,7 +8,7 @@ Recipe = [NYT Cooking](https://cooking.nytimes.com/recipes/1026873-pickle-lemona
 Ingredients
 -----------
 - 7 large organic lemons, at room temperature
-- 2/3 cup granulated sugar
+- ⅔ cup granulated sugar
 - 3 cups chilled, filtered water
 - 1 to 1.25 cups dill pickle juice, plus pickle spears for garnish
 - Ice, for serving 

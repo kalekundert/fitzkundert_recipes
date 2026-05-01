@@ -7,14 +7,14 @@ Polenta:
 5 cups water
 1 tsp salt
 1 cup corn meal (coarse, medium-coarse, or "polenta")
-2 tbsp unsalted butter
-1/4 cup Parmesan cheese
+2 Tbsp unsalted butter
+¼ cup Parmesan cheese
 
 Everything Else:
 1 lb Italian sausage
 2 cans (29 oz) stewed "Italian style" tomatoes (drained)
 8 oz mozzarella cheese (idea: sliced)
-1/2 cup Parmesan cheese
+½ cup Parmesan cheese
 
 Recipe
 ======

@@ -11,7 +11,7 @@ Ingredients
 -----------
 
 -  1 Tbsp butter
--  2/3 cup graham cracker crumbs
+-  ⅔ cup graham cracker crumbs
 -  4 large eggs, whites only
 -  1 tsp vanilla extract
 -  1 cup granulated sugar
@@ -21,7 +21,7 @@ Ingredients
 Directions
 ----------
 
-1.  Preheat oven to 350F
+1.  Preheat oven to 350°F
 
 2.  Butter an 8-inch round springform pan. Sprinkle bottom and sides with graham cracker crumbs. 
 

@@ -6,14 +6,14 @@ Ingredients
 Dough:
 - 92 g sugar
 - 1 tsp salt
-- 5.5 tbsp shortening or unsalted butter
+- 5.5 Tbsp shortening or unsalted butter
 - 1 large egg
 - 1 tsp lemon extract (or grated zest)
 - 454 g all-purpose (or bread) flour
 - 2 tsp instant yeast
 - 1⅛ cup whole milk or buttermilk
 - ½ cup cinnamon sugar
-  - 6½ tbsp sugar
+  - 6½ Tbsp sugar
   - 1½ tsp cinnamon (or any other spice, e.g. Chai)
 
 Caramel:

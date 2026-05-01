@@ -8,11 +8,11 @@ Ingredients
   - only get about 40-50 g of chocolate dust from a 113 g bar, so buy 2-3 bars.
 
 - 305 g all-purpose flour
-- 50 g (1/4 cup) sugar
+- 50 g (¼ cup) sugar
 - 383 g brown sugar
 - 480 g (4 cups) powdered sugar
-- 95 g (1/2 cup) shortening
-- 2 1/2 tsp vanilla extract
+- 95 g (½ cup) shortening
+- 2½ tsp vanilla extract
 - 2 tsp baking soda
 - 1 tsp salt
 

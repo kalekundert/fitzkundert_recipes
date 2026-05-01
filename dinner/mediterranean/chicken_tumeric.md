@@ -9,9 +9,9 @@ From = [The Mediterranean Dish](https://www.themediterraneandish.com/mediterrane
 
 Ingredients
 -----------
--  1/2 cup extra virgin olive oil
--  1/2 cup dry white wine
--  1/2 cup orange juice
+-  ½ cup extra virgin olive oil
+-  ½ cup dry white wine
+-  ½ cup orange juice
 -  1 lime, juiced
 -  2 Tbsp yellow mustard
 -  3 Tbsp brown sugar, more for later
@@ -36,9 +36,9 @@ Directions
 
 4.  Add the seasoned chicken and the remaining ingredients to the large bowl of marinade. Work the chicken well into the marinade. Cover and refrigerate for 1-2 hours (minimum 30 min).  
 
-5.  When ready, preheat the oven to 475 degrees F. Transfer the chicken along with the marinade and everything else to a large baking pan so that everything is comfortably arranged in one layer. Be sure the chicken skin is facing up. Sprinkle with a dash of salt and more brown sugar, if desired.
+5.  When ready, preheat the oven to 475°F. Transfer the chicken along with the marinade and everything else to a large baking pan so that everything is comfortably arranged in one layer. Be sure the chicken skin is facing up. Sprinkle with a dash of salt and more brown sugar, if desired.
 
-6.  Roast for 40-45 minutes, or until the chicken is cooked through and the chicken skin has nicely browned. Internal chicken temperature should be 170F
+6.  Roast for 40-45 minutes, or until the chicken is cooked through and the chicken skin has nicely browned. Internal chicken temperature should be 170°F
 
 Notes
 -----

@@ -3,9 +3,9 @@ Old Fashioned
 
 Ingredients
 ===========
-- 2 oz. (1/4 cup, 1 finger) high-proof bourbon (cheap is ok!)
+- 2 oz. (¼ cup, 1 finger) high-proof bourbon (cheap is ok!)
 - 1 tsp. simple syrup
-- 1-5 dashes (1/8-1/2 tsp) Angostura bitters (to taste)
+- 1-5 dashes (⅛-½ tsp) Angostura bitters (to taste)
 - Lemon peel
 - Orange peel
 - 1-2 ice cubes

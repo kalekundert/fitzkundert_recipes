@@ -11,19 +11,19 @@ Ingredients
 *Cake*
 
 - 170g semisweet chocolate chips or bittersweet chocolate chips
-- 8 tablespoons (113g) unsalted butter, at room temperature
+- 8 Tbsp (113g) unsalted butter, at room temperature
 - 149g granulated sugar
-- 1/4 teaspoon table salt
-- optional, 1 to 2 teaspoons espresso powder
-- 1 teaspoon King Arthur Pure Vanilla Extract
+- ¼ tsp table salt
+- optional, 1 to 2 tsp espresso powder
+- 1 tsp King Arthur Pure Vanilla Extract
 - 3 large eggs
-- 1/2 cup (42g) Dutch-process cocoa
+- ½ cup (42g) Dutch-process cocoa
 
 *Glaze*
 
 1 cup (170g) semisweet chocolate
 chips or bittersweet chocolate chips
-1/2 cup (113g) heavy cream
+½ cup (113g) heavy cream
 
 Directions
 ----------
@@ -32,7 +32,7 @@ Directions
 
 2. To make the cake: Put the chocolate and butter in a microwave-safe bowl, and heat until the butter is melted and the chips are soft. Stir until the chips melt, reheating briefly if necessary. You can also do this over a burner set at very low heat. Transfer the melted chocolate/butter to a mixing bowl.
 
-3. Stir in the sugar, salt, espresso powder, and vanilla. Espresso enhances chocolate's flavor much as vanilla does; using 1 teaspoon will simply enhance the flavor, while 2 teaspoons will lend a hint of mocha to the cake.
+3. Stir in the sugar, salt, espresso powder, and vanilla. Espresso enhances chocolate's flavor much as vanilla does; using 1 tsp will simply enhance the flavor, while 2 tsp will lend a hint of mocha to the cake.
 
 4. Add the eggs, beating briefly until smooth. Add the cocoa powder, and mix until just combined.
 

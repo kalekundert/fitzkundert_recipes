@@ -19,6 +19,6 @@ Directions
 ----------
 1.  Cook pasta in boiling, salted water until al dente. Drain and rinse under cool water. 
 
-2.  Add pasta, tomatoes, cucumber, pepperoni, black olives, salad seasoning, and 3/4 cup dressing to a large bowl and toss to combine. 
+2.  Add pasta, tomatoes, cucumber, pepperoni, black olives, salad seasoning, and ¾ cup dressing to a large bowl and toss to combine. 
 
 3.  Chill at least 2 hrs or until ready to serve. Add remaining salad dressing before serving. 

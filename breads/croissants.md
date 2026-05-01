@@ -3,21 +3,21 @@ Croissants
 
 Ingredients
 ===========
-- 3 tbsp unsalted butter
+- 3 Tbsp unsalted butter
 - 1¾ cups whole milk
 - 4 tsp instant/rapid-rise yeast
 - 602 g all-purpose flour
 - 50 g sugar
 - 2 tsp salt
 
-- 3 sticks (24 tbsp) Kerry Gold unsalted butter
+- 3 sticks (24 Tbsp) Kerry Gold unsalted butter
 
 - 1 egg
 - 1 tsp water
 
 Recipe
 ======
-1. Melt 3 tbsp butter in a medium saucepan over low heat.
+1. Melt 3 Tbsp butter in a medium saucepan over low heat.
 
 2. Remove from heat and stir in milk (temperature should be below 90°F).
 
@@ -42,8 +42,8 @@ Recipe
 Notes
 =====
 - The recipe calls for unsalted butter in the dough, but I only had salted 
-  butter.  Lucerne salted sweet cream butter has 90 mg Na⁺ per tbsp.  That 
-  corresponds to 686 mg NaCl in the 3 tbsp the recipe calls for.  The nutrition 
+  butter.  Lucerne salted sweet cream butter has 90 mg Na⁺ per Tbsp.  That 
+  corresponds to 686 mg NaCl in the 3 Tbsp the recipe calls for.  The nutrition 
   facts for Morton salt say that ¼ tsp weighs 1.5 g, so 686 mg salt is about
   ⅛ tsp.
 

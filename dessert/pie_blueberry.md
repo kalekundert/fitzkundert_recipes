@@ -3,12 +3,12 @@ Blueberry Pie
 
 Ingredients
 ===========
-- 1/3 cup water
+- ⅓ cup water
 - 250 g (1¼ cup) sugar
-- 6 tbsp (3/8 cups, 1/4 cup + 2 tbsp) corn starch
-- 1/4 tsp salt
+- 6 Tbsp (⅜ cups, ¼ cup + 2 Tbsp) corn starch
+- ¼ tsp salt
 - 6 cups blueberries
-- 2 tbsp butter (unsalted)
+- 2 Tbsp butter (unsalted)
 - 1 tsp lemon juice
 - 10" pie shell
 

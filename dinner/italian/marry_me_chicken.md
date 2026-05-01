@@ -9,17 +9,17 @@ Ingredients
 
 - 3 large boneless, skinless chicken breasts, or 6 chicken cutlets (about 2¼ pounds total), patted dry
 - Kosher salt and black pepper, to your taste
-- 1/4 cup AP flour flour
+- ¼ cup AP flour flour
 - 3 Tbsp extra-virgin olive oil, plus more as needed
 - 3 Tbsp unsalted butter
 - 3 garlic cloves, chopped
 - 1 Tbsp tomato paste
-- 1/2 tsp dried oregano 
+- ½ tsp dried oregano 
 - Red-pepper flakes, to your taste  
 - 1 cup low-sodium chicken stock
-- 1/2 to 3/4 cup heavy cream
-- 1/2 cup (1.5 ounces) grated Parmesan
-- 1/3 cup sliced sun-dried tomatoes, packed in oil
+- ½ to ¾ cup heavy cream
+- ½ cup (1.5 ounces) grated Parmesan
+- ⅓ cup sliced sun-dried tomatoes, packed in oil
 - Fresh basil, for serving
 
 Directions 

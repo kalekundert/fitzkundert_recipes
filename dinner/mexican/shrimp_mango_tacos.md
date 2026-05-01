@@ -19,7 +19,7 @@ Salsa Ingredients
 - 1-2 ripe mangos
 - 1 ripe avocado
 - 2 medium, ripe tomatoes (the most flavorful you can find)
-- 1/4 cup chopped onion or spicy peppers (optional)
+- ¼ cup chopped onion or spicy peppers (optional)
 - 1 lime, juiced
 
 Directions

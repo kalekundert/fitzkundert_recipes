@@ -9,18 +9,18 @@ Ingredients
 
 - 2 can (8 oz) refrigerated pillsbury original crescent rolls
 - 8 slices provolone cheese, halved
-- 1/4 lb deli sliced ham
-- 1/2 cup roasted red bell peppers (from a jar), drained and patted dry
-- 1/3 lb deli sliced hot salami
-- 1/4 lb deli sliced capocollo or prosciutto
-- 1/4 cup hot pepper rings (from a jar), drained and patted dry
-- 1/8 tsp black pepper
+- ¼ lb deli sliced ham
+- ½ cup roasted red bell peppers (from a jar), drained and patted dry
+- ⅓ lb deli sliced hot salami
+- ¼ lb deli sliced capocollo or prosciutto
+- ¼ cup hot pepper rings (from a jar), drained and patted dry
+- ⅛ tsp black pepper
 
 
 Directions
 ----------
 
-1. Preheat oven to 375F (350F if using non-stick cooking sheet)
+1. Preheat oven to 375°F (350°F if using non-stick cooking sheet)
 
 2. Unroll both cans of dough and separate into 16 triangles. On a large, ungreased cookie sheet, arrange the dough triangles so the short edge of the tringle form a 5-inch circle in the center. The triangles should overlap and the dough ring should look like the sun. 
 

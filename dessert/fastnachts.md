@@ -10,10 +10,10 @@ Dough Ingredients
 -----------------
 -  2 cups whole milk
 -  1 cup mashed potatoes (no salt, milk or butter added)
--  1/2 cup + 1/2 tsp white sugar
+-  ½ cup + ½ tsp white sugar
 -  1 stick unsalted butter, melted
 -  1 packet rapid rise yeast (rapid-rise yeast creates a fluffy texture)
--  1/4 cup luke warm water
+-  ¼ cup luke warm water
 -  6.5 cups AP flour, sifted and divided (2 cups + 4.5 cups)
 -  1 egg, beaten
 -  1 can Crisco shortening (3 lbs) (or similar vegetable shortening for frying)
@@ -22,9 +22,9 @@ Dough Ingredients
 
 Making Fastnacht Dough and 1st Rise
 -----------------------------------
-1.  Scald the milk. Combine scaled milk with mashed potatoes. Add 1/2 cup sugar and butter. Cool to room temperature before proceeding with the next step. 
+1.  Scald the milk. Combine scaled milk with mashed potatoes. Add ½ cup sugar and butter. Cool to room temperature before proceeding with the next step. 
 
-2.  Dissolve yeast and 1/2 tsp sugar into lukewarm water. 
+2.  Dissolve yeast and ½ tsp sugar into lukewarm water. 
 
 3.  Add yeast to the potato mixture and mix well. Add 2 cups flour and mix again. 
 
@@ -38,7 +38,7 @@ Making Fastnacht Dough and 1st Rise
 
 Rolling Out Fastnachts and 2nd Rise
 -----------------------------------
-7. On a lightly floured surface, roll dough approx 3/4 inch thick. 
+7. On a lightly floured surface, roll dough approx ¾ inch thick. 
 
 8.  Cut the dough into 3-4 inch wide strips. Then cut the strips into 3-4 inch pieces. 
 
@@ -48,7 +48,7 @@ Rolling Out Fastnachts and 2nd Rise
 
 Frying Fastnachts
 -----------------
-11.  Heat shortening to 365F (check with a high-temp frying thermometer).
+11.  Heat shortening to 365°F (check with a high-temp frying thermometer).
 
 12.  Deep fry until both sides are golden brown, turning 1 time. (ADULT ONLY JOB)
 

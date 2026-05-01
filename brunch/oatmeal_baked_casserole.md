@@ -8,13 +8,13 @@ Ingredients
 -----------
 
 - 2 cups all natural oats
-- 1/3 cup brown sugar
+- ⅓ cup brown sugar
 - 1 tsp baking powder
 - 1 tsp cinnamon
-- 1/2 tsp salt
-- 1/2 cup chocolate chips
+- ½ tsp salt
+- ½ cup chocolate chips
 - 1 cup strawberries
-- 2/3 cup blueberries
+- ⅔ cup blueberries
 - 1 medium or large ripe banana
 - 2 cups milk
 - 1 large egg
@@ -34,6 +34,6 @@ Directions
 
 5. In a separate bowl, combine milk, egg, butter, & vanilla. Whisk thoroughly. Pour on top of oatmeal mixture, making sure the all oats are soaked evenly.
 
-6. Bake for 30 minutes. Then, remove casserole & add a tablespoon of brown sugar to the top of the casserole for added sweetness (optional.) 
+6. Bake for 30 minutes. Then, remove casserole & add a Tbsp of brown sugar to the top of the casserole for added sweetness (optional.) 
 
 7. Bake for an additional 5 or 10 minutes or until the top of the casserole is golden brown.

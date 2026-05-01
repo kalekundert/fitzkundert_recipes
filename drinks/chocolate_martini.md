@@ -7,7 +7,7 @@ From: John Allan
 Ingredients
 -----------
 -  Chocolate Chipotle Powder (2 Tbsp high quality cocoa powder, 1 Tbsp ground chipotle, 1 Tbsp ground pepitas)
--  1/5 oz dark chocolate liqueur
+-  ⅕ oz dark chocolate liqueur
 -  1.5 oz chocolate vodka
 -  1.5 oz tequila (100 percent agave reposado)
 -  1.5 oz coffee liqueur (Kahlua or similar)

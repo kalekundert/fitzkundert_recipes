@@ -13,7 +13,7 @@ Ingredients
 -   1 Tbsp mustard
 -   12 to 16 oz breakfast sausage, removed from casing, browned
 -   1 cup cheddar cheese, grated
--   cubed white bread (approx 6 slices sandwich bread or 3/4 loaf of Semifreddi's challah)
+-   cubed white bread (approx 6 slices sandwich bread or ¾ loaf of Semifreddi's challah)
 -   salt and pepper (to your taste)
 -   9 x 13 inch baking dish
 
@@ -31,6 +31,6 @@ Directions--the night before
 Directions--in the morning
 --------------------------
 
-5.  Preheat oven to 350F
+5.  Preheat oven to 350°F
 
-6.  Remove pan from fridge while oven preheats. Bake at 350F for 45 min. Cool for 5-6 min before cutting and serving.
+6.  Remove pan from fridge while oven preheats. Bake at 350°F for 45 min. Cool for 5-6 min before cutting and serving.

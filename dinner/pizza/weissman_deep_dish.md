@@ -5,17 +5,17 @@ Ingredients
 ===========
 Dough (2x):
 - 3 cups (430 g) all-purpose flour
-- 1/2 cup (82 g) corn meal
+- ½ cup (82 g) corn meal
 - 2 tsp (12 g) fine sea salt
 - 1 Tbsp (14 g) granulated sugar
 - 2.5 tsp (8 g) instant yeast
-- 1 1/3 cup (300 ml) warm water
-- 1/4 cup (56 g) unsalted butter, gently melted
+- 1⅓ cup (300 ml) warm water
+- ¼ cup (56 g) unsalted butter, gently melted
 - 3.5 Tbsp (50 g) unsalted softened butter
 
 Sauce (2x):
 - 4 slices bacon, cubed and finely chopped
-- 1/4 cup (56 g) olive oil (or melted butter)
+- ¼ cup (56 g) olive oil (or melted butter)
 - 1 onion, finely minced (or grated)
 - 5 cloves garlic, minced
 - 2 tsp (7 g) red pepper flakes
@@ -26,9 +26,9 @@ Sauce (2x):
 
 Toppings (1x):
 - 60 g (1 cup) Comté cheese, grated
-- 30 g (1/2 cup) Parmesan, grated
-- 226 g (1/2 lb) mozzarella, sliced or shredded
-- Meats of choice (pepperoni, salami, 1/2 lb cooked sausage)
+- 30 g (½ cup) Parmesan, grated
+- 226 g (½ lb) mozzarella, sliced or shredded
+- Meats of choice (pepperoni, salami, ½ lb cooked sausage)
 - Olives
 - Olive oil
 

@@ -24,6 +24,6 @@ Directions
 
 3.  Gradually add sugar while beating, until whites are shiny and hold med-firm peaks. 
 
-4.  Spoon 1/4 of whites over chocolate and stir with whisk until almost smooth. GENTLY fold rest of egg whites into chocolate--being careful not to over-fold. 
+4.  Spoon ¼ of whites over chocolate and stir with whisk until almost smooth. GENTLY fold rest of egg whites into chocolate--being careful not to over-fold. 
 
 5.  Garnish with whipped cream and fresh berries and serve. 

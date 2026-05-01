@@ -5,7 +5,7 @@ Ingredients
 ===========
 - 6 g freeze-dried blackberries (≈6-8 berries)
 - 6 g dried orange slices (≈2 slices)
-- 1/4 cup sugar
+- ¼ cup sugar
 - 320 g vodka
 
 Directions
@@ -23,7 +23,7 @@ Directions
 
 Notes
 =====
-- 2026/01/03: We found a few other recipes that used 1/4 cup sugar, but it 
+- 2026/01/03: We found a few other recipes that used ¼ cup sugar, but it 
   looked like a lot once we added it to the jar.
 
 Reference

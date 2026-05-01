@@ -4,8 +4,8 @@ Yeast-Risen Waffle Batter
 Ingredients
 ----
 - 1½ cups milk (340 mL)
-- 6 tbsp butter (85g, melted)
-- 2-3 tbsp maple syrup (39-57g, optional)
+- 6 Tbsp butter (85g, melted)
+- 2-3 Tbsp maple syrup (39-57g, optional)
 - ¾ tsp salt
 - 1 tsp vanilla extract
 - 2 large eggs

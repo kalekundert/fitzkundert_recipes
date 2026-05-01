@@ -10,11 +10,11 @@ Ingredients
 - 4 Tbsps olive oil
 - 1 medium yellow onion, thin sliced
 - 4 cloves garlic, thin sliced
-- 12 oz carrots, cut into 1/4 inch slices
+- 12 oz carrots, cut into ¼ inch slices
 - Kosher salt
 - Fresh-ground black pepper
-- 1/4 tsp red pepper flakes
-- 6 oz or 2 large portobello mushrooms, 1/2 inch slices
+- ¼ tsp red pepper flakes
+- 6 oz or 2 large portobello mushrooms, ½ inch slices
 - 4 Tbsp tomato paste
 - 1.5 Tbsp dark brown sugar
 - 3 or 4 cups vegetable stock
@@ -27,17 +27,17 @@ Ingredients
 
 Directions
 ----------
-1. Preheat oven to 350F
+1. Preheat oven to 350°F
 
-2. Heat 4 tablespoons olive oil over medium heat and add onion; cook 3 minutes, until softened. 
+2. Heat 4 Tbsp olive oil over medium heat and add onion; cook 3 minutes, until softened. 
 
-3. Add garlic and cook 2 minutes more. Add the carrots, 1 teaspoon salt, freshly ground black pepper, and red pepper flakes and cook for 2 more minutes, until they begin to glisten. 
+3. Add garlic and cook 2 minutes more. Add the carrots, 1 tsp salt, freshly ground black pepper, and red pepper flakes and cook for 2 more minutes, until they begin to glisten. 
 
 4. Add the mushrooms and cook for 4 minutes, until they begin to soften. 
 
 5. Add tomato paste and brown sugar and cook until well-incorporated, approx 3 minutes. 
 
-6. Add 3 cups stock, vinegar, Worcestershire or soy sauce, chickpeas, and bay leaf and bring to a simmer with another teaspoon of kosher salt and more ground pepper.
+6. Add 3 cups stock, vinegar, Worcestershire or soy sauce, chickpeas, and bay leaf and bring to a simmer with another tsp of kosher salt and more ground pepper.
 
 7. Once simmering, either cover tightly with a lid or pour into your baking dish and cover with a lid or tightly with foil and transfer to oven. 
 

@@ -12,14 +12,14 @@ Ingredients
 -  2 Tbsp unsalted butter
 -  1 large yellow onion, fine chop
 -  2 firm, tart apples (Granny Smith, Honeycrisp) peel and dice 1 apple, reserve 1 apple
--  3 stalks celary, chopped into 1/2 inch pieces
+-  3 stalks celary, chopped into ½ inch pieces
 -  6 cloves garlic, minced or pressed
--  1 sprig fresh sage, leaves chopped (can substitute 1/2 tsp dried sage)
+-  1 sprig fresh sage, leaves chopped (can substitute ½ tsp dried sage)
 -  1 spring fresh thyme
 -  12 oz dry hard cider (any sparkling or still, dry hard cider works) (see notes)
--  3/4 pound smoked sausage (kielbasa or andouille), sliced into 1/2 inch coins
+-  ¾ pound smoked sausage (kielbasa or andouille), sliced into ½ inch coins
 -  10 oz dried small green lentils (French lentils aka lentils du Puy) (see notes)
--  1/4 tsp ground nutmeg
+-  ¼ tsp ground nutmeg
 -  2 tsp cider vinegar
 -  2 tsp dijon mustard
 -  4 to 6 scallions, thin-slice (garnish)
@@ -35,7 +35,7 @@ Directions
 
 3.  Add the celery, garlic, sage and thyme, and stir to combine. Pour in the cider and let it come to a bubble. 
 
-4.  Scrape the mixture into a 6- to 8-quart slow cooker. Add the sausage, lentils, nutmeg, 1 teaspoon salt and a generous amount of black pepper to the slow cooker; pour in 3 cups water.
+4.  Scrape the mixture into a 6- to 8-quart slow cooker. Add the sausage, lentils, nutmeg, 1 tsp salt and a generous amount of black pepper to the slow cooker; pour in 3 cups water.
 
 5. Cover and cook on low heat until the lentls are tender and the flavors have mellowed and blended, approx 8 hours. This soup can hold well on the "keep warm" setting. 
 

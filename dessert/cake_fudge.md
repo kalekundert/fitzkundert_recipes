@@ -4,7 +4,7 @@ Fudge Cake
 Ingredients
 ===========
 The Creamed:
-- 8 tbsp (113 g) unsalted butter (65-70°F)
+- 8 Tbsp (113 g) unsalted butter (65-70°F)
 - 383 g brown sugar
 
 The Wet Goods:

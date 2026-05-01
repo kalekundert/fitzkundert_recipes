@@ -3,7 +3,7 @@ Mexican Rice
 
 Ingredients
 ----
-- 3 tbsp oil
+- 3 Tbsp oil
 - 1 cup rice
 - 1 tsp garlic salt
 - ½ tsp cumin

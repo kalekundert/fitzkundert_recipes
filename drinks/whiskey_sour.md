@@ -7,9 +7,9 @@ From: John Allan
 Ingredients
 -----------
 -  2 ounces bourbon
--  3/4 ounce lemon juice, freshly squeezed
--  1/2 ounce simple syrup
--  1/2 ounce egg white (optional)
+-  ¾ ounce lemon juice, freshly squeezed
+-  ½ ounce simple syrup
+-  ½ ounce egg white (optional)
 -  Angostura bitters, to garnish
 
 Directions

@@ -9,11 +9,11 @@ Ingredients
 - 20 grams salt and vinegar potato chips, not kettle cooked or thick cut
 - 2 tsp dried oregano
 - 2 tsp dried parsley
-- 1 1/2 tsp garlic powder
-- 70 grams (2/3 cup) all-purpose flour
+- 1½ tsp garlic powder
+- 70 grams (⅔ cup) all-purpose flour
 - 2 large eggs, beaten
-- 4 tbsp unsalted butter, divided
-- 2 tbsp olive oil, divided 
+- 4 Tbsp unsalted butter, divided
+- 2 Tbsp olive oil, divided 
 - 1 cup red sauce, divided, recipe follows
 - 2 oz low-moisture mozzarella, shredded
 - 2 oz Italian fontina, shredded
@@ -22,9 +22,9 @@ Ingredients
 Red Sauce:
 - 8 cloves garlic
 - 2 tsp kosher salt 
-- 1/4 cup plus 1/2 tsp extra-virgin olive oil, divided
+- ¼ cup plus ½ tsp extra-virgin olive oil, divided
 - 4 anchovy filets
-- 1/2 tsp red pepper flakes 
+- ½ tsp red pepper flakes 
 - 2 28 oz cans peeled whole San Marzano tomatoes, drained
 - 2-inch Parmesan rind 
 
@@ -35,7 +35,7 @@ Special equipment:
 
 Directions
 ==========
-1. Butterfly the chicken breasts and pound them to about 1/8" thick.
+1. Butterfly the chicken breasts and pound them to about ⅛" thick.
 
 2. Cut the chicken breasts into 6 to 8 even pieces. Season with the salt on 
    both sides and place on a rack set inside a sheet pan. Cover and refrigerate 
@@ -56,13 +56,13 @@ Directions
 6. Position an oven rack in the top third of the oven and crank the broiler to 
    high. Line a clean pan with paper towels and have it standing by. 
 
-7. Melt 2 tbsp of the butter with 1 tbsp of the olive oil in an 11-inch sauté 
+7. Melt 2 Tbsp of the butter with 1 Tbsp of the olive oil in an 11-inch sauté 
    pan over medium heat. When the butter foams, add half the breaded chicken to 
    the pan, but don’t overcrowd. Cook, undisturbed, until crisp and golden 
    brown, about 2 minutes per side. Transfer to the clean rack, wipe out the 
    pan and repeat with the remaining butter, oil and chicken. 
 
-8. Spread 3/4 cup of the red sauce into the bottom of a a 9-by-13-inch 
+8. Spread ¾ cup of the red sauce into the bottom of a a 9-by-13-inch 
    oven-proof glass baking dish or metal pan and broil until the sauce bubbles 
    and begins to caramelize, no more than 2 minutes (see Cook's Note).
 
@@ -77,10 +77,10 @@ Directions
 
 Red Sauce:
 
-1. Work the garlic, salt and 1/2 tsp extra-virgin olive oil together with a 
+1. Work the garlic, salt and ½ tsp extra-virgin olive oil together with a 
    mortar and pestle until a paste forms.
 
-2. Heat the remaining 1/4 cup extra-virgin olive oil in a medium saucepan over 
+2. Heat the remaining ¼ cup extra-virgin olive oil in a medium saucepan over 
    medium heat. Add the garlic paste and cook, stirring, until it begins to 
    brown, about 2 minutes. 
 

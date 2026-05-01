@@ -8,11 +8,11 @@ Notes: Wedding reception recipe book
 Ingredients
 -----------
 
--  1/2 cup mayo
--  1/2 cup ketchup
--  1/8 cup pickle relish
+-  ½ cup mayo
+-  ½ cup ketchup
+-  ⅛ cup pickle relish
 -  1 tsp worcestershire sauce
--  1/2 tsp sugar
+-  ½ tsp sugar
 -  milk (optional, to thin) (add 1 Tbsp at a time)
 
 Directions

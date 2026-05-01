@@ -7,7 +7,7 @@ Dough:
 - 200 g (1¼ cup) bread flour
 - 1 tsp (5 g) kosher salt, plus more for sprinkling
 - ¼ tsp (2 g) instant yeast
-- 138 grams (69%, 1 cup + 1 tbsp + 1 tsp) water
+- 138 grams (69%, 1 cup + 1 Tbsp + 1 tsp) water
 - 4 grams (1 tsp) extra-virgin olive oil
 
 Toppings:
@@ -35,7 +35,7 @@ Recipe
 
 3. Shape the dough into a ball on a well-floured work surface.
 
-4. Pour 1 to 2 tbsp of oil in the bottom of a 10-inch cast iron skillet. Place 
+4. Pour 1 to 2 Tbsp of oil in the bottom of a 10-inch cast iron skillet. Place 
    the dough in the pan and turn to coat evenly with oil. Using a flat palm, 
    press the dough around the pan, flattening it slightly and spreading oil 
    around the entire bottom and edges of the pan. Cover tightly with plastic 

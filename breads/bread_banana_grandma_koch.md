@@ -9,21 +9,21 @@ Original recipe = Wesson oil cookbook
 Basic Ingredients
 -----------------
 
--  1/3 cup Fluffo (shortening)
--  3/4 cup white sugar
+-  ⅓ cup Fluffo (shortening)
+-  ¾ cup white sugar
 -  2 bananas, sliced
 -  1 egg
 -  2 cups enriched flour, sifted
 -  1 tsp double-acting baking powder
--  1/2 tsp soda
+-  ½ tsp soda
 -  1 tsp salt
--  3/4 cup buttermilk
+-  ¾ cup buttermilk
 -  1 tsp vanilla
 
 Directions
 ----------
 
-1.  Preheat oven to 350F
+1.  Preheat oven to 350°F
 
 2.  Cream together fluffo, sugar, and banana. Add egg and beat until well blended. 
 
@@ -34,6 +34,6 @@ Directions
 Variations
 ----------
 
-- *banana nut loaf:* add 1/2 cup chopped walnuts before pouring into loaf pan
+- *banana nut loaf:* add ½ cup chopped walnuts before pouring into loaf pan
 
-- *prune or apricot loaf:* use 3/4 cup of cooked, drained, and mashed prunes or apricots instead of banana and 3/4 cup prune or apricot juice in place of buttermilk. Add the zest of 1 lemon. 
+- *prune or apricot loaf:* use ¾ cup of cooked, drained, and mashed prunes or apricots instead of banana and ¾ cup prune or apricot juice in place of buttermilk. Add the zest of 1 lemon. 

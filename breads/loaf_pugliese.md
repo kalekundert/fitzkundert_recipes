@@ -2,7 +2,7 @@ Biga
 ====
 149 g unbleached all-purpose flour
 113 mL cool water (75.8%)
-1/8 tsp instant yeast
+⅛ tsp instant yeast
 
 Dough
 =====
@@ -76,7 +76,7 @@ How to get an open crumb
    strengthens, and when crust begins to form.  You can use these three 
    techniques to delay the formation of the crust:
 
-   - Use steam in the oven the first 1/3 or 1/4 of baking time.  Steam will 
+   - Use steam in the oven the first ⅓ or ¼ of baking time.  Steam will 
      keep the "outer skin" of the bread humid, so it will prevent it from 
      getting dry and forming the crust.
 

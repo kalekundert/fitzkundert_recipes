@@ -27,9 +27,9 @@ Ingredients
 Spices
 ------
 - salt and pepper, to your taste
-- 1/2 tsp cayenne pepper
+- ½ tsp cayenne pepper
 - 1 Tbsp chili powder
-- 1/4 tsp cumin
+- ¼ tsp cumin
 - dash nutmeg
 - dash onion powder
 - dash oregano

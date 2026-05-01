@@ -15,7 +15,7 @@ Ingredients
 -   1 can (15 oz) low sodium black beans, retain liquid
 -   Tex-Mex Paste
 -   1 cube veggie stock concentrate
--   1/4 cup Monterey Jack Cheese
+-   ¼ cup Monterey Jack Cheese
 -   blue corn tortilla chips (to garnish)
 -   3 Tbsp sour cream (to garnish)
 -   cilantro (to garnish)
@@ -29,7 +29,7 @@ Directions
 
 2. Add diced tomatoes, tomato paste, spice mix, and cook 1 min until fragrant. 
 
-3. Add beans and their liquid, tex-mex paste, stock concentrate, and 1/2 cup water. Bring to boil and reduce to simmer over med-low. 
+3. Add beans and their liquid, tex-mex paste, stock concentrate, and ½ cup water. Bring to boil and reduce to simmer over med-low. 
 
 4. Cook until slightly thickened, approx 9-10 min. Season with salt and pepper. 
 

@@ -11,15 +11,15 @@ Ingredients
 *Crust*
 
 - 180g graham cracker crumbs (about 12 full sheet graham crackers)
-- 6 Tablespoons (85g) unsalted butter, melted
-- 1/4 cup (50g) granulated sugar
+- 6 Tbsp (85g) unsalted butter, melted
+- ¼ cup (50g) granulated sugar
 
 *Filling*
 
 - 4 ounces (113g) full-fat brick cream cheese, softened to room temperature
 - 4 large egg yolks
 - one 14 oz can (396g) full-fat sweetened condensed milk
-- 1/2 cup (120ml) key lime juice*
+- ½ cup (120ml) key lime juice*
 - optional: lime slices and whipped cream for garnish
 
 

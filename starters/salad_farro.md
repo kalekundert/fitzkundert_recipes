@@ -9,12 +9,12 @@ Ingredients
 -----------
 
 -  2 corn tortillas, cut into thin strips
--  3/4 cup semi-pearled farro
+-  ¾ cup semi-pearled farro
 -  3 oz radishes, sliced thinly
 -  1 avocado, medium dice. 
 -  1 cara cara orange, medium dice
 -  1 lb sweet potato, peeled and diced
--  1/2 lb broccoli, chopped (keep florets intact)
+-  ½ lb broccoli, chopped (keep florets intact)
 -  1 lime, quartered
 -  2 Tbsp rice vinegar
 -  2 tsp Chipotle Chili paste or adobo chilis and chili sauce
@@ -26,7 +26,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven (middle rack) to 450ºF. Heat large pot of salted water until boiling.
+1. Preheat oven (middle rack) to 450°F. Heat large pot of salted water until boiling.
 
 2. When water is boiling, add farro and cook, uncovered, 18-22 min or until tender. Drain excess water, add dash of olive oil and salt and pepper to taste. 
 

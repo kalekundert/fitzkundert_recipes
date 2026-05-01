@@ -1,15 +1,15 @@
 Reagents
 ========
 1 large egg white
-1/2 cup sugar
+½ cup sugar
 1 tsp nutmeg
 1 tsp cinnamon
-1/2 tsp salt
+½ tsp salt
 2 cups pecan halves
 
 Procedure
 =========
-1. Preheat oven to 350F.
+1. Preheat oven to 350°F.
 2. Prepare a baking sheet.
 
 3. Whisk egg white until foamy.

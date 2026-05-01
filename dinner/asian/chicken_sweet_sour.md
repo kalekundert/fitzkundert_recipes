@@ -10,15 +10,15 @@ Ingredients
 *For the Chicken* \
 - 3-4 boneless, skinless chicken breasts
 - Salt and pepper to taste
-- 1 1/2 cup cornstarch
+- 1½ cup cornstarch
 - 3 eggs, beaten
-- 1/4 cup canola oil
+- ¼ cup canola oil
 
 * For the Sweet and Sour Sauce* \
 - 1 cup granulated sugar
-- 4 tablespoons ketchup
-- 1/4 cup white vinegar
-- 1/4 cup apple cider vinegar
+- 4 Tbsp ketchup
+- ¼ cup white vinegar
+- ¼ cup apple cider vinegar
 - 1 Tbsp low sodium soy sauce
 - 1 tsp garlic salt
 

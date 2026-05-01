@@ -8,7 +8,7 @@ Ingredients
 - 2 tsp sugar
 - 1½ tsp salt
 - 227 mL (1 cup) water
-- 25 g (2 tbsp) vegetable oil
+- 25 g (2 Tbsp) vegetable oil
 
 Instructions
 ============

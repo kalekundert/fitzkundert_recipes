@@ -13,7 +13,7 @@ Ingredients
 - 1 tsp chili powder
 - 1 tsp ground cumin
 - black pepper (to your taste)
-- 2 large yukon gold potatoes, diced small (about 1/2-inch cubes)
+- 2 large yukon gold potatoes, diced small (about ½-inch cubes)
 - 1 small red or yellow onion, chopped
 - 1 large red bell pepper, diced
 - 2 jalapeños, small dice
@@ -22,7 +22,7 @@ Ingredients
 - 8 burrito-sized flour tortillas
 - salsa (homemade or store-bought, to your taste)
 - 1.5 cups sharp cheddar or Monterey Jack cheese, grated
-- Optional: 1/2 lb bacon, cooked and diced (Can substitute 1/2 lb breakfast sausage, remove from casing and cooked)
+- Optional: ½ lb bacon, cooked and diced (Can substitute ½ lb breakfast sausage, remove from casing and cooked)
 - Optional: 5 oz baby spinach (1 package from salad section)
 - Optional: Pickled jalapeños (to your taste)
 - To Garnish: hot sauce, avocado or guacamole, sour cream
@@ -31,7 +31,7 @@ Ingredients
 Directions
 ----------
 
-1. Preheat oven to 400F. 
+1. Preheat oven to 400°F. 
 
 2. Line a large baking sheet with foil. Separately, toss potatoes, pepper(s), and onion in olive oil and toss with chili powder and cumin. Place them each down in their own section of the pan. (This allows you to rescue some items sooner if they cook faster.) Bacon can be added to the pan at this step as well. 
 
@@ -41,7 +41,7 @@ Directions
 
 5. Whisk your eggs together in a large bowl until lightly beaten. Season well with salt and pepper. Heat your largest frying pan. Once hot, add eggs, stirring every 30 sec to allow cooking. 
 
-6. To assemble burritos: Place a large square of foil on your counter. Place first tortilla over it. Eyeball about 1/8 of the vegetable mixture and scoop it into the center, followed by a little salsa (1 to 2 Tbsp per burrito), 1/8 the eggs, cheese to taste, plus any other fixings you cannot live without.
+6. To assemble burritos: Place a large square of foil on your counter. Place first tortilla over it. Eyeball about ⅛ of the vegetable mixture and scoop it into the center, followed by a little salsa (1 to 2 Tbsp per burrito), ⅛ the eggs, cheese to taste, plus any other fixings you cannot live without.
 
 7. Roll the burrito tightly by folding the sides over the filling then rolling from the bottom up. Wrap in foil the same way; folding the foil first over the ends of the burrito (ideally forming a “cup” at each end to catch drips). Burrito can be eaten immediately or frozen for up to 1 month. 
 

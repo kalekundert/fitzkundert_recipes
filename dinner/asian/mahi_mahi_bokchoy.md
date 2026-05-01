@@ -7,7 +7,7 @@ From = Lauren Hecht
 Ingredients
 -----------
 - 1 package frozen or fresh mahi mahi
-- 3/4 cup unsalted macadamia nuts
+- ¾ cup unsalted macadamia nuts
 - 2 Tbsp coconut oil melted
 - Enough bok choy for the number of people you are serving
 - 2 Tbsp soy sauce or tamari

@@ -4,9 +4,9 @@ Lemon Crinkle Cookies (2 ways!)
 Version 1: Fresh Ingredients
 ----------------------------
 - 240g all-purpose flour, sifted
-- 1/2 tsp baking soda
-- 1/4 tsp salt
-- 1/2 cup (1 stick) unsalted butter, melted and cooled
+- ½ tsp baking soda
+- ¼ tsp salt
+- ½ cup (1 stick) unsalted butter, melted and cooled
 - 200g granulated sugar
 - 1 large egg
 - 1 large egg yolk
@@ -28,7 +28,7 @@ Version 1: Fresh Ingredients
 
 1. Mix together flour, baking soda, and salt. Set aside. 
 
-2. In a small sauce pot, melt 1/2 cup of butter. Set aside and allow to cool to 90-100ºF
+2. In a small sauce pot, melt ½ cup of butter. Set aside and allow to cool to 90-100°F
 
 3. In a large bowl, whisk together butter and granulated sugar until combined. Add in egg and egg yolk, mixing to combine. 
 
@@ -38,7 +38,7 @@ Version 1: Fresh Ingredients
 
 6. Rest in the fridge for 2-4 hours. 
 
-7. At the end of the rest time, preheat the oven to 325ºF
+7. At the end of the rest time, preheat the oven to 325°F
 
 8. Line a baking sheet with parchment paper. 
 
@@ -69,7 +69,7 @@ Version 2: I'm in a Hurry
 
 1. Thaw Cool Whip (4 hours in the fridge, or overnight)
 
-2. Preheat oven to 350ºF
+2. Preheat oven to 350°F
 
 3. Mix together cake mix and egg. Then fold in Cool Whip. The mixture will be very fluffy. Just keep stirring until everything is combined! 
 

@@ -10,7 +10,7 @@ Ingredients
 -----------
 - 1 piece salt cod
 - equivalent amount of fried potatoes (batata balha)
-- 1/4 of a large onion, minced
+- ¼ of a large onion, minced
 - olive oil
 - 1 cup whole milk
 - 3 eggs

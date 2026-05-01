@@ -11,8 +11,8 @@ Ingredients
 - 6 Whole Eggs & 150g Egg Whites, whisked (can substitute 8 regular eggs)
 - 400g All-Purpose Flour
 - 420g Low Fat Greek Yogurt
-- low-fat cheddar cheese, grated (approx 1/4 to 1/2 cup)
-- 2 Tsp Baking Powder
+- low-fat cheddar cheese, grated (approx ¼ to ½ cup)
+- 2 tsp Baking Powder
 - 160g Low Fat Grated Cheese (20g per hot pocket)
 - Chives (minced)
 - Garlic Powder, Onion Powder, Salt & Black Pepper (to your taste)
@@ -39,8 +39,8 @@ Directions
 Reheat instructions
 -------------------
 Microwave = 3 - 5 Minutes (flip half way) \
-Air Fryer = 5 - 10 min 180C (350F) \
-Conventional Oven = 5 - 10 min 200C (400F) 
+Air Fryer = 5 - 10 min 180C (350°F) \
+Conventional Oven = 5 - 10 min 200C (400°F) 
 
 NOTES
 -----

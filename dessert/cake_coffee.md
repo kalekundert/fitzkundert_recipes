@@ -9,22 +9,22 @@ pretty standard.  I also converted the recipes to metric.
 
 Dough Ingredients
 =================
-1/2 cup   butter
+½ cup   butter
 200 grams sugar
   2       eggs
   1 tsp   vanilla
 120 grams flour
   4 grams baking powder  (1 tsp)
  11 grams baking soda    (1 tsp)
-1/4 tsp   salt
+¼ tsp   salt
 307 grams sour cream
 
 Streusel Ingredients
 ====================
-90 grams brown sugar (1/2 cup)
-80 grams chopped pecans (1/2 cup)
-1/2 cup butter
-28 grams flour (1/4 cup)
+90 grams brown sugar (½ cup)
+80 grams chopped pecans (½ cup)
+½ cup butter
+28 grams flour (¼ cup)
 cinnamon to taste
 
 Recipe

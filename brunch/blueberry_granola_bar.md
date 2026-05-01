@@ -11,12 +11,12 @@ Bars
 ----
 - 2 cups rolled oats
 - 1.5 cups brown rice krispies
-- 1/4 cup shredded unsweetened coconut (can omit if desired)
-- 1/4 cup whole roasted almonds, roughly chopped
+- ¼ cup shredded unsweetened coconut (can omit if desired)
+- ¼ cup whole roasted almonds, roughly chopped
 - 1 Tbsp chia seeds
-- 1/4 tsp salt
-- 1/2 cup peanut butter or almond butter,  (I typically use peanut butter)
-- 1/2 cup honey
+- ¼ tsp salt
+- ½ cup peanut butter or almond butter,  (I typically use peanut butter)
+- ½ cup honey
 - 1.5 tsp vanilla extract
 - 1 cup dried blueberries (can sub dried strawberries)
 
@@ -25,8 +25,8 @@ Greek Yogurt Coating
 
 - 1 Tbsp water
 - 1 tsp vanilla extract
-- 1/2 tsp gelatin
-- 1/4 cup greek yogurt
+- ½ tsp gelatin
+- ¼ cup greek yogurt
 - 1 Tbsp honey
 - pinch of salt
 - 2 cups powdered sugar
