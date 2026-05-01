@@ -1,5 +1,5 @@
 Southern Spoon Bread
-=====
+====================
 Time = 15 min prep + 30 min cook \
 Servings = 8 servings \
 From = Grandma Koch \

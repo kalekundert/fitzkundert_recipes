@@ -3,9 +3,8 @@ Lentil Stew
 Time = 15 min prep + 45 min cook \
 Servings = 4 servings 
 
-Basic Ingredients
------------------
-
+Ingredients
+-----------
 -  1 Tbsp olive oil
 -  1 medium yellow or white onion, finely chopped
 -  1 celery stalk, chopped (can sub 1 red or green pepper)
@@ -22,11 +21,11 @@ Basic Ingredients
 -  optional: croutons or thick sliced bread for garnish
 -  optional: parmesan cheese for garnish
 
-
 Directions
 ----------
-
-1. In a large pot heat olive oil until it shimmers. Add onion and cook until it is translucent, about 5 minutes. Add celery and carrots and cook until they begin to soften, another 5 minutes.
+1. In a large pot heat olive oil until it shimmers. Add onion and cook until it 
+   is translucent, about 5 minutes. Add celery and carrots and cook until they 
+   begin to soften, another 5 minutes.
 
 2. Add herbs and lentils and stir until lentils are coated. Cook for about 30-60 sec or until aromatic. Add tomatoes and potatoes, breaking them up if they are whole. Add water or stock and stir. 
 

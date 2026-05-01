@@ -1,5 +1,5 @@
 Tumeric Chicken
-====
+===============
 Time = 15 min prep + 45 min cook \
 Servings = approx 4-6 servings \
 Calories = 292 calories per serving \

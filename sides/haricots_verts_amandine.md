@@ -2,7 +2,7 @@ Haricots Verts Amandine
 =======================
 
 Ingredients
-===========
+-----------
 - Kosher salt
 - 450 g green beans (trimmed)
 - 3 Tbsp unsalted butter
@@ -12,8 +12,8 @@ Ingredients
 - Juice from 1 lemon (25 mL)
 - Pepper to taste
 
-Recipe
-======
+Directions
+----------
 1. Bring a large pot of salted water to a boil and prepare an ice bath. Add 
    green beans to boiling water and cook until tender-crisp, about 3 minutes. 
    Transfer to ice bath using a wire mesh spider or tongs. Allow to chill 
@@ -35,7 +35,6 @@ Recipe
    immediately.
 
 References
-==========
-http://www.seriouseats.com/recipes/2017/08/green-beans-amandine-french-almondine-recipe.html
-
-http://www.seriouseats.com/2014/06/are-the-rules-of-big-pot-blanching-true.html
+----------
+- http://www.seriouseats.com/recipes/2017/08/green-beans-amandine-french-almondine-recipe.html
+- http://www.seriouseats.com/2014/06/are-the-rules-of-big-pot-blanching-true.html

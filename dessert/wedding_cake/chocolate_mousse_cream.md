@@ -2,7 +2,7 @@ Chocolate Mousse with Cream
 ===========================
 
 Ingredients
-===========
+-----------
 Melted chocolate:
 - 226 g (8 oz) bittersweet chocolate
 
@@ -16,7 +16,7 @@ Whipped cream:
 - 2 Tbsp sugar
 
 Directions
-==========
+----------
 1. Prepare the melted chocolate:
 
   - If using a microwave, use short bursts at low power.
@@ -70,7 +70,7 @@ Directions
   - Gently fold in the rest with a rubber spatula.
 
 Notes
-=====
+-----
 2022/07/08:
 
 - The chocolate custard solidified when I left in the fridge overnight, which 
@@ -101,6 +101,6 @@ Notes
   and to remove vanilla from the chocolate mixture.
 
 References
-==========
+----------
 - https://www.marthastewart.com/336783/chocolate-mousse
 - https://valrhona-chocolate.com/recipes/cremes-and-mousses/custard-based-chocolate-mousse

@@ -1,5 +1,5 @@
 Twix Thumbprint Cookies
-====
+=======================
 
 Time = 15 min prep + 10 min bake + 1 hr rest \
 Servings = approx 24 cookies \

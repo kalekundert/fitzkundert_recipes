@@ -1,19 +1,22 @@
-Biga
-====
-149 g unbleached all-purpose flour
-113 mL cool water (75.8%)
-⅛ tsp instant yeast
+Pugliese
+========
 
-Dough
-=====
-All of the biga
-482 g unbleached all-purpose flour
-340 mL lukewarm water (71.8% overall)
-1 tsp instant yeast
-2 tsp salt
+Ingredients
+-----------
+Biga:
+- 149 g unbleached all-purpose flour
+- 113 mL cool water (75.8%)
+- ⅛ tsp instant yeast
 
-Recipe
-======
+Dough:
+- All of the biga
+- 482 g unbleached all-purpose flour
+- 340 mL lukewarm water (71.8% overall)
+- 1 tsp instant yeast
+- 2 tsp salt
+
+Directions
+----------
 1. Mix the biga in a small bowl.  Don't knead it; just make sure all of the 
    ingredients are well-incorporated. Set this mixture aside in a warm place, 
    covered, and let rise for 16-24 hours.
@@ -38,7 +41,7 @@ Recipe
    them to cool in the turned-off oven.
 
 How to get an open crumb
-========================
+------------------------
 1. Don't manipulate the dough too much.
 
    Most breads have 2 fermentations: bulk one and proofing. Do just one. The 
@@ -95,7 +98,7 @@ How to get an open crumb
    bit more to let it absorb it.
 
 Fun facts
-=========
+---------
 1. Amylase is found in flour. Wheat kernels contain amylase because they need 
    to break starch down into sugar to use for energy when the kernels 
    germinate. The amount of amylase varies with the weather and harvesting 

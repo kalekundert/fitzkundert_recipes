@@ -1,5 +1,5 @@
 Gluten-Free Pasta Salad
-====
+=======================
 Time = 15 min prep + 2 hr chill \
 Servings = approx 8 people \
 From: Aunt Gerry + Uncle Dan\

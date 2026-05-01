@@ -1,10 +1,8 @@
 Sandwich Loaf
-=====
-
-
+=============
 
 Ingredients
-===========
+-----------
 Autolyse:
 - 1000 g all-purpose flour [5]
 - 650 g water (room temperature)
@@ -17,15 +15,15 @@ Proof:
 Bulk ferment:
 - 22 g (3.8 tsp) salt
 
-Brief recipe
-============
+Time
+----
 - 1h autolyse
 - 2h bulk ferment (with stretch-and-folds)
 - 2h proof
 - 30 min bake
 
-Recipe
-======
+Directions
+----------
  1. Combine flour and water in the bowl of a stand mixer.  Cover and let 
     autolyse for 1h.
 
@@ -65,7 +63,7 @@ Recipe
     needs a tent after 10 min.
 
 Footnotes
-=========
+---------
 [1] https://www.seriouseats.com/recipes/2014/08/simple-crusty-white-bread-recipe.html
 
 [2] https://www.theperfectloaf.com/guides/shaping-a-batard/

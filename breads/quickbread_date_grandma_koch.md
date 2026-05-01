@@ -1,14 +1,13 @@
 Grandma Koch's Date Nut Loaf
-=====
+============================
 Time = 15 min prep + 60 min cook \
 Servings = 8 servings \
 From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
-Basic Ingredients
------------------
-
+Ingredients
+-----------
 -  2 cups pitted dates, chopped
 -  1 cup walnuts, chopped
 -  ⅓ cup Fluffo (shortening)
@@ -24,7 +23,6 @@ Basic Ingredients
 
 Directions
 ----------
-
 1.  Preheat oven to 350°F.
 
 2.  Put dates, walnuts, and fluffo into a mixing bowl and pour boiling water over them. Beat until fluffo breaks into small lumps. 

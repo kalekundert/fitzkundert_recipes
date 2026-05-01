@@ -2,7 +2,7 @@ Fudge Cake
 ==========
 
 Ingredients
-===========
+-----------
 The Creamed:
 - 8 Tbsp (113 g) unsalted butter (65-70°F)
 - 383 g brown sugar
@@ -22,8 +22,8 @@ The Dry Goods:
 The Boiling Water:
 - 1 cup (227 g) water (boiling)
 
-Recipe
-======
+Directions
+----------
 - Place an oven rack in upper middle part of the oven.  Preheat the oven to 
   350°F.
 
@@ -64,7 +64,7 @@ Recipe
   before frosting.
 
 Notes
-=====
+-----
 - The dough is very runny; that's how it's supposed to be.
 
 - This recipe claims to make enough for a 9x3" round cake pan or a 9x13x2" 

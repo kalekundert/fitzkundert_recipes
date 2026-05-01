@@ -1,5 +1,5 @@
 Glowing Spiced Lentil Soup
-====
+==========================
 Time = 15 min prep + 20 min cook \
 Servings = approx 7-8 cups \
 From = [Oh She Glows](https://ohsheglows.com/glowing-spiced-lentil-soup/)

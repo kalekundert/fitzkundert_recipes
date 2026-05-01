@@ -1,5 +1,5 @@
 Taco Salad
-====
+==========
 
 Time = 10 min prep + 15 min cook \
 Servings = 4-6 \

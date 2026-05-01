@@ -1,13 +1,13 @@
 Punjabi Curry
-=====
+=============
 
 Time = 15 min prep + 30 min cook \
 Servings = 4-6 servings \
 From = [Needhi Bhalla (UCSC)](https://x.com/needhibhalla/status/1115071947878961152?s=11)
 
 
-Basic Ingredients
------------------
+Ingredients
+-----------
 -  1 medium yellow onion
 -  6-8 cloves chopped garlic
 -  vegetable oil
@@ -21,8 +21,7 @@ Basic Ingredients
 -  1 medium or large potato, diced
 -  2 Tbsp whole milk plain yogurt
 
-Side dishes
------------
+Sides:
 -  Basmati Rice
 -  yogurt (raita)
 -  Naan (Trader Joe's brand is fine!)

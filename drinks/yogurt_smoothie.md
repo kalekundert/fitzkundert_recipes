@@ -2,7 +2,7 @@ Yogurt Smoothie
 ===============
 
 Ingredients
-===========
+-----------
 - 115 g (½ cup) Greek yogurt
 - 1-2 cups fruit, frozen or raw, e.g.:
   - blueberry, apple
@@ -11,11 +11,11 @@ Ingredients
 - 1 cup milk
 
 Preparation
-===========
+-----------
 - Place yogurt and fruit in a plastic bag and freeze.
 
 Directions
-==========
+----------
 - Combine all ingredients in the bowl of a blender.
 
 - Blend until smooth.

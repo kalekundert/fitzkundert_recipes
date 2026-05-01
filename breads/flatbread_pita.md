@@ -2,7 +2,7 @@ Pita
 ====
 
 Ingredients
-===========
+-----------
 - 361 g all-purpose flour
 - 2 tsp instant yeast
 - 2 tsp sugar
@@ -10,8 +10,8 @@ Ingredients
 - 227 mL (1 cup) water
 - 25 g (2 Tbsp) vegetable oil
 
-Instructions
-============
+Directions
+----------
 1. Combine all of the ingredients, mixing to form a shaggy/rough dough.
 
 2. Knead the dough, by hand (10 minutes) or by mixer (5 minutes) or by bread 
@@ -46,10 +46,10 @@ Instructions
 10. Store cooled pitas in an airtight container or plastic bag. 
 
 Notes
-=====
+-----
 1. It's hard to describe, but I felt like this tasted like pita-shaped bread 
    more than pita.
 
 Reference
-=========
+---------
 http://www.kingarthurflour.com/recipes/golden-pita-bread-recipe

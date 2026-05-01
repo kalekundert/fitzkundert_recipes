@@ -2,14 +2,14 @@ Carlini Neapolitan Pizza
 ========================
 
 Ingredients
-===========
+-----------
 - 600 g “00” flour
 - 390 g water
 - 18 g (≈3.5 tsp) salt
 - 1.5 g (≈0.4 tsp) active dry yeast
 
 Directions
-==========
+----------
 - Mix all ingredients.
 
 - Knead for 5 min.
@@ -27,7 +27,7 @@ Directions
 - Bake at 550°F temperature for ~5-7 min [4,5].
 
 Notes
-=====
+-----
 1. The recipe in the notes calls for 300-320 g per pizza, but the video in the 
    references for how to shape the dough calls for 230g.  In this case, the 
    dough weighs about 1kg total, so 250 is about right to get 4 even balls.
@@ -50,5 +50,5 @@ Notes
        This did give a good rise, though.
 
 Reference
-=========
+---------
 https://hardcoreitalians.blog/2020/05/21/wood-fired-neapolitan-pizza-dough-recipe/

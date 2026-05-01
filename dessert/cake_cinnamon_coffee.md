@@ -1,14 +1,15 @@
 Cinnamon Streusel Coffee Cake
-=====
+=============================
 
 Time = 30 min prep + 60 min bake \
 Servings = One 9" x 13"" cake or two 9-inch round cakes \
 From = [King Arthur Flour](https://www.kingarthurbaking.com/recipes/cinnamon-streusel-coffee-cake-recipe)
 
 
-Topping Ingredients
--------------------
+Ingredients
+-----------
 
+Topping:
 - 198g granulated sugar
 - ¼ tsp salt (if you use unsalted butter)
 - 120g King Arthur Unbleanched AP Flour
@@ -16,16 +17,12 @@ Topping Ingredients
 - 6 Tbsp (85g) unsalted butter, melted
 
 
-Filling Ingredients
--------------------
-
+Filling:
 - 213g brown sugar, packed (either light or dark)
 - 1.5 Tbsp cinnamon
 - 1 tsp unsweetened cocoa (either Dutch-processed or natural)
 
-Cake Ingredients
-----------------
-
+Cake:
 - 12 Tbsp (170g) unsalted butter, at room temp
 - 1 tsp salt (1.25 tsp if using unsalted butter)
 - 298g granulated sugar

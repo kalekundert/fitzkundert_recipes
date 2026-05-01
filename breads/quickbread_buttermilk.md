@@ -1,12 +1,11 @@
 Buttermilk Quick Bread
-=====
+======================
 Time = 10 min prep + 50 min cook\
 Servings = 1 loaf\
 From = [The Kitchn](https://www.thekitchn.com/how-to-make-buttermilk-quick-bread-with-10-different-variations-164621)
 
-Ingredients--Base Loaf
-----------------------
-
+Ingredients
+-----------
 - 2 cups all purpose flour
 - ½ cup granulated sugar
 - 1.5 tsp baking powder
@@ -19,8 +18,8 @@ Ingredients--Base Loaf
 
 Directions
 ----------
-
-1. Preheat convection oven to 350°F. Grease or spray standard loaf pan with non-stick spray. 
+1. Preheat convection oven to 350°F. Grease or spray standard loaf pan with 
+   non-stick spray. 
 
 2. Whisk together flour, sugar, baking power, baking soda, and salt in medium bowl.
 
@@ -34,28 +33,26 @@ Directions
 
 Notes
 -----
-
 - Sugar can be reduced to 1 Tbsp for more savory breads
 - Up to ½ of the flour can be substituted with an alternative flour
 - Buttermilk can be substituted with milk + squeeze of lemon juice
 - If adding fruits, nuts, or other ingredients, add them to the try ingredients, adding no more than 1.5 cups in total. 
 - If adding herbs or spices, add 1- 3 Tbsp added to the dry ingredients
 
-Bread Variations
-----------------
-
+Variations
+----------
 - Cranberry-Walnut Loaf
     - 1 cup dried cranberries
     - ½ cup toasted and chopped walnuts
     - 1 tsp vanilla
     - zest from one orange
-    
-- Apple-Cinnamon Loaf 
+
+- Apple-Cinnamon Loaf
     - 1 cup granny smith apple, diced
     - 1 tsp cinnamon
     - ½ cup toasted and chopped nuts
 
-- Cherry-Almond Loaf 
+- Cherry-Almond Loaf
     - 1 cup dried cherries, rough chop
     - ½ cup toasted and chopped almonds
     - 1 tsp almond extract
@@ -64,14 +61,14 @@ Bread Variations
     - 1 cup fresh or frozen blueberries
     - 1 tsp vanilla
     - zest from one lemon
-    
-- Ginger-Orange Loaf 
+
+- Ginger-Orange Loaf
     - zest from two oranges
     - ¼ cup crystallized ginger, minced
     - 1 tsp cinnamon
     - pinch of cloves
     - pinch of nutmeg
-    
+
 - Herbed Sun-dried Tomato and Cheese Loaf
     - reduce sugar to 1 Tbsp
     - ½ cup grated asiago cheese
@@ -80,7 +77,7 @@ Bread Variations
     - 2 Tbsp minced sun-dried tomatoes
 
 - Onion-Dill Loaf
-    - reduce sugar to 2 Tbsp, 
+    - reduce sugar to 2 Tbsp
     - one minced onion cooked until soft
     - 1 Tbsp minced fresh dill
 

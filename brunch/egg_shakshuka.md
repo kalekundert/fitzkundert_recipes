@@ -1,5 +1,5 @@
 Shakshuka
-=====
+=========
 Time = 10 min prep + 20-30 min cook \
 Servings = 4-6 \
 From: [The Kitchn](https://www.thekitchn.com/shakshuka-22925583) 

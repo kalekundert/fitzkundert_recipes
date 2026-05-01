@@ -1,5 +1,9 @@
-Soup ingredients
-================
+Pork Ramen
+==========
+
+Ingredients
+-----------
+Soup:
 - 2-3 pounds pork shoulder roast (or butt)
 - 4 cups water [2]
 - 60 g (¼ cup) low sodium soy sauce
@@ -14,16 +18,14 @@ Soup ingredients
 - 55 g (¼ cup) brown sugar
 - ramen noodles
 
-Topping ingredients
-===================
+Toppings:
 - 2 cups shitake mushrooms (chopped)
 - 1 carrot (grated)
 - 1 jalapeno (sliced)
 - 1 bunch of green onions (chopped)
 - 4 eggs (hard boiled, soft boiled, or fried)
 
-Roasted squash ingredients
-==========================
+Roasted squash:
 - 1 medium acorn squash, seeded and diced
 - 2 Tbsp (28 g) coconut oil, melted
 - 1 Tbsp curry powder
@@ -31,15 +33,14 @@ Roasted squash ingredients
 - 1 Tbsp (14 g) brown sugar
 - pepper, to taste
 
-Pork marinade ingredients
-=========================
+Pork marinade:
 - 1 Tbsp sesame oil
 - 2 Tbsp low sodium soy sauce
 - 2 Tbsp rice vinegar
 - 1 Tbsp brown sugar
 
-Instructions
-============
+Directions
+----------
 Morning:
 
 - Mix together the chicken stock, soy sauce (¼ cup), rice vinegar (¼ cup), 
@@ -77,7 +78,7 @@ Morning:
   egg, and any vegetables you want.
 
 Notes
-=====
+-----
 1. I made this recipe in Fitzy's slow cooker by doubling the amount of broth 
    and using a 4 lb pork shoulder (with bone).  After 7h, the pork was not 
    really cooked.  Most of it was still too tough to pull, and some of it still 

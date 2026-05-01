@@ -1,30 +1,29 @@
 Eggnog Doughnut Muffins
-=====
-Time = 10 min prep + 30 min cook\
-Servings = 12 large muffins\
-Calories = unknown\
-From: [The Kitchn](https://www.thekitchn.com/holiday-breakfast-recipe-eggnog-doughnut-muffins-recipes-from-the-kitchn-198386) 
+=======================
 
-Ingredients-Muffins
--------------------
+Time
+----
+- Preparation: 10 min
+- Baking: 30 min
 
--   3 cups AP flour
--   2.5 tsp baking powder
--   ¼ tsp baking soda
--   1 tsp salt
--   ⅛ tsp nutmeg, freshly grated
--   1.5 sticks (12 Tbsp) unsalted butter, softened
--   ½ cup granulated sugar
--   2 large eggs
--   1 cup whole-fat eggnog
--   12 cup muffin tin
--   muffin liners
+Ingredients
+-----------
+12 Muffins (large):
+- 3 cups AP flour
+- 2.5 tsp baking powder
+- ¼ tsp baking soda
+- 1 tsp salt
+- ⅛ tsp nutmeg, freshly grated
+- 1.5 sticks (12 Tbsp) unsalted butter, softened
+- ½ cup granulated sugar
+- 2 large eggs
+- 1 cup whole-fat eggnog
+- 12 cup muffin tin
+- muffin liners
 
-Ingredients-Topping
--------------------
-
--   4 Tbsp unsalted butter
--   1 cup powdered sugar
+Topping:
+- 4 Tbsp unsalted butter
+- 1 cup powdered sugar
 
 Directions
 ----------
@@ -44,3 +43,7 @@ Directions
 7.  When muffins are cool enough to handle, but still warm, melt butter in a microwave safe dish (or the stove) and brush the tops with a pastry brush. Place powdered sugar in a bowl and dop the tops of each muffin in the sugar. Once you complete the first round, dip each muffin in the sugar a second time.
 
 8.  Muffins are best fresh from the oven, but keep for 1-2 days. Enjoy!
+
+Reference
+---------
+[The Kitchn](https://www.thekitchn.com/holiday-breakfast-recipe-eggnog-doughnut-muffins-recipes-from-the-kitchn-198386) 

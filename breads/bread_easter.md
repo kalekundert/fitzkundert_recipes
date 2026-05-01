@@ -1,39 +1,34 @@
 Easter Bread
-=====
+============
 
 Ingredients
-===========
-
-Herb paste
-----------
+-----------
+Herb paste:
 - 2 Tbsp olive oil
 - 1 cup basil leaves (15g)
 - 1 cup parsley leaves
 - Salt to taste
 
-Dough
------
+Dough:
 - 500 g bread flour
 - 360 mL water (72% hydration)
 - 1 Tbsp instant yeast (10 g)
 - ½ tsp kosher salt
 - 1 Tbsp olive oil (≈12g)
 
-Filling
--------
+Filling:
 - 160 g salami (cubed)
 - 130 g Gruyère (cubed)
 - 70 g Parmesan (grated)
 - 2 eggs (hard-boiled and grated)
 - Pepper to taste
 
-Miscellaneous
--------------
+Miscellaneous:
 - ⅓ cup olive oil
 - 3 Tbsp fine semolina flour
 
-Recipe
-======
+Directions
+----------
 1. Grease a 10" tube pan, dust with semolina until the pan is fully coated, and 
    tap out any extra semolina.
 
@@ -56,6 +51,6 @@ Recipe
 8. Bake at 450°F for 30 min, until golden and crisp.
 
 Reference
-=========
+---------
 https://cooking.nytimes.com/recipes/1018674-neapolitan-easter-bread-casatiello
 

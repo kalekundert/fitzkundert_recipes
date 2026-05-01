@@ -1,5 +1,5 @@
 Egg and Sausage Breakfast Bake
-=====
+==============================
 Time = 10 min prep + overnight + 45 min cook \
 Servings = 6-8 people \
 From: Kevin and Jill
@@ -17,8 +17,10 @@ Ingredients
 -   salt and pepper (to your taste)
 -   9 x 13 inch baking dish
 
-Directions--the night before
-----------------------------
+Directions
+----------
+
+The night before:
 
 1.  Brown sausage
 
@@ -28,8 +30,7 @@ Directions--the night before
 
 4.  Cover with saran wrap and let stand overnight in the fridge.
 
-Directions--in the morning
---------------------------
+The morning of:
 
 5.  Preheat oven to 350°F
 

@@ -30,7 +30,7 @@ Layers:
 - 3 cups shredded part-skim mozzarella cheese, divided
 
 Directions
-----
+----------
 1. Prepare the sauce:
 
    - In a large sauce pot over medium heat, brown the beef and the sausage.

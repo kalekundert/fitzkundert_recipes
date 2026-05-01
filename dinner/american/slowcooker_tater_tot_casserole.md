@@ -1,5 +1,5 @@
 Slow Cooker Tater Tot Casserole
-======
+===============================
 
 Time = 30 min prep + 6.5 hr cooking \
 Servings = 4-6 \

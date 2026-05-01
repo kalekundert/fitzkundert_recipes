@@ -1,5 +1,5 @@
 Italian Garden Vegetable Soup
-====
+=============================
 Time = 10 min prep + 40 min cook \
 Servings = 2 \
 Calories = 710 per serving  \

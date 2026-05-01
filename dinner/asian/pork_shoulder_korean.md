@@ -1,13 +1,14 @@
-Korean Pork Shoulder 
-=====
+Korean Pork Shoulder
+====================
 Time = up to 24 hr\
 Servings = 4-6 \
 Calories = unknown\
 From: Kevin and Jill \
 Notes: Requires a pressure cooker or slow cooker
 
-Pork Ingredients
-----------------
+Ingredients
+-----------
+Pork:
 - 5 cloves garlic, grated on microplane
 - 2 Tbsp brown sugar (may sub honey)
 - 1 Tbsp Korean chili flakes (gochugaru) or similar (Aleppo or Maras chili flakes)
@@ -15,8 +16,7 @@ Pork Ingredients
 - 1 tsp fresh ground black pepper
 - 5 lbs boneless pork shoulder, cut into 2 or 3 pieces
 
-Sauce Ingredients
------------------
+Sauce:
 - 1 Tbsp peanut oil
 - 4 cloves garlic, grated on microplane
 - 2 Tbsp fresh ginger root, grated
@@ -29,8 +29,7 @@ Sauce Ingredients
 - 1 tsp Asian fish sauce
 - 1 tsp sesame oil
 
-Cucumber Ingredients
---------------------
+Cucumber:
 - 6 Persian cucumbers, thinly sliced
 - 1.5 Tbsp rice vinegar
 - 2 tsp sesame oil
@@ -39,8 +38,7 @@ Cucumber Ingredients
 - ¼ cup red onion, thin sliced
 - 2 tsp sesame seeds
 
-For serving
------------
+Sides:
 - cooked rice
 - kimchi (optional)
 

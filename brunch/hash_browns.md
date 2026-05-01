@@ -1,13 +1,12 @@
 Breakfast Hash Browns
-====
+=====================
 
 Ingredients
-----
+-----------
 - 2 russet potatoes (peeled)
 - 3 Tbsp butter
 
-Spice Ideas
------------
+Spice Ideas:
 - salt
 - pepper
 - red pepper flakes
@@ -15,8 +14,8 @@ Spice Ideas
 - chili powder
 - onion powder
 
-Recipe
-----
+Directions
+----------
 1. Shred potatoes with a cheese grater.
 
 2. Rinse the shredded potatoes in cold water until no more starch comes out  

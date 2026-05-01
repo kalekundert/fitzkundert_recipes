@@ -1,11 +1,11 @@
 Avocado Broccoli Salad
-====
+======================
 Time = 10 min \
 Servings =  1 salad \
 From = Emily Gann
 
 Ingredients
-----
+-----------
 
 Dressing Ingredients:
 ---------------------

@@ -1,5 +1,5 @@
 Vegetarian Stuffed Peppers
-====
+==========================
 Total Time = 15 min prep + 40 min cook \
 Servings = 4 people 
 

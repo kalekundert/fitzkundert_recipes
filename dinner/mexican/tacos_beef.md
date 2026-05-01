@@ -1,9 +1,9 @@
 Simple Beef Tacos
-====
+=================
 
 
 Ingredients
-----
+-----------
 - 2 lbs ground beef
 - 1 cup water
 - 3 parts garlic powder
@@ -16,7 +16,7 @@ Ingredients
 - 1 part oregano
 
 Directions
-----
+----------
   1. Brown the ground beef in a medium frying pan.
   2. Drain the fat using a paper towel.  Don't pour it down the drain.
   3. Add water and spices then bring to a boil.
@@ -24,6 +24,6 @@ Directions
   5. Serve with soft tortillas, taco shells, or over chips for nachos. 
 
 Notes
-----
+-----
 - Overall, the recipe needs about 35 grams of spice per 2 pounds of meat.
   

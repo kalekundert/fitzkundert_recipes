@@ -5,16 +5,16 @@ Servings = approx 16 pancakes \
 Calories = approx 400 calories per serving \
 From = [serious eats](https://www.seriouseats.com/recipes/2010/06/light-and-fluffy-pancakes-recipe.html)
 
-Basic Dry Pancake Ingredients
------------------------------
+Ingredients
+-----------
+Dry:
 -  283 g (about 2 cups) all-purpose flour
 -  1 tsp baking powder
 -  ½ tsp baking soda
 -  1 tsp kosher salt
 -  1 Tbsp sugar
 
-For Each Batch of Pancakes
---------------------------
+Wet:
 -  2 large eggs, separated
 -  1.5 cups (12 ounces) buttermilk (see notes)
 -  1 cup (240 g) sour cream (see notes)

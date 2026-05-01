@@ -2,14 +2,14 @@ The Wet One
 ===========
 
 Ingredients
-===========
+-----------
 - 500 g all-purpose flour (125 g per pizza)
 - 1 Tbsp salt (4%)
 - ¼ tsp dry yeast
 - 350 mL water (70%)
 
-Recipe
-======
+Directions
+----------
 1. Mix the flour, salt, and yeast in a large bowl.
 
 2. Add the water and mix until well-combined.

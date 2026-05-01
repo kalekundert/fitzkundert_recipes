@@ -1,5 +1,5 @@
 Beef Taco Soup
-=====
+==============
 
 Time = 5 min prep, 30 min cook \
 Servings = 4-6 \

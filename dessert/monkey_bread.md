@@ -1,5 +1,5 @@
 Monkey Bread
-===========
+============
 
 Ingredients
 -----------
@@ -11,8 +11,8 @@ Ingredients
 - ½ cup chopped walnuts
 - ½ cup raisins
 
-Recipe
-----
+Directions
+----------
 1. Preheat oven to 350°F.
 
 2. Mix cinnamon and white sugar.  Cut the biscuits into quarters, then coat 
@@ -26,6 +26,6 @@ Recipe
 4. Bake 35 min.
 
 Notes
-----
+-----
 This recipe has too much sugar...
 

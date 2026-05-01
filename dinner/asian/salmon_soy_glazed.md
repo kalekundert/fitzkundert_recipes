@@ -1,5 +1,5 @@
 Soy-ginger glazed salmon
-====
+========================
 Time = 1 hr\
 Servings = 4 servings\
 Calories = 350 per serving\

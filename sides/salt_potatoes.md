@@ -1,5 +1,5 @@
 Syracuse Salt Potatoes
-=====
+======================
 
 Time = 10 min prep + 20 min cook \
 Servings = 6-8 servings \

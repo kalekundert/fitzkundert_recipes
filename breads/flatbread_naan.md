@@ -2,52 +2,45 @@ Naan
 ====
 
 Ingredients
-===========
-- 2 cups lukewarm water (about 100°F)
-- 1 tsp. active dry yeast
-- 1 cup milk
-- 27 oz. (6 cups) unbleached all-purpose flour; more or less as needed
-- 1 Tbs. plus 1 tsp. coarse salt
-- Vegetable oil for the bowl
-- 3 to 4 Tbs. unsalted butter, melted
-- Cornmeal or flour for dusting the peel
-- 1 tsp. nigella (black onion) seeds or 1 Tbs. sesame seeds for sprinkling 
-  (optional)
+-----------
+Proof:
+- ¼ cup warm water (100°F)
+- ½ tsp active dry yeast
 
-Half Batch (Metric)
-===================
-- ¼ cup warm water
-- 1 gram active dry yeast
-
+Dough:
 - ½ cup warm milk
 - ¾ cup warm water
 - 360 grams flour
 - 10 grams salt
 
+Miscellaneous:
 - Vegetable oil
 - Unsalted butter
 - Cornmeal or flour
 - Nigella (black onion) or sesame seeds (optional)
 
-To Make The Dough
-=================
-1. Put ½ cup of the water in a cup or glass and stir in the yeast. Heat the 
-   milk in a small saucepan to lukewarm, about 100°F. Pour the milk and the 
-   remaining 1-½ cups water into a large bowl. Stir in the yeast mixture. 
-   Stir in about 2 cups of flour, stirring always in the same direction, until 
-   smooth. Stir in the salt and continue stirring in flour, ½ cup at a time, 
-   until the dough is too stiff to stir but is still soft. Turn out the dough 
-   onto a lightly floured surface. Wash, dry, and lightly oil the bowl. Knead 
-   the dough until it's smooth, 4 to 5 minutes, incorporating only enough flour 
-   (by keeping the work surface dusted) to prevent the dough from sticking; the 
-   dough should be quite soft and not tight.
+Directions
+----------
+Prepare the dough:
 
-2. Put the dough in the bowl, cover with plastic, and let it rise in a cool 
+1. Dissolve the yeast in warm water.  Let rest for 10 min, until foaming.
+
+2. Heat the water and milk for the dough in a small saucepan to lukewarm, about 
+   100°F. Stir in the yeast mixture. Stir in about 2 cups of flour, stirring 
+   always in the same direction, until smooth. Stir in the salt and continue 
+   stirring in flour, ½ cup at a time, until the dough is too stiff to stir but 
+   is still soft. Turn out the dough onto a lightly floured surface. Wash, dry, 
+   and lightly oil the bowl. Knead the dough until it's smooth, 4 to 5 minutes, 
+   incorporating only enough flour (by keeping the work surface dusted) to 
+   prevent the dough from sticking; the dough should be quite soft and not 
+   tight.
+
+3. Put the dough in the bowl, cover with plastic, and let it rise in a cool 
    place for 8 hours or overnight. If you're not ready to bake yet, punch down 
    the dough, put it in a plastic bag, and refrigerate it for up to 3 days.
 
-To Shape and Bake
-=================
+Shape and bake:
+
 1. About 1-¼ hours before you want to serve the bread, set an oven rack to an 
    upper-middle rung. Put a large baking stone or unglazed quarry tiles on the 
    rack, leaving a 1-inch gap around the border. Heat the oven to 500°F.
@@ -84,5 +77,5 @@ To Shape and Bake
    of dough.
 
 Reference
-=========
+---------
 http://www.finecooking.com/recipes/homestyle_indian_naan.aspx

@@ -1,5 +1,5 @@
 Ham and Cheese Quiche
-=====
+=====================
 Time = 20 min prep + 35 min cook \
 Servings = 1 quiche (approx 6 servings each) \
 From = Cheryl Fitzsimmons

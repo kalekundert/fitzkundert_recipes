@@ -2,7 +2,7 @@ Chicken Parmesan
 ================
 
 Ingredients
-===========
+-----------
 - 2 boneless, skinless chicken breasts
 - 2 tsp kosher salt
 - 120 grams (1 cup) plain breadcrumbs
@@ -34,7 +34,7 @@ Special equipment:
 - mortar and pestle
 
 Directions
-==========
+----------
 1. Butterfly the chicken breasts and pound them to about ⅛" thick.
 
 2. Cut the chicken breasts into 6 to 8 even pieces. Season with the salt on 
@@ -96,5 +96,5 @@ Red Sauce:
    or store in an airtight container in the fridge. (See Cook's Note.)
 
 Reference
-=========
+---------
 https://www.foodnetwork.com/recipes/alton-brown/chicken-parm-7282184

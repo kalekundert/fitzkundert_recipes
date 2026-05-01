@@ -1,5 +1,5 @@
 Blueberry Muffins
-=====
+=================
 Time = 10 min prep + 18 min bake\
 Servings = 12 muffins\
 From: Aunt Gerry + Uncle Dan\

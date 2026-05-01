@@ -1,5 +1,5 @@
 Corn Chowder
-====
+============
 Time = 10 min prep + 40 min cook \
 Servings = 2
 Calories = 850  \

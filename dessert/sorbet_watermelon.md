@@ -1,5 +1,5 @@
 Watermelon Sorbet
-====
+=================
 
 Time = 5 hr prep + 10 min cook \
 Servings = approx 4 cups \

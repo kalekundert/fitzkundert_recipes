@@ -2,14 +2,14 @@ Lahey No-Knead Pizza
 ====================
 
 Ingredients
-===========
+-----------
 - 500 g (17½ oz or about 3¾ cups) all-purpose flour
 - 2 tsp (16 g) fine sea salt
 - ¼ tsp (1 g) active dry yeast
 - 350 g (1½ cups) water
 
 Directions
-==========
+----------
 1. Mix the flour, salt, and yeast in a large bowl.
 
 2. Add the water and mix until well-combined.
@@ -29,8 +29,8 @@ Directions
 
 8. Bake for 6-9 minutes.
 
-Footnotes
-=========
+Notes
+-----
 1. To form dough into a ball, start with the right side of the dough and pull 
    it toward the center; then do the same with the left, top, and bottom.  
    Repeat until the surface of the ball is smooth and taut.   Place the ball 
@@ -46,6 +46,6 @@ Footnotes
    dough and makes the crust turn out dense.
 
 References
-==========
+----------
 - https://www.seriouseats.com/recipes/2012/03/jim-laheys-no-knead-pizza-dough-recipe.html
 - https://www.youtube.com/watch?v=7cqYiUmutGI

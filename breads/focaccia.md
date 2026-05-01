@@ -1,33 +1,31 @@
 Focaccia
-=====
+========
 
-Biga
-====
+Ingredients
+-----------
+Biga:
 - 71 g all-purpose flour
 - 79 mL water (111.3%)
 - ¼ tsp yeast
 
-Dough
-=====
+Dough:
 - all of the biga
 - 354 g all-purpose flour
 - 296 mL water (88.2%)
 - 1 tsp yeast
 - 2 tsp salt
 
-Fillings
-========
+Fillings:
 - 1 cup olives (any variety, roughly chopped)  Maybe I should only use 1 tsp 
   salt if I'm using olives...
 
-Toppings
-========
+Toppings:
 - 2 × ⅛ cup extra-virgin olive oil
 - 2 × ½ tsp kosher salt
 - 2 × 1 Tbsp fresh rosemary (minced)
 
-Recipe
-======
+Directions
+----------
 - Mix the biga ingredients until just combined.  Cover tightly (to encourage 
   fermentation) and let rise at room temperature for 8-24h.
 
@@ -74,11 +72,8 @@ Recipe
   two pans in the oven, and turn the temperature down to 450°F.  Bake for about 
   25 min.
 
-Notes
-=====
-
 References
-==========
+----------
 - http://www.takingonmagazines.com/rosemary-focaccia-from-the-best-of-americas-test-kitchen-2012/
 
     This is pretty much the recipe I have here, but I added a kneading step 

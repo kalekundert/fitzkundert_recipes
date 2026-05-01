@@ -2,21 +2,21 @@ King Arthur No-Knead Bread
 ==========================
 
 Ingredients
-===========
-907 g all-purpose flour
-680 g water (75.0%)
-1 Tbsp salt
-1½ tsp instant yeast
+-----------
+N buns:
+- 907 g all-purpose flour
+- 680 g water (75.0%)
+- 1 Tbsp salt
+- 1½ tsp instant yeast
 
-Halved ingredients
-==================
-454 g all-purpose flour
-340 g water (75.0%)
-1½ tsp salt
-¾ tsp instant yeast
+N/2 buns:
+- 454 g all-purpose flour
+- 340 g water (75.0%)
+- 1½ tsp salt
+- ¾ tsp instant yeast
 
-Recipe
-======
+Directions
+----------
 1. Combine ingredients until well-incorporated.
 
 2. Cover and refrigerate for 1-7 days.
@@ -30,7 +30,7 @@ Recipe
 6. Bake for 25-35 min, until the bread is a deep golden brown.
 
 Reference
-=========
+---------
 http://www.kingarthurflour.com/recipes/no-knead-crusty-white-bread-recipe
 
 

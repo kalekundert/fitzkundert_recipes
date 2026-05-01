@@ -2,7 +2,7 @@ Lopez-Alt Cast Iron Pizza
 =========================
 
 Ingredients
-===========
+-----------
 Dough:
 - 200 g (1¼ cup) bread flour
 - 1 tsp (5 g) kosher salt, plus more for sprinkling
@@ -17,14 +17,14 @@ Toppings:
 - Small handful torn fresh basil leaves (optional)
 - 1 ounces grated parmesan or pecorino Romano cheese (optional)
 
-Brief Recipe
-============
+Overview
+--------
 - Make dough
 - Rest at room temperature for 8-24 h.
 - Bake at 550°F for 12-15 min.
 
-Recipe
-======
+Directions
+----------
 1. Combine flour, salt, yeast, water, and oil in a large bowl. Mix with hands 
    or a wooden spoon until no dry flour remains. The bowl should be at least 4 
    to 6 times to volume of the dough to account for rising.
@@ -65,6 +65,6 @@ Recipe
    slices and serve immediately.
 
 Reference
-=========
+---------
 - http://slice.seriouseats.com/archives/2013/01/the-pizza-lab-the-worlds-easiest-pizza-no-knead-no-stretch-pan-pizza.html
 

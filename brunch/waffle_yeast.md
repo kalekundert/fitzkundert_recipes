@@ -19,8 +19,8 @@ Batter, Wet:
 - 40-60 g (2-3 Tbsp) maple syrup, optional
 - 1 tsp vanilla extract
 
-Recipe
-------
+Directions
+----------
 1. Mix leavening ingredients, then proof yeast for 10 min.
 
    - I usually do this in the 1 cup measuring glass.  I like to put the glass 

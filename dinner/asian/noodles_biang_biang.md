@@ -1,21 +1,19 @@
 Biang Biang Noodles
-=====
+===================
 
 Time = 30 min prep + 3 hr rest + 15 min cook \
 Servings = 2 people \
 From = Amy Jacobson 
 
-Noodle Ingredients
-------------------
-
+Ingredients
+-----------
+Noodles:
 -  375 g AP flour
 -  200 mL water
 -  ½ tsp salt
 -  oil for greasing
 
-Sauce  Ingredients
-------------------
-
+Sauce:
 -  chili oil (garnish)
 -  200 mL peanut oil
 -  4 Tbsp soy sauce

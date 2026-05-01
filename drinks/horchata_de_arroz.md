@@ -11,7 +11,7 @@ Ingredients
   - Adjust depending on how sweet you want, e.g. ⅔ cup (133 g) if you want it 
     less sweet.
   - KBK: I recommend using only ⅔ cup; that's sweet enough for me.
-- 1 tbsp vanilla
+- 1 Tbsp vanilla
 - 12 oz (1 can) evaporated milk
 - 1½ cup of milk or almond milk
 - 1 L water

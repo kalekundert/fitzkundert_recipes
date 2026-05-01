@@ -1,5 +1,5 @@
 Spicy Lentil Wraps with Tahini Sauce
-====
+====================================
 Time = 30 min to 2 hrs prep + 10 min assembly \
 Servings = 6 wraps \
 From = [The Kitchn](https://www.thekitchn.com/recipe-spicy-lentil-wrap-with-tahini-saucerecipes-from-the-kitchn-167629)
@@ -7,13 +7,13 @@ From = [The Kitchn](https://www.thekitchn.com/recipe-spicy-lentil-wrap-with-tahi
 Ingredients
 -----------
 
-*For the red pepper paste (makes about ¾ cup)* \
+- *For the red pepper paste (makes about ¾ cup)* \
 - 6 medium red bell peppers, cored and chopped
 - ½ tsp cayenne pepper
 - 1 tsp kosher salt
 - Olive oil to cover (if refrigerating)
 
-*For the lentil filling* \
+- *For the lentil filling* \
 - ½ cup red lentils, rinsed
 - ¾ cup fine grain (#1) bulgur
 - 2 Tbsp olive oil
@@ -24,7 +24,7 @@ Ingredients
 - 2 Tbsp chopped flat-leaf parsley
 - ½ tsp kosher salt
 
-*For the tahini dipping sauce (makes ¾ cup)* \
+- *For the tahini dipping sauce (makes ¾ cup)* \
 - ¼ cup tahini
 - 2 tsp lemon juice
 - 2 tsp finely chopped parsley
@@ -32,7 +32,7 @@ Ingredients
 - ⅛ tsp red pepper flakes
 - ⅛ tsp kosher salt
 
-*To assemble the wraps* \
+- *To assemble the wraps* \
 - 6 (approximately 9x12-inch) sheets lavash, white or whole wheat
 - 2 cups shredded cabbage
 

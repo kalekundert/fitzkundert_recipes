@@ -1,5 +1,5 @@
 Scones
-=====
+======
 Time = 10 min prep and 25 min cook \
 Servings = 6-8 scones \
 From: Louise Goupil
@@ -23,7 +23,7 @@ Directions
 
 2.  Mix flour, baking powder, sugar and salt in a bowl. Cut in butter with your fingers.
 
-3.  In a separate bowl, beat eggs and cream. Reserve 1-2 Tbsp. Add remaining mixture to dry ingredients until the dough is even and sticks together.
+3.  In a separate bowl, beat eggs and cream. Reserve 1-2 Tbsp Add remaining mixture to dry ingredients until the dough is even and sticks together.
 
 4.  Fold in dried fruit and knead dough into a ball, being careful not to overwork.
 

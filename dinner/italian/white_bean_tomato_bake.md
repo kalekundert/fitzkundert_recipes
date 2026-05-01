@@ -1,5 +1,5 @@
 Cheesy White Bean-Tomato Bake
-====
+=============================
 Time = 15 min \
 Servings = 4 servings\
 From = [NYT Cooking](https://cooking.nytimes.com/recipes/1019681-cheesy-white-bean-tomato-bake)

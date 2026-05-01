@@ -2,7 +2,7 @@ Smooth Buttercream
 ==================
 
 Ingredients
-===========
+-----------
 - ½ cup (1 stick) (115g) salted butter, room temperature
 - ½ cup (95g) shortening
 - 4 cups (480g) powdered sugar
@@ -10,7 +10,7 @@ Ingredients
 - 1 tsp vanilla extract
 
 Directions
-==========
+----------
 1. Combine butter and shortening and mix until smooth.
 2. Add 2 cups of powdered sugar and mix until smooth.
 3. Add vanilla extract and 1-2 Tbsp of water or cream and mix until smooth.
@@ -18,7 +18,7 @@ Directions
 5. Add a little more water or milk until desired consistency is reached.
 
 Notes
-=====
+-----
 - Make sure butter is at room temperature, or it's really hard to get it 
   smooth.
 
@@ -27,7 +27,7 @@ Notes
   For a peanut butter icing, add ¾ cup of peanut butter.
 
 References
-==========
+----------
 https://www.lifeloveandsugar.com/2015/07/30/how-to-frost-a-smooth-cake-with-buttercream/
 https://www.lifeloveandsugar.com/2014/11/07/vanilla-buttercream-icing/
 

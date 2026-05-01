@@ -2,22 +2,22 @@ Sausage and Polenta
 ===================
 
 Ingredients
-===========
+-----------
 Polenta:
-5 cups water
-1 tsp salt
-1 cup corn meal (coarse, medium-coarse, or "polenta")
-2 Tbsp unsalted butter
-¼ cup Parmesan cheese
+- 5 cups water
+- 1 tsp salt
+- 1 cup corn meal (coarse, medium-coarse, or "polenta")
+- 2 Tbsp unsalted butter
+- ¼ cup Parmesan cheese
 
 Everything Else:
-1 lb Italian sausage
-2 cans (29 oz) stewed "Italian style" tomatoes (drained)
-8 oz mozzarella cheese (idea: sliced)
-½ cup Parmesan cheese
+- 1 lb Italian sausage
+- 2 cans (29 oz) stewed "Italian style" tomatoes (drained)
+- 8 oz mozzarella cheese (idea: sliced)
+- ½ cup Parmesan cheese
 
-Recipe
-======
+Directions
+----------
 1. Preheat oven to 375°F.
 
 2. Make the polenta:
@@ -42,6 +42,6 @@ Recipe
 6. Let stand for 10 min before serving.
 
 Notes
-=====
+-----
 - See polenta recipe for details on making the polenta.  It's best to soak the 
   cornmeal overnight.

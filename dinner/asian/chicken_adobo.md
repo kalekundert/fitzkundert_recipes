@@ -17,8 +17,8 @@ Ingredients
 - 2 to 4 bay leaves
 - whole black peppercorns, to your taste
 
-Instructions
-------------
+Directions
+----------
 
 1. Peel and crush your garlic cloves. 
 

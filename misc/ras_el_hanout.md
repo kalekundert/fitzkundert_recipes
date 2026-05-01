@@ -2,7 +2,7 @@ Ras el Hanout
 =============
 
 Ingredients
-===========
+-----------
 - 1 tsp ground cumin
 - 1 tsp ground ginger
 - 1 tsp salt
@@ -13,11 +13,11 @@ Ingredients
 - ½ tsp ground allspice
 - ¼ tsp ground cloves
 
-Recipe
-======
+Directions
+----------
 1. In a small bowl whisk together all ingredients until combined well. Spice 
    blend keeps in an airtight container at cool room temperature 1 month. 
 
 References
-==========
-http://www.epicurious.com/recipes/food/views/ras-el-hanout-101070
+----------
+- http://www.epicurious.com/recipes/food/views/ras-el-hanout-101070

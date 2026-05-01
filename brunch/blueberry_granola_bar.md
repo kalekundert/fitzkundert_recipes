@@ -1,14 +1,15 @@
 Blueberry Vanilla Greek Yogurt Granola Bars
-=====
-Time = 30 min prep + 1-2 hour freeze + 8 hr-overnight set\
-Servings = approx 12 bars
-From: [Half-Baked Harvest](https://www.halfbakedharvest.com/blueberry-vanilla-greek-yogurt-granola-bars/)
+===========================================
 
-Ingredients:
+Time
 ----
+- Preparation: 30 min
+- Freeze: 1-2 hours
+- Set: Overnight
 
-Bars
-----
+Ingredients
+-----------
+12 Bars:
 - 2 cups rolled oats
 - 1.5 cups brown rice krispies
 - ¼ cup shredded unsweetened coconut (can omit if desired)
@@ -20,9 +21,7 @@ Bars
 - 1.5 tsp vanilla extract
 - 1 cup dried blueberries (can sub dried strawberries)
 
-Greek Yogurt Coating
---------------------
-
+Greek Yogurt Coating:
 - 1 Tbsp water
 - 1 tsp vanilla extract
 - ½ tsp gelatin
@@ -31,16 +30,13 @@ Greek Yogurt Coating
 - pinch of salt
 - 2 cups powdered sugar
 
-Other materials
----------------
-
+Miscellaneous:
 - parchment paper
 - wire cooling racks
 
 
-Directions:
-----
-
+Directions
+----------
 1. Line an 9x13 square Pyrex pan with parchment paper.
 
 2. In a large bowl combine the oats, rice krispies, coconut, almonds, chia seeds and salt. Mix together.
@@ -62,7 +58,12 @@ Directions:
 10. Once the bars are completely dry, store in an airtight container at room temperature.
 
 
-Notes:
-----
+Notes
+-----
+If you want an extra thick yogurt coating double the recipe for the Greek 
+Yogurt and repeat the dipping process twice just as directed. 
 
-If you want an extra thick yogurt coating double the recipe for the Greek Yogurt and repeat the dipping process twice just as directed. 
+Reference
+---------
+[Half-Baked 
+Harvest](https://www.halfbakedharvest.com/blueberry-vanilla-greek-yogurt-granola-bars/)

@@ -4,22 +4,22 @@ Horchata de Chufa
 Ingredients
 -----------
 2 servings (500 mL):
-- 85 g (1/2 cup) tiger nuts
+- 85 g (½ cup) tiger nuts
 - 500 mL hot (not boiling) water
-- 31 g (2.5 tbsp) sugar
-- 1/8 tsp kosher salt
+- 31 g (2.5 Tbsp) sugar
+- ⅛ tsp kosher salt
 
 4 servings (1L):
 - 170 g (1 cup) tiger nuts
 - 1L hot (not boiling) water
-- 62 g (1/3 cup) sugar
-- 1/4 tsp kosher salt
+- 62 g (⅓ cup) sugar
+- ¼ tsp kosher salt
 
 6 servings (1.5L):
 - 255 g (2 cups) tiger nuts
 - 1.5L hot (not boiling) water
-- 93 g (1/2 cup) sugar
-- 3/8 tsp kosher salt
+- 93 g (½ cup) sugar
+- ⅜ tsp kosher salt
 
 Directions
 ----------

@@ -1,5 +1,5 @@
 Spaghetti with Sweet Corn Pesto
-====
+===============================
 
 Time = 10 min prep + 30 min cook \
 Servings = 4 hearty servings \

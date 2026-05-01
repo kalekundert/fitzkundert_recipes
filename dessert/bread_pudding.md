@@ -1,11 +1,11 @@
 Bread Pudding with Whiskey Cream Sauce
-====
+======================================
 Time = 15 min prep + 40 min cook \
 Servings = 4-6 people
 
-Bread Pudding Ingredients
--------------------------
-
+Ingredients
+-----------
+Bread Pudding:
 -  9 oz fresh sourdough bread (approx 7-8 slices)
 -  2 large eggs
 -  ½ cups milk
@@ -15,8 +15,7 @@ Bread Pudding Ingredients
 -  ¼ cup pecans, chopped (optional)
 -  ½ cup granny smith apple, medium dice
 
-Cream Sauce Ingredients
------------------------
+Cream Sauce:
 -  3 Tbsp unsalted butter
 -  ¼ cup white sugar
 -  ¼ cup heavy cream

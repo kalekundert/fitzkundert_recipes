@@ -1,12 +1,12 @@
 Gnocchi With Brussels Sprouts and Brown Butter
-====
+==============================================
 
 Servings: Approx 4 \
 Time: 20 min \
 From: [NYT Cooking Blog](https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter)
 
 Ingredients
-----
+-----------
 
 - 1 pound brussels sprouts (or cruciferous vegetables like broccoli, cauliflower or even cabbage)
 - 1 lemon
@@ -19,7 +19,7 @@ Ingredients
 - Freshly grated Parmesan, for serving
 
 Directions
-----
+----------
 
 1. Trim and halve the brussels sprouts. Using a vegetable peeler, peel thick strips of lemon zest, then coarsely chop. (You should have about 2 tsp chopped zest.)
 

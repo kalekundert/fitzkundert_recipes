@@ -2,7 +2,7 @@ Toll House Chocolate Chip Cookies
 =================================
 
 Ingredients
-===========
+-----------
 - 270 g all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
@@ -13,8 +13,8 @@ Ingredients
 - 2 large eggs
 - 340 g (2 cups) semi-sweet chocolate chips
 
-Procedure
-=========
+Directions
+----------
 - Preheat to 375°F
 - Mix flour, baking soda, and salt.
 - Cream butter, sugar, and vanilla.
@@ -23,5 +23,5 @@ Procedure
 - Bake 9-11 minutes.
 
 References
-==========
+----------
 https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/

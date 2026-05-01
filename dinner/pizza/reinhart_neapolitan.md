@@ -2,7 +2,7 @@ Reinhart Neapolitan Pizza
 =========================
 
 Ingredients
-===========
+-----------
 Instant yeast variant:
 - 574 g (4⅔ cups) all-purpose flour
 - 12 g (1¾ tsp) salt
@@ -17,8 +17,8 @@ Sourdough variant:
 - 54 g (¼ cup) olive oil
 - 350 g (1½ cups) water
 
-Recipe
-======
+Directions
+----------
 1. Mix the flour, salt, and yeast/starter in a large bowl.
 
 2. Add the water and oil and mix until well combined.
@@ -44,8 +44,8 @@ Recipe
 
 10. Bake for 6-9 minutes.
 
-Footnotes
-=========
+Notes
+-----
 1. Shaping the dough into a somewhat round shape when it comes out of the 
    refrigerator and letting it rest that way for 15-30 minutes makes it much 
    easier to toss.
@@ -70,5 +70,5 @@ Footnotes
    - If LMWM cheese is not available, part-skim is the next best.
 
 References
-==========
+----------
 The Bread Baker's Apprentice.

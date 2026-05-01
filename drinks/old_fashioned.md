@@ -2,16 +2,16 @@ Old Fashioned
 =============
 
 Ingredients
-===========
-- 2 oz. (¼ cup, 1 finger) high-proof bourbon (cheap is ok!)
-- 1 tsp. simple syrup
+-----------
+- 2 oz (¼ cup, 1 finger) high-proof bourbon (cheap is ok!)
+- 1 tsp simple syrup
 - 1-5 dashes (⅛-½ tsp) Angostura bitters (to taste)
 - Lemon peel
 - Orange peel
 - 1-2 ice cubes
 
 Notes
-=====
+-----
 - Avoid as much pith as possible when slicing peels.  In fact, using a 
   vegetable peeler works well for this.
 
@@ -23,5 +23,5 @@ Notes
   the drink.
 
 Reference
-=========
+---------
 https://thebulwark.com/back-to-basics-make-cocktails-normal-again/

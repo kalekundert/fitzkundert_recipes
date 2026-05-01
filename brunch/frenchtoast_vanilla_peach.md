@@ -1,5 +1,5 @@
-Vanilla Peach French Toast (aka Slumber Party French Toast)
-=====
+Vanilla Peach French Toast
+==========================
 Time = 20 min prep + overnight + 75 min bake \
 Servings = 6-8 people \
 From: Cheryl Fitzsimmons \
@@ -22,8 +22,10 @@ Ingredients
 -   Optional--powdered sugar (garnish)
 -   Optional--splash of heavy whipping cream
 
-Directions--the night before
-----------------------------
+Directions
+----------
+
+The night before:
 
 1.  In a saucepan, melt together butter, sugar and water. Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes, stirring frequently.
 
@@ -43,10 +45,9 @@ Directions--the night before
 
 9.  Cover with foil and refrigerate 8 hours or overnight.
 
-Directions--the following morning
----------------------------------
+The morning of:
 
-1.  Preheat Oven to 350°F
+1.  Preheat oven to 350°F
 
 2.  Remove pan from the refrigerator and allow to come to room temp (approx. 20 to 30 minutes)
 

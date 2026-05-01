@@ -1,5 +1,5 @@
 Fitzsimmons Banana Bread
-=====
+========================
 Time = 10 min prep + 60 min cook \
 Servings = 1 loaf \
 From: Cheryl Fitzsimmons

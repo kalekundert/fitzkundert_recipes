@@ -1,5 +1,5 @@
 Egg and Bacon Breakfast Hot Pockets
-=====
+===================================
 Time = 20 min prep and 15 min cook\
 Servings = approx 8 hot pockets\
 Calories = 328 per hot pocket \

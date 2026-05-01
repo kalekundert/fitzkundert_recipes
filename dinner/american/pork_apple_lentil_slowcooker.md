@@ -1,5 +1,5 @@
 Slow Cooker Lentil Soup with Sausage and Apples 
-=====
+===============================================
 
 Time = 30 min prep + 8 hour cook \
 Servings = 4-6 people \

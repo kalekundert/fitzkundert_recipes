@@ -1,5 +1,5 @@
 Spinach Dip
-=====
+===========
 Time = 15 min prep + 2 hr chill\
 Servings = 1 cup dip \
 From: Aunt Gerry + Uncle Dan\

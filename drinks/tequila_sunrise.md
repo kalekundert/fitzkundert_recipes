@@ -2,7 +2,7 @@ Tequila Sunrise
 ===============
 
 Ingredients
-===========
+-----------
 - 2 ounces blanco tequila
 - 4 ounces orange juice, freshly squeezed
 - ¼ ounce grenadine
@@ -10,7 +10,7 @@ Ingredients
 - cherry
 
 Directions
-==========
+----------
 - Add the tequila and then the orange juice to a chilled highball glass filled 
   with ice.
 
@@ -20,5 +20,5 @@ Directions
 - Garnish with an orange slice and a cherry.
 
 Reference
-=========
+---------
 https://www.liquor.com/recipes/tequila-sunrise/

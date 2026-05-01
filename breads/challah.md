@@ -1,14 +1,14 @@
 Challah
-=====
-
-Starter
 =======
+
+Ingredients
+-----------
+Starter:
 - 54 g all-purpose flour
 - 26 mL water
 - ⅛ tsp yeast
 
-Dough
-=====
+Dough:
 - All of the starter
 - 424 g all-purpose flour
 - 118 mL water (30% just water, 55% with eggs, 67% with eggs and honey)
@@ -18,13 +18,12 @@ Dough
 - 60 g honey (about 3 Tbsp)
 - 60 g butter (≈4.23 Tbsp, melted)
 
-Glaze
-=====
+Glaze:
 - Remaining egg (33 g)
 - ¾ tsp water
 
-Recipe
-======
+Directions
+----------
 1. Mix the starter in a small bowl and allow it to rise overnight.
 
 2. Measure the water into the bowl of a stand mixer, then tear the starter into 
@@ -80,7 +79,7 @@ Recipe
 14. Cool on a wire rack.
 
 Notes
-=====
+-----
 - It was pretty hard to transfer the loaf onto the baking stone in the oven 
   from the baking sheet I was proofing it on.  Next time I might want to 
   consider baking it directly on the baking sheet.
@@ -163,7 +162,7 @@ Notes
     https://cooking.stackexchange.com/questions/51759/challah-rolls-open-up-when-baking-in-the-oven
 
 References
-==========
+----------
 - http://www.realbakingwithrose.com/2006/03/my_new_favorite_traditional_ch.html#.WTLRMmdLuh8
 
     - This is the basic recipe I'm following.  Judging by the photos of slices 

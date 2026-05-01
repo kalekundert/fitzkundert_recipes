@@ -1,14 +1,12 @@
 Grandma Koch's Banana Bread
-=====
+===========================
 Time = 15 min prep + 60 min cook \
 Servings = 8 servings \
-From = Fitzy's Grandma Koch \ 
+From = Fitzy's Grandma Koch \
 Original recipe = Wesson oil cookbook
 
-
-Basic Ingredients
------------------
-
+Ingredients
+-----------
 -  ⅓ cup Fluffo (shortening)
 -  ¾ cup white sugar
 -  2 bananas, sliced
@@ -22,7 +20,6 @@ Basic Ingredients
 
 Directions
 ----------
-
 1.  Preheat oven to 350°F
 
 2.  Cream together fluffo, sugar, and banana. Add egg and beat until well blended. 
@@ -33,7 +30,6 @@ Directions
 
 Variations
 ----------
-
 - *banana nut loaf:* add ½ cup chopped walnuts before pouring into loaf pan
 
 - *prune or apricot loaf:* use ¾ cup of cooked, drained, and mashed prunes or apricots instead of banana and ¾ cup prune or apricot juice in place of buttermilk. Add the zest of 1 lemon. 

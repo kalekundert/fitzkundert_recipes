@@ -2,7 +2,7 @@ Rice
 ====
 
 Ingredients
-===========
+-----------
 1 serving:
 - 45 g (¼ cup) rice
 - 120 g (½ cup) water (165 g total)
@@ -20,7 +20,7 @@ Ingredients
 - 960 g (4 cups) water (1320 g total)
 
 Directions
-==========
+----------
 - Weigh rice.
 - Tare scale.
 - Thoroughly rinse with water.

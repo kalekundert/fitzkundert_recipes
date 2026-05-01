@@ -1,14 +1,14 @@
 Everyday Yellow Dal and Cabbage Slaw
-=====
+====================================
 
 Time = 1 hour + soaking time \
-Servings = 4 servings \
-From = [Smitten Kitchen](https://smittenkitchen.com/2007/06/everyday-yellow-dal/)
 
-Dal Ingredients
----------------
+Ingredients
+-----------
+- 4 servings
 
--1 cup yellow split peas, soaked in cold water for 1 hour
+Dal:
+- 1 cup yellow split peas, soaked in cold water for 1 hour
 - 1 large tomato (about 8 ounces), cut into 8 wedges
 - ¼ cup canola oil
 - ½ tsp cumin seeds
@@ -21,9 +21,9 @@ Dal Ingredients
 - 1 Tbsp unsalted butter
 - 1 tsp salt
 
-Slaw Ingredients
-----------------
-- 2 cups tightly packed, shredded green cabbage (use the large holes of a grater)
+Slaw:
+- 2 cups tightly packed, shredded green cabbage (use the large holes of a 
+  grater)
 - 1 small serrano chile, seeded and minced (can leave out for less spice)
 - 2 Tbsp fresh lemon juice, or more as needed
 - ¼ to ½ tsp fine sea or table salt
@@ -32,8 +32,9 @@ Slaw Ingredients
 - ½ tsp mustard seeds
 
 
-Dal Directions
---------------
+Directions
+----------
+Dal:
 
 1. Drain the dal (split peas) and place in a large saucepan. Add the tomato and 3 cups of water and bring to a boil.
 
@@ -43,12 +44,16 @@ Dal Directions
 
 4. After the seeds have stopped sputtering, add the onion and saute over medium heat. About 3 minutes later, add the garlic and saute until most of the onion has turned dark brown, about 5 minutes altogether. Add the coriander, turmeric and cayenne, stir and pour mixture over the dal. Add the cilantro (parsley), butter and salt to the dal and simmer for another 5 minutes. Serve hot.
 
+Slaw:
 
-Slaw Directions
----------------
-
-1. In a medium bowl, toss together the shredded cabbage, chile, lemon juice, salt and sugar. Taste and adjust the seasoning. You are looking for a well-balanced, sweet and sour taste.
+1. In a medium bowl, toss together the shredded cabbage, chile, lemon juice, 
+   salt and sugar. Taste and adjust the seasoning. You are looking for a 
+   well-balanced, sweet and sour taste.
 
 2. Heat the oil in a small skillet or butter warmer over high heat. When the oil begins to smoke, add the mustard seeds, covering the pan with a lid or splatter screen. When seeds top popping, immediately pour the oil over the cabbage salad and toss well. 
 
 3. Let the salad sit for at least 15 minutes before serving, to allow the flavors to blossom. Serve cold or at room temperature.
+
+Reference
+---------
+[Smitten Kitchen](https://smittenkitchen.com/2007/06/everyday-yellow-dal/)

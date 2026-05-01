@@ -1,5 +1,5 @@
 Tangy Braised Chickpeas with Carrots and Mushrooms
-====
+==================================================
 Time = 2 hours\
 Servings = 4 to 6 servings\
 From = [Smitten Kitchen](https://smittenkitchen.com/2020/09/tangy-braised-chickpeas/) 

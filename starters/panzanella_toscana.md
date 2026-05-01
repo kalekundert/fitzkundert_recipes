@@ -1,5 +1,5 @@
 PANZANELLA TOSCANA
-====
+==================
 
 Time = 15 min prep + 30 min chill \
 Servings = 4 servings \

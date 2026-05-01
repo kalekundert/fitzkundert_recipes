@@ -1,5 +1,5 @@
 Apple Kale Feta Salad
-=====
+=====================
 Time = 15 min\
 Servings = 2\
 Calories = 750 kcal per serving

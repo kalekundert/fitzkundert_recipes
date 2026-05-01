@@ -2,7 +2,7 @@ Blueberry Pie
 =============
 
 Ingredients
-===========
+-----------
 - ⅓ cup water
 - 250 g (1¼ cup) sugar
 - 6 Tbsp (⅜ cups, ¼ cup + 2 Tbsp) corn starch
@@ -16,7 +16,7 @@ Toppings:
 - Whipped cream
 
 Directions
-==========
+----------
 - Par-bake pie shell at 425°C for 10-12 min, until golden brown.  Let cool.
 
   - Poke holes in the bottom with a fork, and weigh down with pie weights or 
@@ -35,7 +35,7 @@ Directions
   into the prepared pie shell.  Refrigerate to cool.
 
 Notes
-=====
+-----
 - From 2015 Schuh recipes.
 
 - How long does this take?

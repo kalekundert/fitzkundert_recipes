@@ -1,5 +1,5 @@
 Flourless Chocolate Cake
-====
+========================
 
 Time = 15 min prep + 25 min bake + 2-3 hr rest
 Servings = 1 round 8-inch cake
@@ -8,7 +8,7 @@ From: King Arthur Baking
 Ingredients
 -----------
 
-*Cake*
+- *Cake*
 
 - 170g semisweet chocolate chips or bittersweet chocolate chips
 - 8 Tbsp (113g) unsalted butter, at room temperature
@@ -19,11 +19,11 @@ Ingredients
 - 3 large eggs
 - ½ cup (42g) Dutch-process cocoa
 
-*Glaze*
+- *Glaze*
 
-1 cup (170g) semisweet chocolate
-chips or bittersweet chocolate chips
-½ cup (113g) heavy cream
+- 1 cup (170g) semisweet chocolate
+- chips or bittersweet chocolate chips
+- ½ cup (113g) heavy cream
 
 Directions
 ----------

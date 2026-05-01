@@ -1,11 +1,11 @@
 Marry Me Chicken
-====
+================
 Servings: Approx 4 \
 Time: 10-15 min prep + 50 min cook \
 From: [NYT Cooking Blog](https://cooking.nytimes.com/recipes/1024503-marry-me-chicken)
 
 Ingredients
-----
+-----------
 
 - 3 large boneless, skinless chicken breasts, or 6 chicken cutlets (about 2¼ pounds total), patted dry
 - Kosher salt and black pepper, to your taste
@@ -23,7 +23,7 @@ Ingredients
 - Fresh basil, for serving
 
 Directions 
-----
+----------
 
 1. If using chicken breasts, start from the thickest end and slice each chicken breast in half horizontally so you end up with a total of 6 cutlets. Season both sides of the chicken cutlets well with salt and pepper. (Tip
 To make it easier to slice into cutlets, place the chicken breasts in the freezer for 20 minutes.)

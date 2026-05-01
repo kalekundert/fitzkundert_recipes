@@ -1,5 +1,5 @@
 Snickerdoodles 
-====
+==============
 Time = 10 min prep + 20 min chill + 10 min per batch \
 Serving = approx 36 cookies \
 From = Fitzsimmons Family

@@ -2,14 +2,14 @@ Forkish Neapolitan Pizza
 ========================
 
 Ingredients
-===========
+-----------
 - 1000 g (7¾ cups) of 00 or white flour
 - 720 mL water
 - 1¼ Tbsp fine sea salt
 - ½ tsp instant dried yeast
 
 Directions
-==========
+----------
 1. Fill a large bowl with 3 cups of warm water
 
 2. Put 2 grams of yeast into a small bowl and add 3 Tbsp of the warm 
@@ -47,12 +47,12 @@ Directions
 13. Slice and serve!
 
 Notes
-=====
-This recipe in many ways is pretty generic: 72% dough, autolyse, long rise (not 
-overnight, though), hot oven.
+-----
+- This recipe in many ways is pretty generic: 72% dough, autolyse, long rise 
+  (not overnight, though), hot oven.
 
-But broiling after baking is an interesting idea.
+- But broiling after baking is an interesting idea.
 
 Reference
-=========
+---------
 https://honestlyyum.com/10666/the-perfect-pizza-dough/

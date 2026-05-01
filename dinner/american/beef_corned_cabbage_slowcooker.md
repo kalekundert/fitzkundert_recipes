@@ -1,5 +1,5 @@
 Slow Cooker Corned Beef and Cabbage
-=====
+===================================
 
 Time = 30 min prep + 8 hr cook \
 Servings = 8-10 sandwiches \

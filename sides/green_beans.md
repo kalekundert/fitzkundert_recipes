@@ -1,8 +1,8 @@
 Green Beans
-====
+===========
 
 Ingredients
-----
+-----------
 - 1 lb green beans, trimmed
 - ½ lb (5 thick-cut slices) bacon
 - ⅓ cup crumbled blue cheese
@@ -11,8 +11,8 @@ Ingredients
 - ¼ tsp salt
 - ¼ tsp pepper
 
-Preparation
-----
+Directions
+----------
 1. Trim and blanche green beans.
 
     - Fill a large bowl with ice water.
@@ -56,13 +56,13 @@ Preparation
    and the blue cheese and toss to mix again.  Season to taste with salt and 
    pepper.
 
-Tips & Notes
-============
+Notes
+-----
 1. I actually used lemonade instead of lemon juice the first time I did this.  
    I couldn't really taste the lemonade, but I suspect that the small amount of 
    sugar might've helped combine all the flavors.
 
 References
-==========
-http://www.seriouseats.com/2017/08/the-food-lab-green-beans-haricots-verts-amandine.html
-http://www.seriouseats.com/2014/06/are-the-rules-of-big-pot-blanching-true.html
+----------
+- http://www.seriouseats.com/2017/08/the-food-lab-green-beans-haricots-verts-amandine.html
+- http://www.seriouseats.com/2014/06/are-the-rules-of-big-pot-blanching-true.html

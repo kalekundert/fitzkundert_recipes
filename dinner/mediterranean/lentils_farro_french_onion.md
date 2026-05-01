@@ -1,5 +1,5 @@
 French Onion Baked Lentils and Farro
-=====
+====================================
 
 Time = 10 min prep + 30 min cook \
 Servings = 4-6 servings \

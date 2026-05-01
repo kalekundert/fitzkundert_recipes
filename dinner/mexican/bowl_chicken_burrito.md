@@ -1,14 +1,14 @@
 Chicken Burrito Bowls
-=====
+=====================
 Time = 15 min prep + 20 min cook\
 Servings = 4 \
 Calories = 371 \
 From: lifemadesweeter.com \
 Notes: Low carb and whole30 friendly
 
-Seasoning Ingredients
----------------------
-
+Ingredients
+-----------
+Seasoning:
 -  2 tsp chili powder
 -  1 tsp cumin
 -  1 tsp garlic powder
@@ -17,9 +17,7 @@ Seasoning Ingredients
 -  ½ tsp salt (plus more to taste)
 -  ¼ tsp pepper (plus more to taste)
 
-Bowl Ingredients
-----------------
-
+Bowl:
 -  1 Tbsp olive oil
 -  ¼ cup fresh cilantro, chopped
 -  2 limes, juiced and juice divided
@@ -30,9 +28,7 @@ Bowl Ingredients
 -  3 Tbsp avocado oil, divided
 -  1 head cauliflower, riced
 
-To garnish
-----------
-
+Garnish:
 -  lime wedges
 -  sliced avocado (½ per person)
 -  scallions, separate greens from whites, diced. 

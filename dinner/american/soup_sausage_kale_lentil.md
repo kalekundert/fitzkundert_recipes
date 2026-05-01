@@ -8,7 +8,7 @@ Time
 
 Ingredients
 -----------
-6-8 servings
+- 6-8 servings
 
 Frozen in advance:
 

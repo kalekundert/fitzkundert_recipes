@@ -1,13 +1,13 @@
 Fastnachts
-====
+==========
 Time = 45 min prep + 3.5 hr rise + 20 min cook \
 Servings = makes approx 20-24 Fastnachts \
 Calories = 203 per fastnacht \
-From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/) and [Lancaster Farming ](https://www.lancasterfarming.com/country-life/food-and-recipes/heres-how-you-make-real-lancaster-county-fasnachts/article_373d8e4d-279a-5518-9710-23740c8e9ebc.html)
 
 
-Dough Ingredients
------------------
+Ingredients
+-----------
+Dough:
 -  2 cups whole milk
 -  1 cup mashed potatoes (no salt, milk or butter added)
 -  ½ cup + ½ tsp white sugar
@@ -20,9 +20,12 @@ Dough Ingredients
 -  stand mixer
 
 
-Making Fastnacht Dough and 1st Rise
------------------------------------
-1.  Scald the milk. Combine scaled milk with mashed potatoes. Add ½ cup sugar and butter. Cool to room temperature before proceeding with the next step. 
+Directions
+----------
+Making Fastnacht Dough and 1st Rise:
+
+1.  Scald the milk. Combine scaled milk with mashed potatoes. Add ½ cup sugar 
+    and butter. Cool to room temperature before proceeding with the next step. 
 
 2.  Dissolve yeast and ½ tsp sugar into lukewarm water. 
 
@@ -34,10 +37,8 @@ Making Fastnacht Dough and 1st Rise
 
 6.  Place dough in a greased bowl. Cover with a thin towl and allow to rise in place for approx 2 hours or until doubled in size. 
 
+Rolling Out Fastnachts and 2nd Rise:
 
-
-Rolling Out Fastnachts and 2nd Rise
------------------------------------
 7. On a lightly floured surface, roll dough approx ¾ inch thick. 
 
 8.  Cut the dough into 3-4 inch wide strips. Then cut the strips into 3-4 inch pieces. 
@@ -46,17 +47,18 @@ Rolling Out Fastnachts and 2nd Rise
 
 10.  Arrange dough pieces about 2 inches apart on wax-lined trays. Cover with a thin towel. Place trays in warm place for about 45-60 min to rise, or until pieces have raised and doubled in size. 
 
-Frying Fastnachts
------------------
+Frying Fastnachts:
+
 11.  Heat shortening to 365°F (check with a high-temp frying thermometer).
 
 12.  Deep fry until both sides are golden brown, turning 1 time. (ADULT ONLY JOB)
 
 13.  Drain on paper towels and cool completely before serving. 
 
-Fastnacht Toppings
-------------------
-*To Glaze* \
+Toppings
+--------
+### To Glaze
+
 Beat together:
 -  2.5 cups confectioner's sugar
 -  4 Tbsp margarine
@@ -65,10 +67,17 @@ Beat together:
 
 Drizzle glaze over slightly warm Fastnachts or dip into glaze
 
-*To Powder* \
+### To Powder
+
 Shake slightly warm Fastnachts in a bag with confectioner's sugar or a combination of confectioner's sugar and cinnamon (1 cup sugar + 2 Tbsp cinnamon). 
 
-*To eat traditionally* \
+### To Eat Traditionally
+
 Slice lengthwise like a bagel and spread with butter (optional), plus table syrup like [Mrs. Schlorer’s Turkey Syrup](https://www.goldenbarrel.com/product/mrs-schlorers-turkey-golden-table-syrup/) or [Golden Barrel Table Syrup](https://www.goldenbarrel.com/product/golden-barrel-table-syrup/).
 
 
+References
+----------
+- [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
+- [Lancaster Farming 
+  ](https://www.lancasterfarming.com/country-life/food-and-recipes/heres-how-you-make-real-lancaster-county-fasnachts/article_373d8e4d-279a-5518-9710-23740c8e9ebc.html)

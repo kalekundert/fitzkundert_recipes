@@ -1,16 +1,15 @@
-New York Times No-knead Loaf
-=====
-
+New York Times No-Knead Loaf
+============================
 
 Ingredients
-----
+-----------
 - 430 g (3 cups) flour
 - ¼ tsp (1 g) yeast
 - 1¼ tsp (8 g) salt
 - 345 mL (1⅝ cups) water
 
-Recipe
-======
+Directions
+----------
 1. In a large bowl combine flour, yeast and salt. Add water, and stir until blended; dough will be shaggy and sticky. Cover bowl with plastic wrap. Let dough rest at least 12 hours, preferably about 18, at warm room temperature, about 70 degrees.
 
 2. Dough is ready when its surface is dotted with bubbles. Lightly flour a work surface and place dough on it; sprinkle it with a little more flour and fold it over on itself once or twice. Cover loosely with plastic wrap and let rest about 15 minutes.

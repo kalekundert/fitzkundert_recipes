@@ -8,7 +8,7 @@ Time
 
 Ingredients
 -----------
-4 servings
+- 4 servings
 
 Salt and pepper seasoning:
 - 2 tsp salt

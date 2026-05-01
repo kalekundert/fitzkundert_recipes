@@ -1,5 +1,5 @@
 Crockpot Shredded Beef and Cheddar Sandwiches
-=====
+=============================================
 
 Time = Prep = 15 min prep + 8 hr cook + 10 min assembly \
 Servings = 7-8 people \

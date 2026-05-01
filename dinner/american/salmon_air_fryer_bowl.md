@@ -1,28 +1,28 @@
 Air Fryer Honey Soy Salmon
-====
+==========================
 Time = 10 min prep + 15 min cook\
 Servings = 4\
 Calories = 240\
 From: lifemadesweeter.com
 
-Salmon Ingredients
-------------------
+Ingredients
+-----------
+Salmon:
 -  1 lb salmon fillet, thickest cut possible, skin removed, cut into approx 1-inch cubes
 -  ½ tsp garlic powder
 -  ¼ tsp ground ginger
 -  koshar salt or sea salt, to your taste
 -  fresh cracked pepper, to your taste
 
-Sauce Ingredients
------------------
--  ¼ cup low-sodium soy sauce (can sub ¼ cup coconut aminos or gluten-free tamari)
+Sauce:
+-  ¼ cup low-sodium soy sauce (can sub ¼ cup coconut aminos or gluten-free 
+   tamari)
 -  3 Tbsp honey (can sub maple syrup)
 -  1 tsp sesame oil
 -  1-2 tsp Sriacha
 -  1 tsp rice wine vinegar (can sub apple cider vinegar)
 
-For each Serving
-----------------
+Sides:
 -  ½ cup cooked jasmine rice
 -  ¼ avocado, sliced or cubed
 -  1-2 Tbsp shelled frozen edamame (defrosted and heated to serving temp)

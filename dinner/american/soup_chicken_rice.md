@@ -1,5 +1,5 @@
 Chicken and Wild Rice Soup
-=====
+==========================
 
 Time = 5 min prep + 4-7 hr cook \
 Servings = 4-6 servings \

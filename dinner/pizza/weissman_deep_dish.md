@@ -2,7 +2,7 @@ Weissman Deep Dish Pizza
 ========================
 
 Ingredients
-===========
+-----------
 Dough (2x):
 - 3 cups (430 g) all-purpose flour
 - ½ cup (82 g) corn meal
@@ -33,7 +33,7 @@ Toppings (1x):
 - Olive oil
 
 Directions
-==========
+----------
 Dough (2h):
 
 - Take the butter out of the fridge to soften.
@@ -96,8 +96,8 @@ Assembly:
 
 - Bake at 425°F until crust is golden brown (18-25 min).
 
-- KBK: HEat on stove until bottom is golden brown?
+- KBK: Heat on stove until bottom is golden brown?
 
 Reference
-=========
+---------
 https://www.youtube.com/watch?v=_cXVULu9RvE

@@ -1,5 +1,5 @@
 Thousand Island Dressing
-=====
+========================
 Time = 5 min prep + 30 min chill\
 Servings = approx 1 cup dressing\
 From: Aunt Gerry + Uncle Dan\

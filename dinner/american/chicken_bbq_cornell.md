@@ -1,5 +1,5 @@
 Cornell BBQ Chicken
-=====
+===================
 
 Time = 10 min prep + 2 hr marinade + 30 min cook \
 Servings = 6-8 servings \

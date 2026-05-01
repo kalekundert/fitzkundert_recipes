@@ -1,8 +1,8 @@
 Sherry French Toast
-====
+===================
 
 Ingredients
-===========
+-----------
 - 4 eggs
 - ½ cup of milk
 - ¼ cup of cream sherry
@@ -12,8 +12,8 @@ Ingredients
 - 12 slices day old French or Italian bread
 - 1 Tbsp ground cinnamon
 
-Recipe
-======
+Directions
+----------
 1. In a large mixing bowl, beat the eggs, add the milk, ½ of the cinnamon, 
    cream sherry, brown sugar, nutmeg and vanilla; stir well to combine.
 
@@ -26,6 +26,6 @@ Recipe
 4. Garnish with powdered sugar, cinnamon and/or maple syrup!
 
 Reference
-=========
+---------
 http://www.brotherhood-winery.com/entertainingEntrees2.html
 

@@ -1,15 +1,13 @@
 Chickpea Israeli Couscous Salad
-====
+===============================
 Servings: Approx 4 \
 Time: 10 min prep + 1-2 hr chill \
 From: The Kichn
 
-Ingredients:
-----
+Ingredients
+-----------
 
-Salad
------
-
+Salad:
 - 1 cup couscous (normal or Israeli)
 - 1 can chickpeas, rinsed & drained
 - 10 ounce container cherry tomatoes, halved
@@ -17,8 +15,7 @@ Salad
 - ½ cup crumbled feta cheese
 - Optional, 2 Tbsp fresh parsley, chopped (o)
 
-Dressing
---------
+Dressing:
 - ¼ cup extra virgin olive oil
 - ½ lemon, juiced
 - 2 Tbsp apple cider vinegar (can sub balsamic)
@@ -28,7 +25,7 @@ Dressing
 
 
 Directions
-----
+----------
 
 1. For the dressing, add all the ingredients to a bowl and whisk together. Adjust any seasonings if need be and set aside. 
 

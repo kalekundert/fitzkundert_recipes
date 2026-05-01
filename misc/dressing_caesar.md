@@ -1,8 +1,8 @@
 Caesar Dressing
-====
+===============
 
-Reagents
---------
+Ingredients
+-----------
 - 1 cup Mayonnaise
 - 1 Tbsp lemon juice
 - 1 tsp Worcestershire Sauce
@@ -12,6 +12,6 @@ Reagents
 - ½ cup Parmesan cheese
 - ¼ cup milk
 
-Procedure
----------
+Directions
+----------
 - Whisk all ingredients together until well mixed.

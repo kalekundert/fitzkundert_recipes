@@ -1,5 +1,5 @@
 Whiskey Sour
-=====
+============
 Time = 10 min \
 Servings = 1 drink \
 From: John Allan 

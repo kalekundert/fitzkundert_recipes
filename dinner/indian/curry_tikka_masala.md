@@ -2,7 +2,7 @@ Chicken Tikka Masala
 ====================
 
 Ingredients
-----
+-----------
 For the chicken:
 - 1 to 1½ pounds boneless, skinless chicken thighs
 - ½ cup whole-milk yogurt
@@ -26,8 +26,8 @@ For the sauce:
 To serve:
 - 3 cups cooked basmati rice
 
-Instructions:
-----
+Directions
+----------
 1. Trim the chicken thighs of any large piece of fat and lay them in a shallow dish. Whisk together the yogurt, lemon juice, cumin, and coriander. Pour the yogurt mixture over the thighs and stir to fully coat each piece. Chicken can be used immediately or marinated in the refrigerator for up to 6 hours. Chicken will become more tender and flavorful the longer it marinates.
 
 2. When ready to cook, line a baking sheet with foil and set a wire cooling rack over the baking sheet. Turn on the oven broiler to high with a rack positioned 6 inches below the broiling element.

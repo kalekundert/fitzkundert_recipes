@@ -1,11 +1,11 @@
 Pane Bianco
-=====
+===========
 Time = 30 min prep + 2 x 60 min rises + 35-40 min bake \
 Servings = 1 loaf of bread 
 
-Dough Ingredients
------------------
-
+Ingredients
+-----------
+Dough:
 - 360g King Arthur Unbleached Bread Flour
 - 2 tsp instant yeast
 - 8g table salt
@@ -14,9 +14,7 @@ Dough Ingredients
 - 74g water, lukewarm (or see notes section for *tangzhong technique*)
 - 35g olive oil
 
-Filling Ingredients
--------------------
-
+Filling:
 - 85g shredded Italian-blend cheese, or the cheese of your choice
 - 113g oil-packed sun-dried tomatoes or your own oven-roasted tomatoes
 - 3 to 6 garlic cloves, peeled and minced
@@ -24,8 +22,9 @@ Filling Ingredients
 
 Directions
 ----------
-
-1. Combine all of the dough ingredients in a bowl (or stand mixer). Mix and knead — by hand, using a mixer, to make a smooth, very soft dough. The dough should stick a bit to the bottom of the bowl if you're using a stand mixer.
+1. Combine all of the dough ingredients in a bowl (or stand mixer). Mix and 
+   knead — by hand, using a mixer, to make a smooth, very soft dough. The dough 
+   should stick a bit to the bottom of the bowl if you're using a stand mixer.
 
 2. Place the dough in a lightly greased bowl, cover, and let it rise until it's doubled in size, about 45 to 60 minutes. 
 
@@ -49,8 +48,8 @@ Directions
 
 Notes
 -----
-
-1. Recipe from King Arthur Flour [website](https://www.kingarthurbaking.com/recipes/pane-bianco-recipe)
+1. Recipe from King Arthur Flour 
+   [website](https://www.kingarthurbaking.com/recipes/pane-bianco-recipe)
 
 2. For an overnight rise: Follow the recipe as written through shaping the loaf (step 7). Cover the bread and refrigerate it for 8 to 12 hours, or overnight. When you are ready to bake, let the loaf rest at room temperature for about 15 to 20 minutes while the oven preheats to 350°F, then bake as directed (step 10). 
 

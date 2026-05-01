@@ -1,14 +1,14 @@
 Blueberry Streusel Coffee Cake
-=====
+==============================
 Time = 15 min prep + 40 min cook \
 Servings = 8 servings \
 From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
-Cake Ingredients
-----------------
-
+Ingredients
+-----------
+Cake:
 -  1 cup AP flour, sifted
 -  1.5 tsp baking powder
 -  ½ tsp salt
@@ -19,9 +19,7 @@ Cake Ingredients
 -  1 Tbsp lemon juice
 -  1 cup blueberries (fresh or thawed frozen)
 
-Streusel Ingredients
---------------------
-
+Streusel:
 -  ⅓ cup white sugar
 -  ¼ cup flour
 -  ⅛ tsp salt
@@ -30,7 +28,6 @@ Streusel Ingredients
 
 Directions
 ----------
-
 1.  Preheat oven to 375°F
 
 2.  Sift dry ingredients together. 

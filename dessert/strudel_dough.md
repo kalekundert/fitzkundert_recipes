@@ -2,15 +2,15 @@ Strudel Dough
 =============
 
 Ingredients
-===========
-596 g all-purpose flour
-2 spoonfuls all-purpose flour
-1 tsp salt
-410 g water
-1½ tsp vegetable oil
+-----------
+- 596 g all-purpose flour
+- 2 spoonfuls all-purpose flour
+- 1 tsp salt
+- 410 g water
+- 1½ tsp vegetable oil
 
-Instructions
-============
+Directions
+----------
 1. Mix ingredients
 
 2. Knead until very smooth.

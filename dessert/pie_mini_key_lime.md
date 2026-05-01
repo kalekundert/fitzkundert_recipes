@@ -1,5 +1,5 @@
 Mini Key Lime Pies
-====
+==================
 
 Time = 15 min prep + 20 min cook + 2 hr rest
 Servings = 16 mini pies
@@ -8,13 +8,13 @@ From: MacKenzie Harrigan
 Ingredients
 -----------
 
-*Crust*
+- *Crust*
 
 - 180g graham cracker crumbs (about 12 full sheet graham crackers)
 - 6 Tbsp (85g) unsalted butter, melted
 - ¼ cup (50g) granulated sugar
 
-*Filling*
+- *Filling*
 
 - 4 ounces (113g) full-fat brick cream cheese, softened to room temperature
 - 4 large egg yolks

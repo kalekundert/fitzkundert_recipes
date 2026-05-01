@@ -2,7 +2,7 @@ Milk Tea with Boba
 ==================
 
 Ingredients
-===========
+-----------
 Boba:
 - Instant tapioca pearls
 
@@ -17,7 +17,7 @@ Simple syrup:
 - 3 Tbsp water
 
 Directions
-==========
+----------
 - Warm tapioca pearls as per instructions.
 
 - Steep tea for 4 min.
@@ -25,5 +25,5 @@ Directions
 - Combine tea, boba, and cream.  Add simple syrup to taste.
 
 References
-==========
+----------
 [1] https://www.livingrichlyonabudget.com/how-to-make-bubble-milk-tea-like-a-boba-shop/

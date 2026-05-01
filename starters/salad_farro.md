@@ -1,5 +1,5 @@
 Farro Salad
-=====
+===========
 Time = 30-40 min \
 Servings = approx 2-3 servings \
 From: BlueApron \

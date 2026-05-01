@@ -2,7 +2,7 @@ Monster Cookies
 ===============
 
 Ingredients
-===========
+-----------
 - 1½ cups creamy or chunky peanut butter
 - 1 cup packed light brown sugar
 - 1 cup granulated white sugar
@@ -15,7 +15,7 @@ Ingredients
 - 1 cup M&M's plain chocolate candies
 
 Directions
-==========
+----------
 1. Preheat oven to 350°F. Spray cookie sheets with nonstick spray, or line with 
    parchment paper or a silpat mats.
 

@@ -2,13 +2,13 @@ Grenadine
 =========
 
 Ingredients
-===========
+-----------
 1 cup syrup:
 - 113 g pomegranate juice (½ cup, 150 g seeds)
 - 100 g sugar (just less than ½ cup)
 
 Directions
-==========
+----------
 - Combine juice and sugar.
 
 - Keep at room temperature, stirring occasionally, until the sugar dissolves 
@@ -18,7 +18,7 @@ Directions
   Expect a shelf-life of 3-6 months.
 
 Notes
-=====
+-----
 - [1] calls for some fancier ingredients too, but "pomegranate simple syrup" 
   seems to be a common way to make grenadine.
 
@@ -59,8 +59,8 @@ Notes
     - Cocktail recipes all assume that grenadine is a simple syrup, and it's a 
       pain to try to adjust for that.
 
-Reference
-=========
+References
+----------
 [1] https://www.liquor.com/grenadine-recipe-5071284
 [2] https://www.seriouseats.com/cocktail-science-simple-syrup-do-not-cook-it-unheated-cool-sugar-syrup-for-drinks
 [3] https://fdc.nal.usda.gov/fdc-app.html#/food-details/2344824/nutrients

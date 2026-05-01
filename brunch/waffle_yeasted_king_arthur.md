@@ -1,8 +1,8 @@
 Yeast-Risen Waffle Batter
-=====
+=========================
 
 Ingredients
-----
+-----------
 - 1½ cups milk (340 mL)
 - 6 Tbsp butter (85g, melted)
 - 2-3 Tbsp maple syrup (39-57g, optional)
@@ -12,8 +12,8 @@ Ingredients
 - 241 g all-purpose flour
 - 1½ tsp instant yeast
 
-Recipe
-----
+Directions
+----------
 1. Combine all the ingredients in a large bowl.  Mix until well-incorporated, 
    but don't knead.
 
@@ -23,5 +23,5 @@ Recipe
    off.
 
 Reference
-----
+---------
 http://www.kingarthurflour.com/recipes/belgian-style-yeast-waffles-recipe

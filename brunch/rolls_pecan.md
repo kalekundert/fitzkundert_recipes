@@ -1,31 +1,37 @@
 Pecan Rolls
-=====
-Time = 15 min prep + overnight + 25 min cook \
-Servings = 6-8 people \
-From: Kevin and Jill
+===========
+From Kevin and Jill
 
-Ingredients--Rolls
-------------------
+Time
+----
+- Preparation: 15 min
+- Rise: overnight
+- Bake: 25 min
 
--   16-18 frozen white bread rolls (Rhodes's rolls or similar)
--   ½ cup unsalted butter
--   ½ cup brown sugar
--   1 package of butterscotch pudding mix (regular, not instant. See notes below)
--   pecans
--   cinnamon
--   bundt pan
+Ingredients
+-----------
+- 6-8 servings
 
-Ingredients-Butterscotch Pudding
---------------------------------
+Rolls:
+- 16-18 frozen white bread rolls (Rhodes's rolls or similar)
+- ½ cup unsalted butter
+- ½ cup brown sugar
+- 1 package of butterscotch pudding mix (regular, not instant. See notes below)
+- pecans
+- cinnamon
+- Bundt pan
 
--   ¼ cup brown sugar
--   1 Tbsp sugar
--   2 Tbsp dried milk powder
--   3 Tbsp cornstarch
--   pinch of salt
+Butterscotch Pudding:
+- ¼ cup brown sugar
+- 1 Tbsp sugar
+- 2 Tbsp dried milk powder
+- 3 Tbsp cornstarch
+- pinch of salt
 
-Roll Directions--the night before
----------------------------------
+Directions
+----------
+
+The night before:
 
 1.  Grease a bundt pan and scatter pecans evenly in the bottom
 
@@ -37,15 +43,13 @@ Roll Directions--the night before
 
 5.  Cover with saran wrap and let rise overnight at room temp.
 
-Roll Directions--the next morning
----------------------------------
+The morning of:
 
 6.  Preheat oven at 350°F. Once oven is preheated, bake for 25 min.
 
 7.  Allow to cool for 3-4 min before carefully inverting onto a serving platter. Scrape out any toppings hiding in the pan onto the top of the rolls.
 
-Pudding Directions
-------------------
+Pudding:
 
 1.  Mix together all ingredients
 

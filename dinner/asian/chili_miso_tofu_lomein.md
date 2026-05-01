@@ -1,5 +1,5 @@
 Chili Tofu with Miso Lo Mein
-====
+============================
 
 Time = 15 min prep + 20 min cook \
 Servings = 2 hearty servings \

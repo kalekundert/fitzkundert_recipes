@@ -1,5 +1,5 @@
 Quinoa and Spinach Chowder
-====
+==========================
 Time = 45 min \
 Servings = about 4 \
 From: Alli Wong

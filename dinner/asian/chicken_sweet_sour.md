@@ -1,5 +1,5 @@
 Sweet and Sour Baked Chicken
-====
+============================
 Time = 15 min prep + 60 min bake
 Servings = 4 servings
 
@@ -7,14 +7,14 @@ Servings = 4 servings
 Ingredients
 -----------
 
-*For the Chicken* \
+- *For the Chicken* \
 - 3-4 boneless, skinless chicken breasts
 - Salt and pepper to taste
 - 1½ cup cornstarch
 - 3 eggs, beaten
 - ¼ cup canola oil
 
-* For the Sweet and Sour Sauce* \
+- * For the Sweet and Sour Sauce* \
 - 1 cup granulated sugar
 - 4 Tbsp ketchup
 - ¼ cup white vinegar

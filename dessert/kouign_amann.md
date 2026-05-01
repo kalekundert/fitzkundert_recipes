@@ -2,7 +2,7 @@ Kouign-Amann
 ============
 
 Ingredients
-===========
+-----------
 - 300g (10½ oz) strong plain flour, plus extra for dusting
 - 5g fast-action yeast
 - 1 tsp salt
@@ -12,7 +12,7 @@ Ingredients
 - 100g (3½ oz) caster sugar, plus extra for sprinkling
 
 Directions
-==========
+----------
 - Put the flour into the bowl of a freestanding mixer fitted with a dough hook. 
   Add the yeast to one side of the bowl and the salt to the other. Add the 
   water and melted butter and mix on a slow speed for two minutes, then on a 

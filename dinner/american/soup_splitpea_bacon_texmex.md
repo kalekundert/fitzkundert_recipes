@@ -1,5 +1,5 @@
 Tex-Mex Split Pea Soup
-=====
+======================
 
 Time = 5 min prep + 4-8 hr cook \
 Servings = 4-6 servings \

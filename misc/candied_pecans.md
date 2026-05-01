@@ -1,14 +1,17 @@
-Reagents
-========
-1 large egg white
-½ cup sugar
-1 tsp nutmeg
-1 tsp cinnamon
-½ tsp salt
-2 cups pecan halves
+Candied Pecans
+==============
 
-Procedure
-=========
+Ingredients
+-----------
+- 1 large egg white
+- ½ cup sugar
+- 1 tsp nutmeg
+- 1 tsp cinnamon
+- ½ tsp salt
+- 2 cups pecan halves
+
+Directions
+----------
 1. Preheat oven to 350°F.
 2. Prepare a baking sheet.
 
@@ -21,7 +24,7 @@ Procedure
 8. Let cool before eating.
 
 Notes
-=====
+-----
 1. The bottom of the pecans got a little burnt.
 2. This recipe makes more than enough batter for two cups of pecans.  I would
    try using closer to four cups next time.

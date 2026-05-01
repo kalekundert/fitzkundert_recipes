@@ -1,5 +1,5 @@
 Traditional Argentine Beef or Corn Empanadas
-====
+============================================
 
 Time = 30 min prep + 40 min cook \
 Servings = 12 hearty servings \
@@ -9,13 +9,13 @@ From: Milagros Pereira Luppi (SCRB)
 Ingredients
 -----------
 
-Dough - Makes ~12 discs, or find them in the frozen section at grocery stores such as Market Basket
+- Dough - Makes ~12 discs, or find them in the frozen section at grocery stores such as Market Basket
 - 360 g all-purpose flour
 - 1 tsp salt
 - 120 g unsalted butter or beef fat (room temp)
 - 180 ml warm water 
 
-Beef Filling
+- Beef Filling
 - 2 Tbsp vegetable oil or beef fat
 - 1 large onion, finely diced
 - 1 red bell pepper, finely diced (optional but traditional)
@@ -31,7 +31,7 @@ Beef Filling
 - ½ cup pitted green olives, chopped (optional)
 - 1 egg for egg wash. 
 
-Corn Filling
+- Corn Filling
 
 - 2 Tbsp butter
 - 1 Tbsp vegetable oil

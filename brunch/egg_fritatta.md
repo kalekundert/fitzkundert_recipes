@@ -1,8 +1,8 @@
-Fritatta
-====
+Mexican Fritatta
+================
 
 Ingredients
-===========
+-----------
 - 1 cup cooked Mexican rice
   - ½ cup rice
   - ¼ tsp salt
@@ -23,9 +23,8 @@ Ingredients
 - 2 tsp salt
 - 8 eggs
 
-
-Recipe
-======
+Directions
+----------
 1. Heat the oven: Arrange a rack in the middle of the oven and heat to 400°F.
 
 2. Cook the rice: Heat 1-2 Tbsp oil in a sauce pot over medium-high heat.  Add 
@@ -63,5 +62,5 @@ Recipe
    serve. Leftovers will keep refrigerated for a week.
 
 References
-==========
+----------
 http://www.thekitchn.com/how-to-make-a-frittata-cooking-lessons-from-the-kitchn-170717

@@ -1,11 +1,11 @@
 Baked Brie
-=====
+==========
 Time = 5 min prep + 15 min bake\
 Servings = 1 wheel of dip \
 From: cheezy talk with madelyn
 
 Ingredients
-----
+-----------
 - 1 small wheel of bree 
 - candied nuts, rough chopped
 - fig jam
@@ -13,7 +13,7 @@ Ingredients
 
 
 Directions
-----
+----------
 
 1. Score the brie in a diamond cross-hatch pattern
 

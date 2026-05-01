@@ -1,5 +1,5 @@
 Beef chili 
-======
+==========
 Time = 15 min prep and 2.5 hr (or longer) cook\
 Servings = feeds an army (approx 8-12 people)\
 From = Kevin McCusker

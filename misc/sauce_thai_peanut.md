@@ -1,5 +1,5 @@
 Thai Peanut Sauce
-=====
+=================
 Time = 5 min prep + 10 min cook \
 Servings =  1 large jar (approx 3-4 cups) \
 From = Alexis-Clair Roehrich

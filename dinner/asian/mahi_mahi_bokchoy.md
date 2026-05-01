@@ -1,5 +1,5 @@
 Macadamia Crusted Mahi Mahi
-====
+===========================
 Time = 10 min prep + 25 min cook \
 Servings = 2-4 (depending upon size of package) \
 From = Lauren Hecht

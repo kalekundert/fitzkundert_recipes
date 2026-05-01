@@ -1,13 +1,14 @@
 Chicken Fiesta Casserole
-=====
+========================
 
 Time = 10 min prep + 30 min cook \
 Servings = 4-6 servings \
 From = Reddit
 
 
-Base Ingredients
-----------------
+Ingredients
+-----------
+Base:
 - 4 cups cooked, shredded chicken
 - 1 15 oz can Ro-Tel diced tomatoes with green chilies
 - 1 cup instant rice, uncooked
@@ -19,8 +20,7 @@ Base Ingredients
 - ½ cup canned low-sodium black beans, drained and rinsed
 - chopped cilantro (optional garnish)
 
-Ingredient Variations
----------------------
+Variations:
 - ¼ cup sauted onions
 - smoked paprika (to your taste)
 - ground beef or ground pork (swap out chicken)

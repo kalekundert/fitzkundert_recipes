@@ -2,7 +2,7 @@ Enchilada Tomatillo Sauce
 =========================
 
 Ingredients
-===========
+-----------
 4 servings:
 - 1 lb tomatillos
 - 4 cloves garlic
@@ -17,12 +17,12 @@ Ingredients
   - 2 tsp stock concentrate
 - 1 lime
 
-The precise selection of peppers isn't critical.  For a hotter sauce, maybe 
-substitute a poblano for a jalapeno, serrano, or habanero.  For a milder sauce, 
-maybe substitute a serrano for a poblano.
+- The precise selection of peppers isn't critical.  For a hotter sauce, maybe 
+- substitute a poblano for a jalapeno, serrano, or habanero.  For a milder sauce, 
+- maybe substitute a serrano for a poblano.
 
 Directions
-==========
+----------
 - Preheat oven to 425°F
 
 - Prepare the vegetables:
@@ -51,10 +51,10 @@ Directions
 - Transfer to a sauce pot and simmer for 5-10 min, to thicken.
 
 Notes
-=====
+-----
 - 2025/12/23: I tried making the sauce with 1 poblano, 4 jalapenos, 1 serrano, 
   and 1 Tbsp chili powder.  It turned out too spicy for us.
 
 Reference
-=========
+---------
 https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/homemade-green-enchilada-sauce-with-roasted-tomatillos/

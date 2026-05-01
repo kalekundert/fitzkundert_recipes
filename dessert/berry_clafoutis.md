@@ -1,8 +1,8 @@
 Berry Clafoutis
-====
+===============
 
 Ingredients
-----
+-----------
 - 1¼ cups milk (whole or 2%)
 - ⅔ cups sugar
 - 3 eggs
@@ -13,8 +13,8 @@ Ingredients
 - powdered sugar
 - butter (for greasing the pan)
 
-Recipe
-----
+Directions
+----------
 1. Preheat oven to 350°F and grease a baking pan.
 
 2. Blend the milk, sugar (just ⅓ cup), eggs, vanilla, flour, and salt at top 
@@ -33,18 +33,19 @@ Recipe
 6. Sprinkle with powdered sugar and serve warm.
 
 Notes
-----
-A commenter says:
+-----
+- A commenter says:
 
     Prefer recipe from "A Provincial Table," by Richard Olney
-    2 TBS butter
-    1 pound apricots, halved and pitted
-    2 oz slivered almonds
-    ⅔ cup sugar
-    Pinch of salt
-    3 eggs
-    ½ cup flour
-    1-¼ cup milk
+
+    - 2 TBS butter
+    - 1 pound apricots, halved and pitted
+    - 2 oz slivered almonds
+    - ⅔ cup sugar
+    - Pinch of salt
+    - 3 eggs
+    - ½ cup flour
+    - 1-¼ cup milk
 
     Preheat oven to 375°F. Butter shallow baking dish. Arrange apricots, cut 
     surface down in single layer. Add almonds. Whisk together ½ cup sugar, 

@@ -1,8 +1,8 @@
 Tamale Pie
-=====
+==========
 
 Ingredients
-----
+-----------
 - 2 Tbsp butter
 - 1 lb ground beef
 - 1 onion (chopped)
@@ -16,8 +16,8 @@ Ingredients
 - ½ tsp cumin
 - 2 cups pepper jack cheese (grated)
 
-Recipe
-----
+Directions
+----------
 - Melt butter in a large skillet over medium-high heat.
 
 - Add beef and onion and cook until the meat is browned.  Drain the fat.
