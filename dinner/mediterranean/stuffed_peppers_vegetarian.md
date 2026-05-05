@@ -1,19 +1,19 @@
 Vegetarian Stuffed Peppers
 ==========================
 Total Time = 15 min prep + 40 min cook \
-Servings = 4 people 
 
 Ingredients
 -----------
--  4 bell peppers (red or green), sliced in half from stem and deseeded
--  2 shallots, minced
--  2 cloves garlic, minced
--  4 roma tomatoes, fine diced
--  1.5 cups Israeli couscous
--  2 Tbsp Italian seasoning blend
--  10 Tbsp balsamic vinegar
--  1 cup mozzarella cheese, shredded
--  1 tsp red chili flakes
+2 servings:
+-  2 bell peppers (red or green), sliced in half from stem and deseeded
+-  1 shallot, minced
+-  1 clove garlic, minced
+-  2 roma tomatoes, fine diced
+-  3/4 cups (168 g, depending on brand) Israeli couscous
+-  1 Tbsp Italian seasoning blend
+-  5 Tbsp balsamic vinegar
+-  1/2 cup mozzarella cheese, shredded
+-  1/2 tsp red chili flakes
 -  1 small bunch Italian parsley, minced
 -  1 small bunch chives, thin sliced
 -  vegetable stock concentrate
@@ -22,7 +22,7 @@ Ingredients
 
 Directions
 ----------
-1. Adjust oven rack to top position and preheat to 425 ºF. 
+1. Adjust oven rack to top position and preheat to 425ºF. 
 
 2. Halve bell peppers and remove seeds and stems
 
@@ -30,9 +30,9 @@ Directions
 
 4. Heat drizzle of olive oil in medium pot over medium heat. Add couscous, shallot, garlic, italian seasoning, and half the tomatoes. Cook, stirring, for 1-2 min or until garlic is fragrant. 
 
-5. Add 1.5 cups water, vegetable stock concentrate, and pinch of salt. Bring to boil then reduce heat to low. Cover and cook approx 8 min or until couscous is tender. 
+5. Add water, vegetable stock concentrate, and pinch of salt. Bring to boil then reduce heat to low. Cover and cook approx 8 min or until couscous is tender. 
 
-6. In a medium bowl, combine ½ tomatoes, chives, ½ parsley, olive oil, and balsamic vinegar. Season to taste with salt and pepper. 
+6. In a medium bowl, combine half the tomatoes, chives, half the parsley, olive oil, and balsamic vinegar. Season to taste with salt and pepper. 
 
 7. Once peppers are done, remove from the oven. Turn off the oven and turn ON the broiler. 
 
