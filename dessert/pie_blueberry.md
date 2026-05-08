@@ -5,9 +5,9 @@ Ingredients
 -----------
 - ⅓ cup water
 - 250 g (1¼ cup) sugar
-- 6 Tbsp (⅜ cups, ¼ cup + 2 Tbsp) corn starch
+- 6 Tbsp (48g, ⅜ cups, ¼ cup + 2 Tbsp) corn starch
 - ¼ tsp salt
-- 6 cups blueberries
+- 6 cups (840g) blueberries
 - 2 Tbsp butter (unsalted)
 - 1 tsp lemon juice
 - 10" pie shell
