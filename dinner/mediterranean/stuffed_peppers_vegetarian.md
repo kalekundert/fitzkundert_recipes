@@ -30,7 +30,7 @@ Directions
 
 4. Heat drizzle of olive oil in medium pot over medium heat. Add couscous, shallot, garlic, italian seasoning, and half the tomatoes. Cook, stirring, for 1-2 min or until garlic is fragrant. 
 
-5. Add water, vegetable stock concentrate, and pinch of salt. Bring to boil then reduce heat to low. Cover and cook approx 8 min or until couscous is tender. 
+5. Add 3/4 cups (177 mL) water, vegetable stock concentrate, and pinch of salt. Bring to boil then reduce heat to low. Cover and cook approx 8 min or until couscous is tender. 
 
 6. In a medium bowl, combine half the tomatoes, chives, half the parsley, olive oil, and balsamic vinegar. Season to taste with salt and pepper. 
 
