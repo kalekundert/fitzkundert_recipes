@@ -17,9 +17,7 @@ Ingredients
   - 2 tsp stock concentrate
 - 1 lime
 
-- The precise selection of peppers isn't critical.  For a hotter sauce, maybe 
-- substitute a poblano for a jalapeno, serrano, or habanero.  For a milder sauce, 
-- maybe substitute a serrano for a poblano.
+The precise selection of peppers isn't critical.  For a hotter sauce, maybe substitute a poblano for a jalapeno, serrano, or habanero.  For a milder sauce, maybe substitute a serrano for a poblano.
 
 Directions
 ----------
