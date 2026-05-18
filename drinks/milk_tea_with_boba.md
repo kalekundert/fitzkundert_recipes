@@ -10,11 +10,8 @@ Milk Tea:
 - 235 g (1 cup) water, 100°C
 - 5 bags black tea
 - 85 g half and half
+- 25 g maple syrup
 - 113 g ice
-
-Simple syrup:
-- 6 Tbsp brown sugar
-- 3 Tbsp water
 
 Directions
 ----------
@@ -22,7 +19,15 @@ Directions
 
 - Steep tea for 4 min.
 
-- Combine tea, boba, and cream.  Add simple syrup to taste.
+  - Remove the teabags without squeezing them, to minimize bitterness.
+
+- Add the ice and stir until the ice is melted and the tea is cool.
+
+- Add the cream and syrup.  Adjust the amount of syrup to taste.
+
+- Add the boba and (if desired) more ice.
+
+- Serve with a big straw!
 
 References
 ----------
