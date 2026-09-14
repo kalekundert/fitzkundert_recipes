@@ -8,9 +8,9 @@
 
 ## Ingredients
 
-### 8 scones
+8 scones
 
-Scones:
+### Scones
 - 240 g all-purpose flour
 - 100 g granulated sugar
 - 1 tbsp matcha powder, ceremonial grade or high-quality culinary grade
@@ -23,7 +23,7 @@ Scones:
 - 1 tbsp heavy cream, for brushing on scones
 - 3 tbsp coarse sugar, for sprinkling
 
-Icing:
+### Icing
 - 50 g powdered sugar
 - ½ tsp matcha powder, ceremonial grade or high-quality culinary grade
 - 4 tsp heavy cream
@@ -34,45 +34,72 @@ Icing:
 
 - Line a baking sheet with parchment paper and set aside.
 
-- Mix dry ingredients: In a large mixing bowl, stir together flour, sugar, 
-  matcha powder, baking powder, and salt.
+- Mix dry ingredients:
 
-- Cut butter into flour: Add the cubed butter and toss to coat in the flour 
-  mixture. Break the butter pieces into small pea-sized pieces with a dough 
-  blender or by pressing them in between your fingers.
+  - In a large mixing bowl, stir together flour, sugar, matcha powder, baking 
+    powder, and salt.
 
-- Mix wet ingredients: In a separate medium bowl, whisk together heavy cream, 
-  the egg, and vanilla extract.
+- Cut butter into flour:
 
-- Add wet mixture - Make a well in the middle of the flour mixture. Pour the 
-  wet mixture into the well and mix until it forms a soft and crumbly dough. 
-  Some dry patches are fine but the dough should hold together when pressed.
+  - Add the cubed butter and toss to coat in the flour mixture.
+  - Break the butter pieces into small pea-sized pieces with a dough blender or 
+    by pressing them in between your fingers.
 
-- Press dough together: Turn the dough out onto a lightly floured surface. With 
-  floured hands, press the dough together into a flattened disc shape that's 
-  about 1" thick.
+- Mix wet ingredients:
 
-- Cut dough: Use a bench scraper or a knife to cut the dough into 8 wedges. 
-  Transfer them to your lined baking sheet, leaving about 2" in between each 
-  one.
+  - In a separate medium bowl, whisk together heavy cream, the egg, and vanilla 
+    extract.
 
-- Chill and preheat: Place the entire baking sheet into the fridge to chill 
-  while you preheat the oven to 400°F.
+- Add wet mixture:
 
-- Brush scones: Right before baking, brush the tops of each scone with a thin 
-  layer of heavy cream. Sprinkle coarse sugar on top of the cream.
+  - Make a well in the middle of the flour mixture.
+  - Pour the wet mixture into the well and mix until it forms a soft and 
+    crumbly dough.
+  - Some dry patches are fine but the dough should hold together when pressed.
 
-- Bake: Bake scones for 18-20 minutes or until the tops are lightly golden 
-  brown. Let them cool on the baking sheet until firm enough to transfer to a 
-  wire rack.
+- Press dough together:
+
+  - Turn the dough out onto a lightly floured surface.
+  - With floured hands, press the dough together into a flattened disc shape 
+    that's about 1" thick.
+
+- Cut dough:
+
+  - Use a bench scraper or a knife to cut the dough into 8 wedges.
+  - Transfer them to your lined baking sheet, leaving about 2" in between each 
+    one.
+
+- Chill and preheat:
+
+  - Place the entire baking sheet into the fridge to chill while you preheat 
+    the oven to 400°F.
+
+- Brush scones:
+
+  - Right before baking, brush the tops of each scone with a thin layer of 
+    heavy cream.
+  - Sprinkle coarse sugar on top of the cream.
+
+- Bake:
+
+  - Bake scones for 18-20 minutes or until the tops are lightly golden brown.
+  - Let them cool on the baking sheet until firm enough to transfer to a wire 
+    rack.
 
 ### Icing
 
-- Mix: In a small bowl, stir together powdered sugar, matcha powder, and heavy 
-  cream until it becomes a thick but fluid icing. If it's too thick, add a bit 
-  more cream. If it's too thin, add a bit more powdered sugar.
+- Mix:
 
-- Drizzle: Transfer the icing to a piping bag, cut the tip off, and drizzle it 
-  on top of each scone, or simply add a dollop on top of each one with a spoon.
+  - In a small bowl, stir together powdered sugar, matcha powder, and heavy 
+    cream until it becomes a thick but fluid icing.
+  - If it's too thick, add a bit more cream. If it's too thin, add a bit more 
+    powdered sugar.
 
+- Drizzle:
 
+  - Transfer the icing to a piping bag, cut the tip off, and drizzle it on top 
+    of each scone, or simply add a dollop on top of each one with a spoon.
+
+## Reference
+
+https://teakandthyme.com/matcha-scones/#recipe
