@@ -19,6 +19,7 @@ Ingredients
 - 1.5 Tbsp dark brown sugar
 - 3 or 4 cups vegetable stock
 - 2 tsp Worcestershire sauce
+- 1/3 cup red wine vinegar or sherry vinegar
 - 2 15oz cans chickpeas, drained and rinsed
 - 1 bay leaf
 
