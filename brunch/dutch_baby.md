@@ -1,5 +1,8 @@
+Dutch Baby
+==========
+
 Ingredients
-===========
+-----------
 Dry:
 - 67 g (½ cup) flour (sifted)
 - 38 g (3 tbsp) sugar
@@ -17,7 +20,7 @@ Miscellaneous:
 - Powdered sugar
 
 Directions
-==========
+----------
 1. Preheat oven to 375°F.
 
 2. Put a cast iron skillet in the preheating oven, with 3 tbsp butter.
@@ -49,7 +52,7 @@ Directions
 6. Sprinkle with powdered sugar and serve with lemon wedges.
 
 Notes
-=====
+-----
 1. I'm curious if the order of mixing the butter/flour/eggs matters.  My 
    thought is that the butterfat can either: (i) inhibit gluten formation or 
    (ii) be emulsified by the eggs.  bind the gluten and the egg will emulsify 
@@ -79,5 +82,5 @@ Notes
    Update: This doesn't work at all: you basically get a huge pancake.
 
 Reference
-=========
+---------
 https://www.foodnetwork.com/recipes/dutch-baby-recipe0-1939525
