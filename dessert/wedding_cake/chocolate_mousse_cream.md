@@ -13,7 +13,7 @@ Custard:
 
 Whipped cream:
 - 315 g (1¼ cups) heavy whipping cream
-- 2 Tbsp sugar
+- 25 g (2 Tbsp) sugar
 
 Directions
 ----------
