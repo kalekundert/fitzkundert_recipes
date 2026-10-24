@@ -21,6 +21,8 @@ Ingredients
 - 1 pint (2 cups) heavy whipping cream
 - 1 stick unsalted butter
 - 1 stick salted butter
+- blackberries
+- raspberries
 
 Notes
 =====
