@@ -3,7 +3,7 @@ Similac Pro-Total Comfort
 4 oz:
 - 118 mL water
 - 17 g formula
-- 
+
 6 oz:
 - 177 mL water
 - 26 g formula
