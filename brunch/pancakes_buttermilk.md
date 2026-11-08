@@ -16,8 +16,8 @@ Dry:
 
 Wet:
 -  2 large eggs, separated
--  1.5 cups (12 ounces) buttermilk (see notes)
--  1 cup (240 g) sour cream (see notes)
+-  340 g (1.5 cups, 12 oz) buttermilk (see notes)
+-  240 g (1 cup) sour cream (see notes)
 -  56 g (4 Tbsp) unsalted butter, melted
 -  Warm maple syrup
 
