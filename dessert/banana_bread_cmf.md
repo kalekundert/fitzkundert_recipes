@@ -15,7 +15,7 @@ Ingredients
 - 1 large egg
 - 200 g (1 cup) granulated sugar
 - 1 cup mashed ripe banana (approx 2.5 or 3 overripe, black bananas)
-- ¼ cup cooking oil
+- 55 g (¼ cup) cooking oil
 
 Optional:
 - ½ cup currents, raisins, or semi-sweet chocolate chips
