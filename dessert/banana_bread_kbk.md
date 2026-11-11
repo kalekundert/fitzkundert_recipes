@@ -1,5 +1,5 @@
-Banana Cake
-===========
+Kale's Banana Bread
+===================
 
 Ingredients
 -----------
